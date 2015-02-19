@@ -126,7 +126,7 @@ With the exception of editing the CSS tab, we have not done anything
 that required us to do more than select something from a menu.
 We have gotten a lot with this approach, but in order to go further
 we'll need to start writing our own queries using SQL (specifically, a
-flavor called PostGRES).
+flavor called PostgreSQL).
 
 We can start with a very basic query to filter the census data
 (if you are familiar with SQL, note that CartoDB does not have a
@@ -239,7 +239,7 @@ discrete coloring ramp, it seems that this can (almost) differentiate
 modes of transportation used during the locates. Tweaking the CSS
 would get even closer.
 
-### Additional PostGRES-Specific SQL Functions (time permitting)
+### Additional PostgreSQL-Specific SQL Functions (time permitting)
 
 There are a range of other custom functions provided by the CartoDB
 flavor of SQL. I'm not going to give a full description of these,
@@ -257,14 +257,14 @@ SELECT
   openpaths_nolauren.the_geom,
   openpaths_nolauren.the_geom_webmercator,
   lt_zips.zcta5ce10,
-  lt_zips.DP0010001 / ST_Area() as pop_density
+  lt_zips.DP0010001 / ST_Area(lt_zips.the_geom::geography) as pop_density
 FROM
   openpaths_nolauren,
   lt_zips
 WHERE
   ST_Intersects(openpaths_nolauren.the_geom, lt_zips.the_geom)
 AND
-  ST_Area() > 0
+  ST_Area(lt_zips.the_geom::geography) > 0
 ```
 This, for instance, would have been a good way to standardize
 the counts per zip code we did earlier.
