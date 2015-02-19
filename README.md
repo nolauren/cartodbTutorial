@@ -112,7 +112,7 @@ subsets the raw file to include only zip codes between NYC and New Haven,
 the only part we'll need for this tutorial anyway.
 
 This time, we'll drag the entire zip file `lt_zips.zip` into CartoDB.
-Notice that the data tab still has a field called ``the_geom_webmercator`,
+Notice that the data tab still has a field called `the_geom_webmercator`,
 but now the format seems to have changed from the other data sources.
 Clicking on the map view, we see that this in this dataset each row
 coorisponds to a region in space rather than an individual point. The
@@ -239,7 +239,7 @@ discrete coloring ramp, it seems that this can (almost) differentiate
 modes of transportation used during the locates. Tweaking the CSS
 would get even closer.
 
-### Additional PostgreSQL-Specific SQL Functions (time permitting)
+### Additional PostgreSQL-Specific Functions (time permitting)
 
 There are a range of other custom functions provided by the CartoDB
 flavor of SQL. I'm not going to give a full description of these,
