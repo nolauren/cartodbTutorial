@@ -7,6 +7,12 @@ the nice UI is actually proprietary. Fortunately, they offer a
 good free-tier of the service (no credit card needed; just an e-mail)
 which should suffice for the purposes of this tutorial.
 
+### Set-Up Account
+Go to https://cartodb.com/industries/education-and-research/ and sign-up.
+I suggest using your @yale.edu account. It will give you access to an 
+education account, which comes with more options than a non-education account. 
+
+
 ### Working with Openpaths data in CartoDB
 
 Importing data to CartoDB is, in theory, very easy. Just drag
@@ -19,8 +25,8 @@ parsed correctly, so I recommend using the csv option.
 The data view shows a tabular representation of the data we
 loaded into CartoDB. The program has already detected which
 columns coorispond to latitude and longitude and has created
-variables called `the_geom` and `the_geom_webmercator`. These
-are special data types that tell CartoDB where each row should
+variables called `the_geom`. This is a special data types that 
+tell CartoDB where each row should
 be mapped. There is also a column called `cartodb_id` with a
 unique identifier for each row; we will use this a bit in this
 tutorial, but it is particularly useful when integrating with
@@ -32,19 +38,41 @@ Switching to the map view, we begin to see the benefits of using
 a tool like CartoDB. A reasonably nice map has been constructed
 out of the box from the data we imported. Zooming in and out,
 you'll notice that the map has discrete zoom levels. That's because
-the map is being created by a tile server which serves rasterized
-tiles to the browser. Feel free to play around with the base map
+the map is being created by a tile server, which serves rasterized
+tiles to the browser. 
+
+What's the difference between rastor and vector data?
+
+vector data model: [data models] A representation of the world using 
+points, lines, and polygons. Vector models are useful for storing data
+that has discrete boundaries, such as country borders, land parcels,
+and streets. - ESRI GIS Dictionary
+
+In other words, it is the acutal shapes. It is stored as points (x,y). 
+
+raster data model: [data models] A representation of the world as a 
+surface divided into a regular grid of cells. Raster models are useful 
+for storing data that varies continuously, as in an aerial photograph, 
+a satellite image, a surface of chemical concentrations,
+or an elevation surface. - ESRI GIS Dictionary
+
+In other words, it is a picture. It is stored as pixels. 
+(You can't do analytics on rastor data.)
+
+Feel free to play around with the base map
 and to tweak the look of the points with the visualization wizard.
 I like to remove the border around the points for a cleaner look.
 If we apply color, we can use quantiles of the timestamp or id to
 create a sense of time on the map.
 
-One of the best improvements the CartoDB since I started using it,
-is the inclusion of a visualization called `torque`. It adds a much
-better dimension of temporality to the data than possible from
+Check out the wizard for different for different visualizations.  
+One that is particularly interesting is `torque`. 
+What does this offer us?
+
+It adds a much better dimension of temporality to the data than possible from
 color alone. It is particularly helpful for
-natively spatio-temporal like the output from Openpaths. If we
-do a heatmap torque, which does look very nice, what is the heatmap
+natively spatio-temporal like the output from Openpaths. 
+If we do a heatmap torque, which does look very nice, what is the heatmap
 suppose to represent?
 
 Other than space and time, the Openpaths data does not give us much
