@@ -72,35 +72,9 @@ tab. Finally, using the visualization button in the top right,
 we can save and publish this map. The resulting url can be
 distributed for access to anyone with the link.
 
-### Galileo data
 
-Galileo is another app for collecting data from a mobile device.
-It uses GPS, and provides a much more grainular view of the trajectory
-of the user. Galielo does natively allow for exporting as a csv,
-and unfortunately the kml file is not readable by CartoDB (it creates
-a dataset with only one point). I've written an R script contained in
-this repository called `convertGalileo.R` for converting the kml
-file into a csv file which we can load directly into CartoDB the same
-way we did for Openpaths.
 
-We'll proceed directly to contructing a visualization from this data.
-There are so many densly packed points that we need to tweak the defaults
-in order to see everything. How does this view differ from the Openpaths
-data? Which one would you rather work with? Zoom into a part of the data
-in Stamford and part of the data in Brooklyn. What's going on there?
 
-### Foursquare data
-
-The data from foursquare is on the complete opposite end of the spectrum
-from Galileo. It only records locations when the user explicitly 'checks in'
-to a particular location. For this feed, we can actually upload the data
-directly into CartoDB as a kml file.
-
-How does this data differ from the previous two? Is it better of worse?
-
-Because we have additional information from the locations visited by foursquare,
-we can display this as an info label on the map. Do this for the name
-and link to the location in question. Publish as a new visualization.
 
 ### Census zip code
 
