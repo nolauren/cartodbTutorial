@@ -114,10 +114,10 @@ subsets the raw file to include only zip codes between NYC and New Haven,
 the only part we'll need for this tutorial anyway.
 
 This time, we'll drag the entire zip file `lt_zips.zip` into CartoDB.
-Notice that the data tab still has a field called `the_geom_webmercator`,
+Notice that the data tab still has a field called `the_geom`,
 but now the format seems to have changed from the other data sources.
 Clicking on the map view, we see that this in this dataset each row
-coorisponds to a region in space rather than an individual point. The
+cooresponds to a region in space rather than an individual point. The
 default map is fairly ugly, but we can again change this with the
 wizard. Let's visualize the field `DP0010001`; the total population recorded
 at the time of the 2010 census.
@@ -156,12 +156,11 @@ SELECT
   (DP0080003 / (1.0 * DP0010001)) as w_perc
 FROM
   lt_zips
-WHERE
-  DP0010001 > 0
 ```
-Notice that we've limited the query to zip codes with non-zero populations.
-I've also multiplied the value `DP0010001` by 1.0 in order to convert it to
-a double (it was an integer). We can now use this new variable to generate
+
+Notice that we've limited the query to zip codes with non-zero populations. 
+I've also multiplied the value DP0010001 by 1.0 in order to convert it to a double (it was an integer). 
+We can now use this new variable to generate
 a visualization. Do you find the output at all surprising?
 
 ### Using SQL to join data
@@ -272,10 +271,10 @@ This, for instance, would have been a good way to standardize
 the counts per zip code we did earlier.
 
 Finally, we can also use the `ST_Distance` function to derive
-the distance from a given point to ever other point in the
+the distance from a given point to every other point in the
 dataset. This is helpful, for instance, when the reference
 point is of particular interest. Here we calculate the distance
-of ever Openpaths data point to Lauren's home address (expressed
+of every Openpaths data point to Lauren's home address (expressed
 as latitude and longitude).
 ```{sql}
 SELECT
