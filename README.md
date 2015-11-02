@@ -289,3 +289,5 @@ FROM
 Visualizing this, we can algorithmically labels points as being
 either 'home' or 'away' by using CSS to differentiate based
 on the variable `dist`.
+
+Another excellent tutorial: https://github.com/mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps
