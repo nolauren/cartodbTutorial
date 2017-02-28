@@ -1,0 +1,2024 @@
+id,state_id,city,klan_number,nickname,notes,latitude,longitude,year
+1,61,Birmingham,1,R. E. Lee Klan,may be the oldest functioning Klan in the Invisible Empire,33.5206608,-86.80249,1924
+2,61,Bessemer,2,Niles Burnett Klan,No Notes,33.4017766,-86.954437,1926
+3,61,Montgomery,3,Not Named,No Notes,32.3668052,-86.2999689,1923
+4,61,Anniston,4,Not Named,No Notes,33.6598257,-85.8316318,1924
+5,61,Birmingham,6,Nathan Bedford Forrest Klan,No Notes,33.5206608,-86.80249,1924
+6,61,Huntsville,9,Not Named,No Notes,34.7303688,-86.5861037,1931
+7,61,Mobile,11,Not Named,No Notes,30.6953657,-88.0398912,1931
+8,61,Stevenson,12,Not Named,No Notes,34.8686932,-85.8394199,1923
+9,61,Tuscaloosa,14,Jack Jolly Klan,No Notes,33.2098407,-87.5691735,1923
+10,61,Sumpter,24,Not Named,No Notes,32.6155551,-88.2461183,1924
+11,61,Ensley,31,Not Named,No Notes,33.5089695,-86.8997918,1924
+12,61,Vincent,34,Not Named,No Notes,33.3845537,-86.411924,1923
+13,61,Jasper,43,Joe Wheeler Klan,No Notes,33.8312185,-87.2775053,1926
+14,61,Luverne,51,Not Named,No Notes,31.7165455,-86.2638492,1923
+15,61,Louisville,57,Not Named,No Notes,31.7834963,-85.5557751,1923
+16,61,Birmingham,59,Avondale Park Klan,No Notes,33.5206608,-86.80249,1923
+17,61,Birmingham,60,Nathan Bedford Forrest Klan,"will break ground on $75,000 Klavern on 15 October 1924.",33.5206608,-86.80249,1923
+18,61,Sheffield,63,Stonewall Jackson Klan,No Notes,34.7650887,-87.6986407,1923
+19,61,Oneonta,66,Not Named,No Notes,33.9481537,-86.472764,1923
+20,61,Eufala,68,Not Named,No Notes,31.8912717,-85.1454876,1924
+21,61,Akron,71,Not Named,No Notes,32.8765165,-87.7425105,1923
+22,61,Florence,73,Not Named,No Notes,34.79981,-87.677251,1923
+23,61,Phoenix City,77,Not Named,No Notes,32.4709761,-85.0007653,1923
+24,61,Auburn,84,James H. Lane Klan,No Notes,32.6098566,-85.4807825,1923
+25,61,Athens,86,Not Named,No Notes,34.8028661,-86.9716741,1923
+26,61,Scottsboro,92,Not Named,No Notes,34.6723069,-86.0341463,1924
+27,61,Mobile,108,Not Named,No Notes,30.6953657,-88.0398912,1924
+28,61,Collinsville,125,Not Named,No Notes,34.2639821,-85.8605251,1931
+29,61,Pisgah,133,Not Named,No Notes,34.685022,-85.846575,1924
+30,61,Edwardsville,141,Hopewell Klan,No Notes,33.7073272,-85.5091235,1929
+31,61,Florala,144,Not Named,No Notes,31.007712,-86.324957,1925
+32,61,Foley,186,Not Named,No Notes,30.4065868,-87.6835974,1929
+33,61,Bessemer,0,Miles Burnett Klan,No Notes,33.4017766,-86.954437,1924
+34,62,Anchorage,1,Mt. McKinley Klan,No Notes,61.2180556,-149.9002778,1926
+35,62,Juneau,2,Not Named,Mount Juneau Klan gets charter,58.3019444,-134.4197222,1926
+36,62,Ketchikan,3,Not Named,No Notes,55.3422222,-131.6461111,1926
+37,62,Cordova,4,Not Named,No Notes,60.5424087,-145.7525414,1931
+38,62,Petersburg,5,Not Named,No Notes,56.8125,-132.9555556,1931
+39,62,Fairbanks,6,Not Named,No Notes,64.8377778,-147.7163889,1931
+40,62,Seward,8,Not Named,No Notes,60.1041667,-149.4422222,1931
+41,62,Skagway,9,Not Named,No Notes,59.4583333,-135.3138889,1931
+42,62,Wrangell,10,Not Named,No Notes,56.4708333,-132.3766666,1931
+43,62,Haines,11,Not Named,No Notes,59.2358333,-135.445,1931
+54,63,Tucson,2,Not Named,No Notes,32.2217429,-110.926479,1924
+55,63,Yuma,5,Not Named,No Notes,32.6926512,-114.6276916,1923
+56,63,Grand Canyon,9,Kanyon Klan,No Notes,36.0544445,-112.1401108,1927
+57,63,Winslow,11,Moqui Klan,No Notes,35.0241873,-110.6973571,1924
+58,63,Prescott,14,Not Named,No Notes,34.5400242,-112.4685025,1924
+59,63,Bisbee,15,Not Named,No Notes,31.4481547,-109.9284084,1923
+60,63,Tombstone,20,Cochise Klan,No Notes,31.7128683,-110.0675764,1924
+61,63,Ajo,21,Not Named,No Notes,32.3717248,-112.8607099,1931
+62,63,Phoenix,22,Not Named,"Jackson, 185",33.4483771,-112.0740373,1926
+63,63,Douglas,25,Not Named,chartered 1926,31.3445471,-109.5453447,1931
+64,63,Benson,26,Strongholt [sic] Klan,No Notes,31.9678611,-110.2945174,1927
+65,63,Hayden,0,Not Named,No Notes,33.0047878,-110.7853836,1923
+66,63,Douglas,0,Douglas Provisional Klan,No Notes,31.345,-109.541389,1923
+83,110,Little Rock,1,Kamelia Kourt No. 1,loyal to Simmons,34.7464809,-92.2895948,1923
+84,110,Bentonville,1,Not Named,No Notes,36.3728538,-94.2088172,1922
+85,110,Mena,1,Not Named,"See No. 90,received charter",34.5862171,-94.2396554,1922
+86,110,Little Rock,1,Not Named,No Notes,34.7464809,-92.2895948,1930
+87,110,Arkansas City,3,Not Named,No Notes,33.6087222,-91.2067794,1923
+88,110,Helena,3,Not Named,No Notes,34.5291253,-90.5900273,1924
+89,110,Benton,4,Not Named,No Notes,34.5645371,-92.586828,1922
+90,110,Malvern,4,Not Named,No Notes,34.3623149,-92.8129462,1923
+91,110,Hot Springs,7,Not Named,No Notes,34.5037004,-93.0551795,1922
+92,110,Hope,8,Hempstead County Klan,No Notes,33.6670615,-93.5915665,1922
+93,110,Prescott,9,Not Named,No Notes,33.8026107,-93.3810057,1922
+94,110,Parkdale,10,Not Named,No Notes,33.1215116,-91.5456761,1923
+95,110,Bald Knob,11,Bald Knob Klan,No Notes,35.3098066,-91.5679114,1923
+96,110,Newport,12,Stephens Klan,No Notes,35.6048018,-91.2817951,1922
+97,110,Fort Smith,15,Not Named,No Notes,35.3859242,-94.3985475,1922
+98,110,Arkadelphia,16,Not Named,No Notes,34.1209292,-93.0537839,1923
+99,110,Lonoke,24,Lonoke Klan,No Notes,34.7839795,-91.8998611,1923
+100,110,Batesville,30,Not Named,No Notes,35.769799,-91.6409721,1922
+101,110,Newark,31,Big Bottom Klan,No Notes,35.7017444,-91.441522,1922
+102,110,De Queen,37,Not Named,No Notes,34.0378916,-94.3413168,1922
+103,110,Pine Bluff,38,Not Named,No Notes,34.2284312,-92.0031955,1922
+104,110,Searcy,40,Not Named,No Notes,35.2468204,-91.7336846,1923
+105,110,Yell County,43,Harkey Klan,"held a barbecue across the Peht Jean River from Danville,Yell County",35.0810824,-93.3388917,1923
+106,110,Okolona,47,Not Named,No Notes,33.9973256,-93.3379532,1923
+107,110,Magnolia,49,Not Named,No Notes,33.2670725,-93.239334,1922
+108,110,Paris,53,Not Named,No Notes,35.2920325,-93.7299173,1926
+109,110,Lockesburg,57,Alberta Peach Klan,No Notes,33.9673375,-94.1685312,1922
+110,110,Manila,59,Not Named,No Notes,35.8800733,-90.1670393,1923
+111,110,Leachville,60,Robert E. Lee Klan,No Notes,35.9359051,-90.257876,1922
+112,110,Wynne,61,Not Named,No Notes,35.224533,-90.7867798,1923
+113,110,Paragould,62,Greene County Klan,No Notes,36.0584021,-90.4973286,1923
+114,110,Osceola,64,Not Named,No Notes,35.7050778,-89.969532,1922
+115,110,Mount Ida,71,Not Named,No Notes,34.5567637,-93.6340814,1923
+116,110,Jonesboro,72,Kraighead Kounty,No Notes,35.8422967,-90.704279,1922
+117,110,Pocahontas,73,Not Named,said to be the 73rd Klan chartered in AR,36.261286,-90.970551,1922
+118,110,Hermitage,75,Hermitage Klan,No Notes,33.448333,-92.1725,1923
+119,110,Hartford,80,Not Named,No Notes,35.0228761,-94.3813277,1922
+120,110,Fayetteville,83,Not Named,No Notes,36.0625795,-94.1574263,1922
+121,110,Sulphur Springs,85,Not Named,No Notes,36.4834084,-94.4585488,1923
+122,110,Gravette,85,Not Named,No Notes,36.4220207,-94.4535484,1923
+123,110,Marshall,88,Bear Creek Klan,No Notes,35.9089643,-92.6312746,1925
+124,110,Ingalls,89,Not Named,No Notes,33.383333,-92.150833,1923
+125,110,Mena,90,Not Named,No Notes,34.5862171,-94.2396554,1922
+126,110,El Dorado,92,Not Named,No Notes,33.20763,-92.6662674,1923
+127,110,Rogers,94,Not Named,No Notes,36.3320196,-94.1185366,1924
+128,110,Harrison,101,Kerr-Harrell Klan,No Notes,36.2297936,-93.1076765,1923
+129,110,Forrest City,103,St. Francis County Klan,No Notes,35.0081474,-90.7898342,1923
+130,110,Monticello,108,Not Named,No Notes,33.6289974,-91.7909639,1923
+131,110,Bearden,117,Not Named,No Notes,33.7245526,-92.6157139,1924
+132,110,Huntsville,120,Not Named,No Notes,36.086187,-93.7413032,1923
+133,110,Springdale,124,Not Named,No Notes,36.1867442,-94.1288141,1924
+134,110,Spring Bank,130,Not Named,No Notes,33.0890215,-93.8310119,1923
+135,110,Buchner,134,Not Named,No Notes,33.3584581,-93.4360073,1923
+136,110,Corning,140,Not Named,No Notes,36.41,-90.589444,1923
+137,110,Lockesburg,152,Sevier County Klan,No Notes,33.9673375,-94.1685312,1926
+138,110,Buckner,154,Not Named,No Notes,33.3584581,-93.4360073,1924
+139,64,Fresno,1,Not Named,No Notes,36.7468422,-119.7725868,1923
+140,64,San Francisco,1,Not Named,No Notes,37.7749295,-122.4194155,1923
+141,64,Inglewood,1,Med Mosher Klan,No Notes,33.9616801,-118.3531311,1923
+142,64,Los Angeles,1,Not Named,mother Klan of California[2],34.0522342,-118.2436849,1923
+143,64,Santa Maria,1,Not Named,No Notes,34.9530337,-120.4357191,1923
+144,64,El Segundo,1,Not Named,No Notes,33.9191799,-118.4164652,1924
+145,64,Los Angeles,2,Not Named,No Notes,34.0522342,-118.2436849,1923
+146,64,Bakersfield,2,Not Named,No Notes,35.3732921,-119.0187125,1923
+147,64,Fresno,2,Not Named,No Notes,36.7468422,-119.7725868,1924
+148,64,Oakland,2,Not Named,No Notes,37.8043637,-122.2711137,1924
+149,64,Santa Monica,2,Not Named,No Notes,34.0194543,-118.4911912,1924
+150,64,Ingleside,2,Loyalty Klan,gets charter this year,37.7198213,-122.4538009,1926
+151,64,Long Beach,2,Not Named,No Notes,33.7700504,-118.1937395,1935
+152,64,Los Angeles,3,Not Named,No Notes,34.0522342,-118.2436849,1923
+153,64,Oakland,3,Provisional Klan,No Notes,37.8043637,-122.2711137,1924
+154,64,Valley Union,5,Not Named,No Notes,34.8798169,-120.4452402,1934
+155,64,Alhambra,8,Not Named,No Notes,34.095287,-118.1270146,1923
+156,64,Pasadena,9,Not Named,No Notes,34.1477849,-118.1445155,1923
+157,64,Oakland,9,Not Named,No Notes,37.8043637,-122.2711137,1923
+158,64,Long Beach,11,Benjamin Cameron Klan,No Notes,33.7700504,-118.1937395,1931
+159,64,Montebello,12,Not Named,No Notes,34.0165053,-118.1137535,1923
+160,64,Sawtelle,18,Malibu Klan,No Notes,34.0433903,-118.4542772,1931
+161,64,Vallejo,19,Not Named,No Notes,38.113056,-122.235833,1926
+162,64,Oakland,22,Not Named,No Notes,37.8043637,-122.2711137,1926
+163,64,Inglewood,25,Loyalty Klan,formerly Med Mosher Klan,33.961442,-118.354532,1933
+164,64,Alhambra,32,Not Named,No Notes,34.095287,-118.1270146,1932
+165,64,Chico,33,Hooker Oak Klan,gets charter,39.7284944,-121.8374777,1926
+166,64,Holtville,36,Not Named,No Notes,32.8111612,-115.3802643,1931
+167,64,Alameda,39,Not Named,No Notes,37.7652065,-122.2416355,1930
+168,64,San Francisco,40,Not Named,No Notes,37.7749295,-122.4194155,1927
+169,64,Glendale,41,Not Named,No Notes,34.1425078,-118.255075,1931
+170,64,Pasadena,41,Not Named,No Notes,34.1477849,-118.1445155,1932
+171,64,Randsburg,43,Not Named,No Notes,35.3685739,-117.6581161,1929
+172,64,Visalia,48,Not Named,No Notes,36.3302284,-119.2920585,1931
+173,64,Hawthorne,49,Not Named,No Notes,33.9164032,-118.3525748,1929
+174,64,San Pedro,51,Not Named,No Notes,33.7360619,-118.2922461,1931
+175,64,San Francisco,58,Not Named,No Notes,37.7749295,-122.4194155,1931
+176,64,San Francisco,61,Not Named,No Notes,37.7749295,-122.4194155,1931
+177,64,Palo Alto,63,Not Named,No Notes,37.4418834,-122.1430195,1931
+178,64,San Diego,64,Not Named,No Notes,32.715738,-117.1610838,1928
+179,64,Santa Cruz,65,Not Named,No Notes,36.9741171,-122.0307963,1929
+180,64,Colton,68,Not Named,No Notes,34.0739016,-117.3136547,1931
+181,64,Ontario,70,Not Named,No Notes,34.0633443,-117.6508876,1931
+182,64,Selma,71,Not Named,No Notes,36.5707838,-119.6120765,1931
+183,64,Taft,72,Not Named,No Notes,35.1424671,-119.4565078,1930
+184,64,Fresno,74,Not Named,No Notes,36.7468422,-119.7725868,1932
+185,64,Tulare,78,Not Named,No Notes,36.2077288,-119.3473379,1927
+186,64,San Bernardino,80,Not Named,No Notes,34.1083449,-117.2897652,1927
+187,64,Highland Park,84,Not Named,AKA Los Angeles/Highland Klan,34.1157564,-118.1854042,1929
+188,64,Hemet-San Jacinto,86,Not Named,No Notes,33.753046,-116.9586732,1929
+189,64,San Jose,88,Pioneer Klan,No Notes,37.3382082,-121.8863286,1931
+190,64,Santa Anna,100,Not Named,"Referenced as the Orange County Klan and the Huntington Beach, Orange Klan",33.7455731,-117.8678338,1927
+191,64,Venice,102,Bay Cities Klan,No Notes,33.9850469,-118.4694832,1932
+192,64,Watsonville,105,Pajero Valley Klan,No Notes,36.910231,-121.7568946,1926
+193,64,Los Angeles,110,Theodore Roosevelt Klan,No Notes,34.0522342,-118.2436849,1928
+194,64,Torrance,113,Triple City Klan,No Notes,33.8358492,-118.3406288,1931
+195,64,Sacramento,120,Capital Klan,gets chartered this year (1931),38.5815719,-121.4943996,1931
+196,64,San Fernando Valley,124,Not Named,No Notes,34.1825782,-118.4396756,1931
+197,64,Burlingame,127,Not Named,gets charter this year,37.5778696,-122.34809,1931
+198,64,San Bernardino,6,San Bernardino Provisional Klan,No Notes,34.1083449,-117.2897652,1923
+199,64,Oakland,3,Oakland Provisional Klan,No Notes,37.8043637,-122.2711137,1924
+200,64,Sawtelle,7,Progression Klan,No Notes,34.0433903,-118.4542772,1931
+201,64,Visalia,4,Not Named,Jr. Klan chapter,36.3302284,-119.2920585,1925
+202,64,Orange,14,Not Named,Jr. Klan chapter,33.7877944,-117.8531119,1925
+203,64,Hermosa,16,Not Named,Jr. Klan chapter,33.6191643,-117.6927206,1925
+204,64,Calexico,0,Not Named,No Notes,32.6789476,-115.4988834,1923
+205,64,Redondo Beach,0,Not Named,No Notes,33.8491816,-118.3884078,1923
+206,64,San Diego,0,Provisional Klan,No Notes,32.715738,-117.1610838,1923
+207,64,San Pedro,0,Not Named,No Notes,33.7360619,-118.2922461,1923
+208,64,Watts,0,Provisional Klan,No Notes,33.9386361,-118.2380432,1923
+209,64,Anaheim,0,Provisional Klan,No Notes,33.8352932,-117.9145036,1923
+210,65,Denver,1,Not Named,Organized early in 1921,39.7392358,-104.990251,1921
+211,65,Pueblo,5,Not Named,No Notes,38.2544472,-104.6091409,1923
+212,65,Florence,7,Not Named,No Notes,38.3902777,-105.1185988,1923
+213,65,Brighton,8,Not Named,No Notes,39.9852617,-104.8205283,1931
+214,65,Colorado Springs,11,Pikes Peak Klan,No Notes,38.8338816,-104.8213634,1925
+215,65,Loveland,16,Not Named,No Notes,40.3977612,-105.0749801,1931
+216,65,Colorado Springs,17,Pikes Peak Klan,No Notes,38.8338816,-104.8213634,1931
+217,65,Rocky Ford,19,Not Named,No Notes,38.052508,-103.7202274,1925
+218,65,Canon City,21,Not Named,No Notes,38.4494063,-105.2253316,1924
+219,65,Canon City,22,Royal Gorge Klan,No Notes,38.4494063,-105.2253316,1931
+220,65,Buena Vista,25,Not Named,No Notes,38.8422178,-106.1311288,1926
+221,65,Greeley,31,Not Named,No Notes,40.4233142,-104.7091322,1931
+222,65,Simla,43,Not Named,No Notes,39.1416551,-104.0838479,1926
+223,65,Edgewater,55,Not Named,No Notes,39.7530425,-105.0641503,1933
+224,65,Durango,66,Not Named,No Notes,37.27528,-107.8800667,1925
+225,65,Bayfield,69,Pine River Klan,No Notes,37.2255593,-107.5981123,1925
+226,65,Stratton,74,Not Named,No Notes,39.3033276,-102.6046454,1926
+227,65,Milliken,79,Little Thompson Klan,No Notes,40.3294268,-104.85525,1927
+228,65,Denver,81,Monarch Klan,No Notes,39.7392358,-104.990251,1931
+229,66,New Haven,1,Not Named,No Notes,41.308274,-72.9278835,1922
+230,66,Greenwich,1,Not Named,No Notes,41.0262417,-73.6281964,1932
+231,66,Meriden,3,Not Named,No Notes,41.5381535,-72.8070435,1922
+232,66,Norwalk,4,Not Named,No Notes,41.117744,-73.4081575,1932
+233,66,Bridgeport,5,Not Named,No Notes,41.1865478,-73.1951767,1923
+234,66,Danbury,5,Not Named,No Notes,41.394817,-73.4540111,1926
+235,66,New London,6,Not Named,No Notes,41.3556539,-72.0995209,1931
+236,66,New Haven,7,Not Named,No Notes,41.308274,-72.9278835,1931
+238,66,Kent County,9,Not Named,RI?,41.6579147,-71.7147951,1933
+239,66,Canaan,10,Not Named,No Notes,41.9640877,-73.3001233,1931
+240,66,Washington County,12,Not Named,No Notes,41.4568113,-71.6673352,1933
+241,66,Waterbury,14,Not Named,No Notes,41.5581525,-73.0514965,1929
+242,66,Brooklyn,15,Israel Putnam Klan,Wauregan,41.7881236,-71.9497216,1928
+243,66,West Willington,17,Nathan Hale Klan,No Notes,41.8812085,-72.3020246,1931
+244,66,Hartford,18,Nutmeg Klan,South Manchester,41.7637111,-72.6850932,1929
+246,66,New Britain,23,Elihu Burritt Klan,No Notes,41.6612104,-72.7795419,1931
+247,67,Washington,1,Not Named,No Notes,38.9071923,-77.0368707,1921
+248,67,Washington,2,National Capital Klan,No Notes,38.9071923,-77.0368707,1923
+249,67,Washington,3,Washington City Klan,No Notes,38.9071923,-77.0368707,1931
+250,67,Washington,4,Washington City Klan,No Notes,38.9071923,-77.0368707,1932
+251,67,Washington,5,Fellowship Klan,No Notes,38.9071923,-77.0368707,1928
+252,68,Delmar,2,Not Named,No Notes,38.4565052,-75.5771471,1925
+253,68,Smyrna,4,Caesar Rodney Klan,No Notes,39.2998339,-75.6046494,1924
+254,68,Wilmington,7,Not Named,"10th and 11th anniversaries celebrated on Oct 2, 1931 and Sept 16, 1932, respectively",39.7390721,-75.5397878,1923
+255,68,Newport,12,Not Named,No Notes,39.7137237,-75.6093709,1931
+256,68,Wilmington,13,Not Named,No Notes,39.7390721,-75.5397878,1929
+257,68,Dover,15,Nathan Hale Klan,No Notes,39.158168,-75.5243682,1926
+258,68,Wilmington,13,Not Named,No Notes,39.7390721,-75.5397878,1931
+259,68,Newark,14,Mason-Dixon Klan,No Notes,39.6837226,-75.7496572,1931
+260,68,Georgetown,17,Goodwill Klan,No Notes,38.6901134,-75.3854728,1929
+261,68,Newark,23,Ivy Castle Klan,No Notes,39.6837226,-75.7496572,1930
+262,69,Jacksonville,1,Stonewall Jackson Klan,"FL's second largest Klan, after Miami",30.3321838,-81.655651,1924
+263,69,South Jacksonville,2,Robert E. Lee Klan,No Notes,30.304384,-81.650083,1922
+264,69,Lakeland,5,Abraham Lincoln Klan,No Notes,28.0394654,-81.9498042,1922
+265,69,Tampa,7,Seminole Klan,No Notes,27.950575,-82.4571776,1932
+266,69,Orlando,9,Cherokee Klan,No Notes,28.5383355,-81.3792365,1923
+267,69,Palatka,13,Not Named,No Notes,29.6485801,-81.6375819,1922
+268,69,DeLand,14,Not Named,No Notes,29.028318,-81.3031179,1924
+269,69,New Smyrna,15,Not Named,No Notes,29.0258191,-80.9269984,1924
+270,69,DeLand,16,Not Named,No Notes,29.028318,-81.3031179,1932
+271,69,Daytona,17,Not Named,No Notes,29.1890073,-81.0469647,1924
+272,69,Port Orange,17,Tamoka Klan,No Notes,29.1383165,-80.9956105,1932
+273,69,Delray,17,Not Named,No Notes,26.4762477,-80.1330006,1926
+274,69,Fort Myers,19,Palm Klan,AKA  Klan of the Palms,26.640628,-81.8723084,1926
+275,69,St. Petersburg,20,Olaste Klan,AKA Olustee Klan,27.773056,-82.64,1924
+276,69,Miami,24,John B. Gordon Klan,FL's largest Klan,25.7616798,-80.1917902,1924
+277,69,Miami,26,Dade County Klan,No Notes,25.7616798,-80.1917902,1942
+278,69,Eustis,27,Lake Region Klan,No Notes,28.8527675,-81.6853534,1929
+279,69,Sanford,31,Dixie Klan,No Notes,28.8028612,-81.269453,1931
+280,69,Cocoa,33,Not Named,No Notes,28.3861159,-80.7419984,1924
+281,69,Titusville,33,Indian River Klan,No Notes,28.6122187,-80.8075537,1926
+282,69,Key West,42,Not Named,No Notes,24.5550593,-81.7799871,1924
+283,69,DeLand,46,Not Named,No Notes,29.028318,-81.3031179,1924
+284,69,Winter Haven,49,Haven Klan,No Notes,28.0222435,-81.7328567,1932
+285,69,West Palm Beach,50,Not Named,No Notes,26.7153424,-80.0533746,1923
+286,69,West Palm Beach,56,Albert Sidney Johnston Klan,No Notes,26.7153424,-80.0533746,1924
+287,69,Pensacola,57,Not Named,AKA the Escambia Klan,30.421309,-87.2169149,1923
+288,69,Green Cove Springs,61,Not Named,No Notes,29.9919085,-81.6781467,1932
+289,69,Bradenton,65,Not Named,No Notes,27.4989278,-82.5748194,1923
+290,69,Palmetto,65,Manatee County,No Notes,27.5214269,-82.5723193,1924
+291,69,Lake Worth,70,George B. Baker Klan,No Notes,26.6167555,-80.0684479,1924
+292,69,Sebring,71,Highlands Klan,No Notes,27.495592,-81.440907,1933
+293,69,Sarasota,72,Not Named,No Notes,27.3364347,-82.5306527,1924
+294,69,Vero,74,Not Named,No Notes,27.6389729,-80.460952,1924
+295,69,Plant City,77,Hillsboro Klan,No Notes,28.0186323,-82.1128641,1927
+296,69,Levy County,78,Not Named,No Notes,29.3178545,-82.820974,1924
+297,69,Punta Gorda,81,Not Named,No Notes,26.9297836,-82.0453664,1925
+298,69,Arcadia,82,De Soto Klan,No Notes,27.2158826,-81.8584164,1933
+299,69,Fort Pierce,83,Not Named,No Notes,27.4467056,-80.3256056,1924
+300,69,McDavid,84,Not Named,Received its charter as the second Klan in Escambia County because Pensacola was too far away,30.8375596,-87.3295636,1924
+301,69,Pinellas,87,Not Named,No Notes,27.876394,-82.7778579,1933
+302,69,Okaloosa,99,Not Named,No Notes,30.5773401,-86.6611083,1931
+303,69,Callahan,107,Not Named,No Notes,30.5621807,-81.8306621,1932
+304,69,Avon Park,110,Not Named,No Notes,27.5958672,-81.5061862,1931
+305,69,St. Augustine,113,Not Named,"AKA St. Johns County, Selooe Klan",29.9012437,-81.3124341,1930
+306,69,Suwannee County,114,Not Named,AKA Live Oak,30.2485096,-82.9931607,1931
+307,69,West Palm Beach,115,John A. Partin Klan,No Notes,26.7153424,-80.0533746,1929
+308,69,Jupiter,117,Not Named,No Notes,26.9342246,-80.0942087,1933
+309,69,Cross City,123,Dixie County Klan,No Notes,29.6343977,-83.1251306,1931
+310,69,Lafayette,124,Not Named,No Notes,30.0299573,-83.2077645,1931
+311,69,Tampa,128,Liberty Bell Klan,No Notes,27.950575,-82.4571776,1932
+312,69,Plant City,129,C. G. McElroy Klan,AKA Tampa,28.0186323,-82.1128641,1931
+313,69,Tecumseh Beach,141,Not Named,No Notes,26.740345,-80.095269,1932
+314,69,Gainesville,46,Alachua Klan,No Notes,29.6516344,-82.3248262,1922
+315,69,Arcadia,82,Not Named,Chartered 'last week' per INH in March 26th issue. The 82d Klan in the Realm.,27.2158826,-81.8584164,1924
+316,70,Atlanta,1,Nathan Bedford Forrest Klan,One of nine Klans in Fulton County,33.7489954,-84.3879824,1931
+317,70,Athens,5,McDorman Klan,No Notes,33.9519347,-83.357567,1923
+318,70,Athens,8,Rutherford Klan,No Notes,33.9519347,-83.357567,1922
+319,70,Augusta,22,Alexander H. Stephens Klan,No Notes,33.466667,-81.966667,1926
+320,70,Buford,26,Captain Espy Klan,No Notes,34.1206564,-84.0043513,1922
+321,70,Savannah,41,Not Named,"""largest Klan in Georgia""",32.016667,-81.116667,1922
+322,70,Decatur,42,Not Named,No Notes,33.7748275,-84.2963123,1921
+323,70,Shannon,47,Hill City Klan,Rome?,34.3431937,-85.0783625,1932
+324,70,East Point,51,Not Named,"11th anniversary on Nov 12, 1931. [misidentified as No. 61], chartered 12 Nov. 20",33.6795531,-84.4393724,1931
+325,70,Austell,57,Not Named,chartered after a long period as a provisional Klan. Lithonia,33.8126059,-84.6343783,1923
+326,70,Bainbridge,60,John E. Donaldson Klan,No Notes,30.9037995,-84.5754699,1924
+327,70,Marietta,61,Joseph E. Johnston Klan,No Notes,33.952602,-84.5499327,1923
+328,70,Brunswick,63,Not Named,No Notes,31.1499528,-81.4914894,1931
+329,70,Waycross,78,Not Named,No Notes,31.2135511,-82.3540178,1924
+330,70,Camilla,87,Not Named,No Notes,31.2312933,-84.2104611,1925
+331,70,Kirkwood,91,John B. Gordon Klan,Atlanta,33.752831,-84.3252791,1924
+332,70,College Park,96,Copaga Klan,Associated with College Park,33.648333,-84.456111,1931
+333,70,Tennille,107,General Lee Klan,No Notes,32.9359886,-82.8115273,1922
+334,70,Dublin,108,Not Named,No Notes,32.5404447,-82.903754,1922
+335,70,Bolton,112,Riverside Klan,No Notes,33.8144708,-84.4566458,1922
+336,70,Statham,115,Paradise Klan,No Notes,33.9651127,-83.596555,1931
+337,70,Cummings,125,Cummings Klan,No Notes,34.2094687,-84.1169006,1923
+338,70,Buckhead,128,Not Named,No Notes,33.5684599,-83.3623853,1923
+339,70,Ty Ty,133,Red Blood Klan,No Notes,31.4718497,-83.6468362,1922
+340,70,Gainesville,136,Robert E. Lee Klan,No Notes,34.2978794,-83.8240663,1930
+341,70,Carnesville,140,Kanon Klan,No Notes,34.3698266,-83.235155,1923
+342,70,Kensington,143,Chickamauga Klan,No Notes,34.7742451,-85.3727368,1923
+343,70,Meldrim,145,Not Named,No Notes,32.1432582,-81.3778902,1924
+344,70,Dalton,146,Not Named,No Notes,34.7698021,-84.9702228,1924
+345,70,Pelham,153,Not Named,No Notes,31.1276849,-84.1518466,1923
+346,70,Broxton,163,Not Named,No Notes,31.6251911,-82.8868113,1923
+347,70,Woodstock,164,Not Named,No Notes,34.1014873,-84.5193754,1923
+348,70,Saltilla,169,Not Named,No Notes,31.7875,-82.567778,1923
+349,70,Alma,172,Not Named,No Notes,0,0,1924
+350,70,Hardwick,174,Not Named,No Notes,33.0685576,-83.223983,1923
+351,70,Unadilla,192,Dooly County Klan,No Notes,32.2615496,-83.7365656,1924
+352,70,Danielsville,206,Not Named,No Notes,34.1242771,-83.2212629,1924
+353,70,Atlanta,207,Not Named,North Atlanta,33.7489954,-84.3879824,1930
+354,70,East Atlanta,213,Not Named,No Notes,33.7366044,-84.3357992,1924
+355,70,Tallulah Falls,228,Not Named,No Notes,34.7306498,-83.3943316,1932
+356,70,Lilburn,229,Not Named,No Notes,33.8901036,-84.1429719,1931
+357,70,Atlanta,241,Inman Yards Klan,Mt. Vernon,33.7489954,-84.3879824,1932
+358,70,Orchard Knob,247,Not Named,No Notes,33.6702028,-84.376547,1931
+359,70,Guyton,252,Effingham County,No Notes,32.3363045,-81.3914992,1931
+360,70,Columbus,254,Not Named,No Notes,32.4609764,-84.9877094,1935
+361,70,Griffin,259,Not Named,No Notes,33.2467807,-84.2640904,1931
+362,70,Jonesboro,261,Not Named,No Notes,33.5215013,-84.3538128,1931
+363,70,Monroe,264,Not Named,No Notes,33.7948364,-83.713229,1931
+364,70,Savannah,293,Samuel Green Klan,No Notes,32.016667,-81.116667,1931
+365,71,Boise,1,Capital Klan,No Notes,43.6187102,-116.2146068,1926
+366,71,Pocatello,2,Not Named,No Notes,42.8713032,-112.4455344,1927
+367,71,Twin Falls,4,Not Named,No Notes,42.5629668,-114.4608711,1923
+368,71,Coeur d'Alene,18,Fort Sherman Klan,No Notes,47.6776832,-116.7804664,1926
+369,71,Culdesac,0,Not Named,No Notes,46.3746103,-116.6732035,1923
+370,72,East St. Louis,1,George Washington Klan,No Notes,38.624514,-90.1506465,1923
+371,72,Chicago,1,Not Named,No Notes,41.8781136,-87.6297982,1935
+372,72,Chicago,2,Englewood Klan,No Notes,41.8781136,-87.6297982,1923
+373,72,Springfield,3,Abraham Lincoln Klan,No Notes,39.7817213,-89.6501481,1923
+374,72,Chicago,4,Woodlawn Klan,No Notes,41.8781136,-87.6297982,1923
+375,72,Chicago,5,Not Named,No Notes,41.8781136,-87.6297982,1924
+376,72,Chicago,6,Austin Klan,No Notes,41.8781136,-87.6297982,1922
+377,72,Chicago,8,Stephen Edgar Brown Klan,No Notes,41.8781136,-87.6297982,1930
+378,72,Chicago,9,Logan Square Klan,AKA Logan Square Klan,41.8781136,-87.6297982,1924
+379,72,Chicago,10,U. S. Grant Klan,No Notes,41.8781136,-87.6297982,1923
+380,72,Chicago,11,Garfield Park,"Reinstated, and there are now 31 Klans in Chicago",41.8781136,-87.6297982,1923
+381,72,Freeport,12,Albert Pike Klan,No Notes,42.2966861,-89.6212271,1923
+382,72,Danville,14,Not Named,No Notes,40.124481,-87.6300207,1923
+383,72,Chicago,15,Not Named,No Notes,41.8781136,-87.6297982,1923
+384,72,Chicago,16,Thomas E. Watson Klan,No Notes,41.8781136,-87.6297982,1923
+385,72,Chicago,17,Not Named,No Notes,41.8781136,-87.6297982,1923
+386,72,Mount Pulaski,21,Not Named,No Notes,40.0108767,-89.282314,1923
+387,72,Kewanee,22,Not Named,No Notes,41.2455927,-89.9248303,1926
+388,72,Crawfordsville,23,Montgomery County Klan,No Notes,38.866667,-87.669444,1923
+389,72,Peoria,23,Not Named,No Notes,40.6936488,-89.5889864,1923
+390,72,Mattoon,24,Zenith Klan,"may have also connection with Champain, Ill",39.4830897,-88.3728255,1923
+391,72,Ft. Dearborn,24,Not Named,No Notes,41.8433683,-87.6100904,1929
+392,72,Oak Park,25,Uno Klan,No Notes,41.8850317,-87.7845025,1923
+393,72,Chicago,26,South Shore Klan,"Of Cook County was organized on 19 April 1922. On 7 November 1923 invited ECs of all Cook County Klans to a meeting, representatives of 23 Klans were present",41.8781136,-87.6297982,1923
+394,72,Maywood,27,Not Named,No Notes,41.8791979,-87.8431155,1923
+395,72,Princeton,28,Not Named,No Notes,41.3680919,-89.4648145,1923
+396,72,Mattoon,29,Not Named,No Notes,39.4830897,-88.3728255,1923
+397,72,Pekin,31,Not Named,No Notes,40.5675388,-89.640658,1923
+398,72,Chicago,33,Kenwood Klan,May have been reinstated,41.8781136,-87.6297982,1923
+399,72,Ottawa,34,Illini Klan,May have connection to Serena Township,41.3455892,-88.8425769,1923
+400,72,Charleston,35,Not Named,No Notes,39.4961458,-88.1761521,1923
+401,72,Shelbyville,36,Not Named,No Notes,39.4064284,-88.7900689,1924
+402,72,Auburn,37,Not Named,No Notes,39.5917197,-89.7464874,1924
+403,72,Chicago,38,Not Named,May have been located at Cottage Grove Ave. and 42d St. Gets charter.,41.8781136,-87.6297982,1923
+404,72,Joliet,39,Not Named,No Notes,41.525031,-88.0817251,1923
+405,72,Marseilles,40,Marseilles Klan,No Notes,41.327778,-88.701111,1923
+406,72,East St. Louis,41,George Washington Klan,No Notes,38.624514,-90.1506465,1926
+407,72,West Frankfort,43,Twin City Klan,Will again be the best Klan in southern Illinois as it was before.,37.8985966,-88.9233622,1930
+408,72,Sterling,44,Not Named,Connection with Rock Falls,41.788642,-89.6962194,1930
+409,72,Newton,45,Colonial Klan,No Notes,38.9908766,-88.1625389,1924
+410,72,Stanford,54,Not Named,No Notes,40.4347608,-89.2178643,1923
+411,72,Lockport,55,Not Named,No Notes,41.588611,-88.047222,1923
+412,72,Champaign-Urbana,56,Zenith Klan,No Notes,40.1105875,-88.2072697,1923
+413,72,Mt. Carmel,56,Not Named,No Notes,38.4108801,-87.7614174,1925
+414,72,Harvey,64,Not Named,No Notes,41.6100344,-87.6467131,1923
+415,72,Chicago,70,Midwest Klan,No Notes,41.8781136,-87.6297982,1923
+416,72,Bloomington,71,Not Named,Also referenced as Bloomington and Bloomington Valley,40.4842027,-88.9936873,1923
+417,72,Winchester,72,Stephen A. Douglas Klan,No Notes,39.6297689,-90.4562355,1924
+418,72,Lexington,75,Not Named,No Notes,40.6414237,-88.7834001,1924
+419,72,Rockford,76,Black Hawk Klan,No Notes,42.2711311,-89.0939952,1923
+420,72,LaSalle,77,Starved Rock Klan,No Notes,41.3621503,-89.0418249,1923
+421,72,Waukegan,80,Not Named,No Notes,42.3636331,-87.8447938,1924
+422,72,Nokomis,81,Not Named,No Notes,39.3011566,-89.285085,1923
+423,72,Edgar County,86,Not Named,No Notes,39.7131223,-87.7763333,1924
+424,72,Alton,87,Christie Klan,No Notes,38.8906038,-90.1842764,1931
+425,72,Bloomington,88,Ever Ready Klan,No Notes,40.4842027,-88.9936873,1927
+426,72,Decatur,89,Not Named,No Notes,39.8403147,-88.9548001,1923
+427,72,Elgin,93,Watch City Klan,No Notes,42.0354084,-88.2825668,1923
+428,72,Chicago,95,Not Named,No Notes,41.8781136,-87.6297982,1923
+429,72,Litchfield,100,Not Named,No Notes,39.1753256,-89.6542579,1926
+430,72,Venice,101,James A. Garfield Klan,No Notes,38.6722727,-90.169832,1924
+431,72,Logan County,102,Not Named,Connection with Lincoln. AKA the Logan County Klan,40.159443,-89.3341669,1924
+432,72,Shabbona,103,Not Named,No Notes,41.7680851,-88.8770311,1925
+433,72,Pana,105,Not Named,No Notes,39.3889311,-89.0800809,1924
+434,72,Chicago,108,Not Named,No Notes,41.8781136,-87.6297982,1923
+435,72,Farmer City,108,DeWitt Clinton Klan,No Notes,40.2433676,-88.6425668,1924
+436,72,Chicago,109,Thomas Jefferson Klan,No Notes,41.8781136,-87.6297982,1924
+437,72,Assumption,114,Not Named,No Notes,39.5203188,-89.0489712,1924
+438,72,Clinton,118,DeWitt Clinton Klan,No Notes,40.1536479,-88.9645253,1931
+439,72,East Chicago,122,Not Named,No Notes,41.8781136,-87.6297982,1926
+440,72,Knox,123,Not Named,No Notes,40.9342048,-90.2548467,1924
+441,72,Kankankee,130,Excelsior Klan,Connection with Bradley,41.1200325,-87.8611531,1926
+442,72,Galesburg,133,Knox County Klan,No Notes,40.9478158,-90.3712395,1926
+443,72,Belvidere,135,Not Named,Changed its name to Little Thunder Klan. Connection to Boone County,42.2639098,-88.8442674,1932
+444,72,Stark County,140,Not Named,No Notes,41.0795661,-89.8130356,1930
+445,72,East St. Louis,143,George Washington Klan,[see 41],38.624514,-90.1506465,1925
+446,72,Peoria County,144,Not Named,No Notes,40.7156396,-89.7755338,1931
+447,72,Berwyn,146,Not Named,No Notes,41.8505874,-87.7936685,1932
+448,72,Lincoln,152,Logan County Klan,No Notes,40.1483768,-89.3648183,1926
+449,72,Joliet,153,Will County,No Notes,41.525031,-88.0817251,1933
+450,72,Wilmette,162,North Shore Klan,No Notes,42.0722513,-87.7228384,1925
+451,72,Olney,164,Richland County,No Notes,38.7308811,-88.0853154,1925
+452,72,Kewanee,172,Warren County Klan,No Notes,41.2455927,-89.9248303,1927
+453,72,Monmouth,173,Warren County Klan,No Notes,40.9114271,-90.6473576,1927
+454,72,Chatham,181,Not Named,No Notes,39.676163,-89.7045439,1925
+455,72,DeKalb,187,Not Named,No Notes,41.9294736,-88.7503647,1932
+456,72,El Paso,189,Woodford County,No Notes,40.7392017,-89.0164626,1926
+457,72,Harvard,197,Not Named,Connection with Howard,42.422241,-88.6137101,1926
+458,72,Chicago,201,Nathan Hale Klan,"Nathan Hale, Downer's Grove",41.8781136,-87.6297982,1930
+459,72,Kewanee,202,Not Named,No Notes,41.2455927,-89.9248303,1926
+460,72,Chicago,209,Logan Square Klan,No Notes,41.8781136,-87.6297982,1927
+461,72,Chicago,210,Theodore Roosevelt Klan,No Notes,41.8781136,-87.6297982,1929
+462,72,Chicago,211,Fort Dearborn Klan,No Notes,41.8781136,-87.6297982,1930
+463,72,Chicago,212,Old Ironsides Klan,No Notes,41.8781136,-87.6297982,1926
+464,72,Chicago,213,Uptown Klan,No Notes,41.8781136,-87.6297982,1930
+465,72,Chicago,214,Fidelity Klan,No Notes,41.8781136,-87.6297982,1929
+466,72,Chicago,216,Nathan Hale Klan,"Monitor, 26 Sep 31)",41.8781136,-87.6297982,1929
+467,72,Erie,230,Rock Creek,No Notes,41.6564203,-90.0792859,1926
+468,72,Elgin,246,Watch City,No Notes,42.0354084,-88.2825668,1930
+469,72,Irving Park,249,Not Named,No Notes,41.9529604,-87.7212413,1933
+470,72,Mt. Morris,252,Not Named,No Notes,42.0503062,-89.4312201,1930
+471,72,Oregon,256,Not Named,No Notes,42.0147513,-89.3323279,1929
+472,72,Chicago,269,Not Named,Connection with Ravenswood,41.8781136,-87.6297982,1930
+473,72,West Frankfort,270,Not Named,"First public appearance ""in more than five years."" in May 1931",37.8985966,-88.9233622,1931
+474,73,Des Moines,1,Pioneer Klan,"received back its old charter, issued April 1922",41.6005448,-93.6091064,1923
+475,73,Sanborn,2,Daniel Boone Klan,O'Brien County,43.1816421,-95.6555674,1923
+476,73,Davenport,5,Abraham Lincoln Klan,No Notes,41.5236437,-90.5776367,1925
+477,73,Mason City,7,Betsy Ross Klan,No Notes,43.1535728,-93.2010367,1923
+478,73,Perry,11,Dallas County Klan,Perry,41.8385964,-94.1071797,1924
+479,73,Jones County,13,Jones County Klan,No Notes,42.1516737,-91.135302,1926
+480,73,Clay County,16,Not Named,Peterson Unit,43.080833,-95.149444,1925
+481,73,Sioux City,17,Woodbury County,No Notes,42.4999942,-96.4003069,1929
+482,73,Creston,19,Union County Klan,No Notes,41.0586002,-94.3613474,1927
+483,73,Dubuque Country,20,Dubuque County Klan,No Notes,42.4694679,-90.8294002,1926
+484,73,Marshalltown,21,Marshall County,No Notes,42.0494674,-92.9080375,1925
+485,73,O'Brien County,23,Not Named,No Notes,43.1131245,-95.6457951,1933
+486,73,Floyd County,26,Not Named,No Notes,43.0615947,-92.8577105,1926
+487,73,Keokuk,28,Not Named,No Notes,40.4044731,-91.3963966,1934
+488,73,Manchester,31,Delaware County,No Notes,42.4857853,-91.4579698,1925
+489,73,Ottumwa,33,Wapello County,No Notes,41.0160293,-92.4083022,1929
+490,73,Mechanicsville,34,Cedar County Klan,No Notes,41.9027909,-91.2546067,1926
+491,73,Tipton,34,Not Named,No Notes,41.7697434,-91.1279349,1932
+492,73,Muscatine County,39,Not Named,No Notes,41.5156913,-91.135302,1925
+493,73,Jackson County,44,Jackson County Klan,No Notes,42.170278,-90.575,1926
+494,73,Cass County,47,Griswold Unit,No Notes,41.2538068,-94.976654,1925
+495,73,Newton,50,Jasper County Klan,No Notes,41.7033177,-93.0573533,1930
+496,73,Knoxville,61,Not Named,No Notes,41.320343,-93.09967,1930
+497,73,Boone,68,Not Named,No Notes,42.0597047,-93.8802273,1925
+498,73,Council Bluffs,69,Not Named,No Notes,41.2619444,-95.8608333,1931
+499,73,Cedar Rapids,78,Not Named,No Notes,41.9778795,-91.6656232,1927
+500,73,Emerson,88,Not Named,No Notes,41.0172179,-95.4022179,1930
+501,73,Red Oak,0,Oak Klan,No Notes,41.0170937,-95.2214477,1926
+502,74,Augusta,2,Frontier Klan,No Notes,37.6866844,-96.9767023,1923
+503,74,Florence,4,Not Named,No Notes,38.244462,-96.9280786,1923
+504,74,Kansas City,5,Wyandotte Klan,No Notes,39.114053,-94.6274636,1922
+505,74,Wichita,6,Not Named,No Notes,37.688889,-97.336111,1923
+506,74,Coffeyville,7,Not Named,No Notes,37.0373005,-95.6163665,1922
+507,74,Caney,8,Not Named,No Notes,37.0114608,-95.9352584,1923
+508,74,Bonner Springs,8,Not Named,No Notes,39.059726,-94.8835754,1924
+509,74,Bonner Springs,9,Not Named,No Notes,39.059726,-94.8835754,1923
+510,74,Independence,10,Not Named,No Notes,37.2242358,-95.7083131,1923
+511,74,Independence,0,Not Named,No Notes,37.2242358,-95.7083131,1922
+512,74,Wathena,12,Not Named,AKA Walthena Sphinx Klan,39.7591606,-94.9496907,1924
+513,74,Kiowa,15,Not Named,Charles McBrayer Klan,37.0172493,-98.4853539,1923
+514,74,Medicine Lodge,18,Not Named,No Notes,37.2811339,-98.580361,1923
+515,74,Elwood,19,Not Named,[See also Indiana],39.7555499,-94.8724661,1923
+516,74,Columbus,20,Not Named,No Notes,37.1692278,-94.8441239,1928
+517,74,Winfield,21,Not Named,No Notes,37.2397486,-96.9955918,1923
+518,74,Pittsburg,22,Not Named,No Notes,37.410884,-94.70496,1923
+519,74,Kiwi,23,Not Named,No Notes,37.7108299,-97.5008821,1923
+520,74,Great Bend,25,Not Named,No Notes,38.3644567,-98.7648073,1923
+521,74,Atchison,27,Not Named,No Notes,39.5630521,-95.1216356,1923
+522,74,Chanute,28,Not Named,No Notes,37.6792135,-95.4572034,1923
+523,74,Leonora,29,Not Named,No Notes,39.61056,-100.0026272,1931
+524,74,Parsons,32,Not Named,No Notes,37.3403384,-95.2610838,1924
+525,74,Shawnee,35,Not Named,No Notes,39.0228485,-94.7151865,1923
+526,74,Hiawatha,39,Not Named,No Notes,39.8525,-95.536389,1926
+527,74,Dexter,44,Not Named,No Notes,37.1772513,-96.7144722,1923
+528,74,Hamilton,44,Not Named,No Notes,37.9794705,-96.1641647,1925
+529,74,Udall,46,Not Named,No Notes,37.3875221,-97.1142063,1923
+530,74,Oxford,48,Not Named,No Notes,37.2741908,-97.1689296,1923
+531,74,Newton,49,Not Named,No Notes,38.0466779,-97.3450365,1925
+532,74,Cherryvale,51,Not Named,No Notes,37.270344,-95.5524788,1923
+533,74,Rossville,57,Not Named,No Notes,39.1361097,-95.9516563,1923
+534,74,Oskaloosa,58,Not Named,No Notes,39.215277,-95.3127498,1923
+535,74,Douglass,60,Not Named,No Notes,37.5194642,-97.0128147,1923
+536,74,Bunker Hill,62,Bunker Hill Klan,No Notes,38.8758445,-98.7039655,1924
+537,74,Overbrook,65,Osage County,No Notes,38.7805607,-95.5572026,1924
+538,74,Linwood,68,Not Named,No Notes,39.001392,-95.0391356,1923
+539,74,Valley Falls,69,Not Named,No Notes,39.3433316,-95.460253,1924
+540,74,Hoisington,70,Not Named,No Notes,38.5180672,-98.7781394,1923
+541,74,Topeka,78,Not Named,No Notes,39.0558235,-95.6890185,1923
+542,74,Onaga,81,Not Named,No Notes,39.4888846,-96.1699986,1925
+543,74,Tonganoxie,88,Not Named,No Notes,39.109724,-95.0877465,1924
+544,74,Mullinsville,89,Not Named,No Notes,37.5861307,-99.475674,1924
+545,74,Osawatomie,91,John Brown Klan,No Notes,38.4972372,-94.9505207,1924
+546,74,Neodesha,99,Little Bear Klan,No Notes,37.4183929,-95.6802581,1926
+547,74,Stafford,109,Not Named,No Notes,37.9622371,-98.6006375,1924
+548,74,Osage City,140,Not Named,No Notes,38.6338981,-95.8258207,1926
+549,74,Miltonvale,142,Not Named,No Notes,39.3483299,-97.4461408,1926
+550,74,Conway Springs,145,Not Named,No Notes,37.3902975,-97.6422723,1924
+551,74,Salina,146,Not Named,No Notes,38.8402805,-97.6114237,1931
+552,74,Leavenworth,150,Not Named,No Notes,39.3111112,-94.9224637,1927
+553,74,Council Grove,161,Not Named,No Notes,38.6611187,-96.4919473,1926
+554,74,Abilene,172,Not Named,No Notes,38.9172216,-97.2139094,1926
+555,74,Little River,175,Not Named,No Notes,38.3980652,-98.0119966,1926
+556,74,Chase County,190,Not Named,just chartered in January 1925,38.3,-96.583333,1925
+557,74,Hutchinson,207,Not Named,No Notes,38.0608445,-97.9297743,1927
+558,74,Hamilton,211,Not Named,No Notes,37.9794705,-96.1641647,1925
+559,74,Sterling,222,Not Named,No Notes,38.2100111,-98.2070059,1930
+560,74,Ottawa,243,Franklin County Klan,reorganized in 1935,38.611944,-95.266389,1926
+561,74,Greenleaf,248,Not Named,No Notes,39.7283364,-96.9761341,1926
+562,75,Covington,1,John B. Castleman Klan,"Kenton County, oldest klan in KY",39.0836712,-84.5085536,1923
+563,75,Newport,3,Campbell County Klan,No Notes,39.091449,-84.4957757,1927
+564,75,Newport,4,Henry Clay Klan,No Notes,39.091449,-84.4957757,1929
+565,75,Pendleton County,12,Not Named,No Notes,38.6900889,-84.359802,1925
+566,75,Winchester,21,Clark County,No Notes,37.990079,-84.1796503,1932
+567,75,Catlettsburg,30,Boyd Klan,No Notes,38.4048042,-82.6004369,1925
+568,75,Shelbyville,32,Shelby Klan,No Notes,38.2120144,-85.2235666,1929
+569,75,Glasgow,39,Barren Klan,No Notes,36.9958839,-85.9119215,1928
+570,75,Frankfort,55,David [sic] Boone Klan,No Notes,38.2009055,-84.8732835,1925
+571,75,Lebanon,61,Marion Klan,No Notes,37.5697868,-85.2527381,1925
+572,75,Sanford,65,Lincoln Klan,No Notes,37.5311901,-84.6618876,1925
+573,75,McCreary County,72,Not Named,No Notes,36.6973499,-84.4802606,1925
+574,75,Olive Hill,77,Carter Klan,No Notes,38.3000809,-83.1740654,1929
+575,75,Pineville,85,Not Named,No Notes,36.76203,-83.6949176,1925
+576,75,Lexington,87,Fayette Klan,No Notes,38.0405837,-84.5037164,1930
+577,75,Black Snake,125,Not Named,No Notes,36.7116839,-83.5140087,1926
+578,75,Louisville,127,Not Named,No Notes,38.2526647,-85.7584557,1926
+579,75,South Louisville,133,Not Named,No Notes,38.2063016,-85.7692277,1931
+580,75,Covington,136,Not Named,No Notes,39.0836712,-84.5085536,1931
+581,75,Portland,137,Not Named,May also be from Okloona or Louisville,38.7481239,-84.4477162,1931
+582,75,Elizabeth,139,Bourbon Klan,No Notes,38.1211819,-85.9741324,1930
+583,75,Louisville,143,Not Named,oldest in the city,38.2526647,-85.7584557,1931
+584,75,Glasgow,0,Barren County,No Notes,36.9958839,-85.9119215,1931
+585,75,Ashland,0,Boyd Klan,No Notes,38.4784144,-82.6379387,1930
+586,85,Pedro Miguel,1,Pacific Klan,Chartered in 1924,9.0186276,-79.612309,1931
+587,85,Gatun,2,Atlantic Klan,Chartered in 1924 in Cristobal,9.266667,-79.916667,1931
+588,74,El Dorado,1,Pioneer Klan,No Notes,37.821111,-96.858333,1921
+589,74,Arkansas City,3,Not Named,No Notes,37.065278,-97.039722,1921
+590,74,Winfield,27,Not Named,No Notes,37.239722,-96.995556,1921
+591,77,Portland,1,Witham Klan,"Witham Klan named for Dr. W. H. Witham, founder",43.661471,-70.2553259,1923
+592,77,York,4,Not Named,No Notes,43.1617483,-70.6482581,1925
+593,77,Kittery,5,Not Named,"dateline is August 16th, 1925, no paper identified",43.0881256,-70.736137,1925
+594,77,Pittsfield,10,Dirigo Klan,No Notes,44.7825145,-69.3833847,1929
+595,77,Presque Isle,12,Not Named,No Notes,46.681153,-68.0158615,1928
+596,77,Waterville,26,Not Named,No Notes,44.5520105,-69.6317121,1926
+597,77,Auburn,46,Androscoggin County,No Notes,44.0978509,-70.2311655,1925
+598,77,South Paris,49,Flanders Klanton,No Notes,44.223681,-70.5133929,1931
+599,77,Portland,54,Kumberland Kounty Klan,No Notes,43.661471,-70.2553259,1928
+600,78,Hagerstown,1,Not Named,No Notes,39.6417629,-77.7199932,1922
+601,78,Baltimore,1,Thomas Dixon Klan,"Chartered Feb 1922(Jackson). Simultaneous cross burnings in Delaware and Maryland, including Baltimore with twenty-five crosses, one for each of the twenty-five Klans in the city (Fiery Cross).",39.2903848,-76.6121893,1923
+602,78,Baltimore,2,Jefferson Klan,No Notes,39.2903848,-76.6121893,1923
+603,78,Indian Head,2,Not Named,No Notes,38.6001186,-77.1622016,1923
+604,78,Hyattsville,2,Not Named,No Notes,38.9559442,-76.9455301,1927
+605,78,Hyattsville,3,Not Named,No Notes,38.9559442,-76.9455301,1926
+606,78,Perryville,4,Cecil Klan,AKA Cissell Klan,39.5601129,-76.0713385,1924
+607,78,Cambridge,5,Choptank Klan,No Notes,38.5631744,-76.0788292,1923
+608,78,Annapolis,6,Severn Klan,No Notes,38.9784453,-76.4921829,1930
+609,78,Hampden,7,Not Named,No Notes,39.3333706,-76.632607,1923
+610,78,Havre de Grace,7,Harford Klan,No Notes,39.5492792,-76.091617,1924
+611,78,Hurlock,10,Eagle Klan,No Notes,38.6355387,-75.8615316,1923
+612,78,Odenton,11,Not Named,No Notes,39.0839981,-76.7002462,1923
+613,78,Brunswick,13,Gibralter Klan,No Notes,39.3142682,-77.6277679,1925
+614,78,Hagerstown,14,Dixie Klan,No Notes,39.6417629,-77.7199932,1926
+615,78,Centerville,15,Queen Anne's County Klan,No Notes,39.0417785,-76.0663334,1923
+616,78,Columbia,17,Kolumbia Klan,No Notes,39.2037144,-76.8610462,1923
+617,78,Takoma,18,Not Named,No Notes,38.9725465,-77.0204624,1926
+618,78,Oakland,20,Not Named,May have also been number 10 in the state,39.4078747,-79.4067116,1923
+619,78,Elkton,23,Elk Klan,"organized ten years ago. 12th anniversary celebrated on 12 Feb 35. Meets in Jr. O. U. A. M. Hall, Childs, Md., every Tuesday",39.6067789,-75.8332718,1927
+620,78,Marion,25,Not Named,No Notes,38.0392905,-75.7707639,1925
+621,78,Snow Hill,28,Not Named,No Notes,38.1770634,-75.3926959,1923
+622,78,Cumberland,37,Fort Cumberland Klan,"Established October 31, 1922 according to FF. Ebay photo has label giving Fort Cumberland Klan No. 37, which seller dates as approximately 1919. Give or take two years.",39.6528654,-78.7625185,1924
+623,78,Bethesda,44,Not Named,No Notes,38.984652,-77.0947092,1926
+624,78,Baltimore,45,Not Named,No Notes,39.2903848,-76.6121893,1931
+625,78,Mt. Rainier,51,Not Named,No Notes,38.9415,-76.9649751,1927
+626,78,Rising Sun,52,Not Named,No Notes,39.6978871,-76.0627266,1933
+627,78,Capitol Heights,53,Not Named,No Notes,38.8851122,-76.9158068,1932
+628,78,Hampden,55,Not Named,"Organized last spring, with 31 members. Since then it has naturalized 35, reinstated 4, and has 11 applications on hand. AKA  Baltimore-Hamden",39.3333706,-76.632607,1929
+629,78,Westminster,59,Not Named,No Notes,39.5753791,-76.9958149,1932
+630,78,Cumberland,60,Loyal Klan,No Notes,39.6528654,-78.7625185,1933
+631,78,Poolsville,63,Not Named,No Notes,39.1459392,-77.4169311,1935
+632,79,Boston,1,Mohawk Klan,May have also been located in Charlemont,42.3600825,-71.0588801,1922
+633,79,Brockton,2,Mayflower Klan,No Notes,42.0834335,-71.0183787,1927
+634,79,Berkshire County,2,Western Gateway Klan,No Notes,42.311782,-73.1821623,1926
+635,79,Athol,3,Not Named,No Notes,42.5959329,-72.2267383,1927
+636,79,Worcester,4,Not Named,"Organized as a provisional Klan in May 1922, chartered on 25 Mar 26",42.2625932,-71.8022934,1931
+637,79,Pittsfield,9,Berkshire Klan,No Notes,42.4500845,-73.2453824,1926
+638,79,Northampton,6,Hampshire Klan,No Notes,42.3250896,-72.6412013,1928
+639,79,Ward Hill,7,North Essex Klan,No Notes,42.7567572,-71.1036688,1927
+640,79,Upton-Whitin,8,Not Named,No Notes,42.4072107,-71.3824374,1926
+641,79,Boston,11,Tea Party Klan,"Massachusetts has now become a Realm in 1926 (Fellowship Forum). The Boston Tea Party Klan No. 11, has a very interesting history, while it stands number eleven in the list of chartered Klans in the R",42.3600825,-71.0588801,1926
+642,79,Leonminster,13,Paul Revere Klan,AKA Gardner Klan,42.5250906,-71.759794,1930
+643,79,Springfield,14,Not Named,Springfield Ethan Allen Klan No. 74 [sic],42.1014831,-72.589811,1922
+644,79,Gardner,14,Not Named,No Notes,42.5750883,-71.998133,1927
+645,79,Framingham,15,Ashfram Klan,No Notes,42.279286,-71.4161565,1930
+646,79,Waltham,17,Gunder Klan,Also attributed as number 16 (Kourier Magainze),42.3764852,-71.2356113,1931
+647,79,Lowell,18,Not Named,Hosts Neva Miller Moss,42.6334247,-71.3161718,1929
+649,79,Sutton,21,General Rufus Putnam Klan,No Notes,42.1500353,-71.7632878,1931
+650,79,Cape Cod,25,Kape Kod Klan,No Notes,41.700808,-70.472904,1932
+651,79,Rutland,30,Naquog Klan,"Also attributed to Holden, MA (Kourier Magazine)",42.3695086,-71.9481211,1931
+652,79,Lynn,33,Viking Klan,No Notes,42.466763,-70.9494938,1927
+653,80,Ann Arbor,1,Arbor Klan,No Notes,42.2808256,-83.7430378,1926
+654,80,Flint,4,Not Named,No Notes,43.0125274,-83.6874562,1922
+655,80,Genesee,4,Genesee Klan,No Notes,43.0935147,-83.6135572,1931
+656,80,Lapeer County,4,Lapeer County Klan,No Notes,43.0482433,-83.1649001,1932
+657,80,Jackson County,5,Not Named,No Notes,42.1764362,-84.3542049,1932
+658,80,Adrian,16,Lenawee County Klan,No Notes,41.8975471,-84.0371659,1931
+659,80,Oakland City,21,Not Named,No Notes,42.7561109,-83.1434573,1926
+660,80,Tuscola,23,Not Named,No Notes,43.326413,-83.6571828,1926
+661,80,Alena,24,Gratiot Klan,No Notes,44.3148443,-85.6023643,1928
+662,80,Port Huron,25,William Jennings Bryan Klan,No Notes,42.9708634,-82.4249142,1926
+663,80,Mecosta County,28,Not Named,"Also attributed to Big Rapids, MI. AKA Mecosta County Klan",43.6201025,-85.354965,1930
+664,80,Newaygo County,29,Not Named,No Notes,43.5593582,-85.7666645,1923
+665,80,St. John's,31,Klinton Kounty Klan,No Notes,43.001143,-84.5591521,1925
+666,80,Detroit,32,Dolley Madison Klan,No Notes,42.331427,-83.0457538,1928
+667,80,Niles,33,Pottawattamie Klan,No Notes,41.8297694,-86.2541768,1926
+668,80,Muskegon,34,Bishop Klan,No Notes,43.2341813,-86.2483921,1925
+669,80,Grand Rapids,37,Not Named,No Notes,42.9633599,-85.6680863,1929
+670,80,Bay City,41,Not Named,No Notes,43.5944677,-83.8888647,1926
+671,80,Hartford,46,Not Named,No Notes,42.2067051,-86.1666876,1926
+672,80,Wyandotte,49,Bryan Klan,No Notes,42.2142064,-83.1499239,1930
+673,80,Wyandotte,65,Monroe Klan,No Notes,42.2142064,-83.1499239,1926
+674,80,Niles,66,Gateway City Klan,No Notes,41.8297694,-86.2541768,1929
+675,80,Wayne County,68,Wayne County Klan,Also attributed to Detriot. The name of the Detroit Klan when it finally got its charter in 1925 (Jackson).,42.2790746,-83.336188,1926
+676,80,Allegan,77,Cheshire Klan,No Notes,42.5291989,-85.8553031,1927
+677,80,Berkeley,91,Not Named,"Chartered June 23, 1926",42.5030908,-83.1835389,1931
+678,80,Williamston,104,Not Named,No Notes,42.6889235,-84.2830245,1931
+679,80,Iron Mountain,112,Not Named,Seven years old as of June 1931(Kourier Magazine). AKA Kloverland Klan,45.8202334,-88.0659603,1931
+680,80,Sault Ste. Marie,118,Lock City Klan,No Notes,44.3148443,-85.6023643,1927
+681,80,Flint,121,Dixie Highway Klan,No Notes,43.0125274,-83.6874562,1928
+682,80,Kalamazoo,126,Not Named,No Notes,42.2917069,-85.5872286,1931
+683,80,Long Rapids,143,Not Named,No Notes,45.1258448,-83.7224883,1931
+684,80,Battle Creek,146,Not Named,No Notes,42.3211522,-85.1797142,1929
+685,80,Detroit,149,Triangle Klan,Mainly situated in the east side of Detriot,42.331427,-83.0457538,1931
+686,80,Pontiac,151,Not Named,No Notes,42.6389216,-83.2910468,1928
+687,80,Woodmere,152,Not Named,No Notes,42.3078549,-83.1360117,1931
+688,80,Constantine,159,St. Jo Klan,AKA St. Joseph Klan,41.8411603,-85.6686026,1929
+689,80,Saginaw,161,Wanigas Klan,No Notes,43.4194699,-83.9508068,1931
+690,80,Detroit,165,Not Named,The city's newest and largest Klan,42.331427,-83.0457538,1931
+691,80,Flint,166,Friendship Klan,"Chartered Feb 17, 1933",43.0125274,-83.6874562,1933
+692,81,Minneapolis,2,North Star Klan,Began August 1921 according to Jackson,44.977753,-93.2650108,1923
+693,81,Albert Lea,7,Not Named,No Notes,43.6478006,-93.3686555,1923
+694,81,St. James,15,Watowan Klan,No Notes,43.9820734,-94.6283192,1928
+695,81,St. Paul,62,Not Named,No Notes,44.9537029,-93.0899578,1928
+696,81,St. Paul,236,Not Named,No Notes,44.9537029,-93.0899578,1931
+697,81,New Ulm,29,New Ulm Provisional Klan,No Notes,44.3144394,-94.4593018,1923
+698,82,Natchez,2,Not Named,No Notes,31.5604442,-91.403171,1924
+699,82,Vicksburg,3,Jefferson Davis Klan,No Notes,32.3526456,-90.877882,1921
+700,82,Biloxi,4,Not Named,No Notes,30.3960318,-88.8853078,1922
+701,82,Logtown,5,Hancock County Klan,No Notes,30.2829726,-89.6211682,1924
+702,82,Canton,6,J. Z. George Klan,No Notes,32.6126381,-90.0367512,1922
+703,82,New Augusta,16,Not Named,No Notes,31.2024033,-89.0347743,1923
+704,82,Hattiesburg,18,Not Named,No Notes,31.3271189,-89.2903392,1922
+705,82,McComb,23,Not Named,No Notes,31.2437872,-90.4531535,1928
+706,82,Laurel,30,Dr. R. C. Johnston Klan,No Notes,31.6940509,-89.1306124,1926
+707,82,Brookhaven,36,Thomas Walker Klan,AKA Tom Walker Adams Klan,31.5790588,-90.4406506,1924
+708,82,Poplarville,40,Bilbo Klan,No Notes,30.8401863,-89.5342315,1923
+709,82,Sardis,44,Not Named,No Notes,34.4370511,-89.9159227,1923
+710,82,Greenwood,51,Leflore Klan,No Notes,33.5162315,-90.1795281,1922
+711,82,Meridian,54,Not Named,No Notes,32.3643098,-88.703656,1923
+712,82,Philadelphia,58,Not Named,No Notes,32.7715227,-89.1167275,1926
+713,82,Ripley,63,Not Named,No Notes,34.7298181,-88.9506181,1923
+714,82,Summit,65,Captain Boyd Klan,No Notes,31.2837867,-90.4684315,1923
+715,82,Aberdeen,70,Not Named,No Notes,33.8251139,-88.5436553,1924
+716,82,Lexington,71,Not Named,No Notes,33.1131833,-90.0531408,1923
+717,82,Osyka,84,Not Named,No Notes,31.0068453,-90.4723178,1923
+719,82,Sumrall,88,Sumrall Klan,No Notes,31.4173935,-89.5422909,1926
+720,82,Morton,90,Not Named,No Notes,32.3537557,-89.6545171,1923
+721,82,Itta Bena,91,Itta Bena Klan,No Notes,33.49512,-90.3198067,1923
+723,82,Schlater,95,Not Named,No Notes,33.6406729,-90.3481422,1923
+724,82,Tupelo,97,Not Named,No Notes,34.2576066,-88.7033859,1923
+725,82,Lexington,98,Water Valley Klan,No Notes,33.1131833,-90.0531408,1924
+726,82,New Albany,100,Not Named,No Notes,34.4942683,-89.0078418,1923
+727,82,Iuka,100,Not Named,No Notes,34.8117565,-88.1900415,1924
+728,82,Corinth,105,Not Named,No Notes,34.9342548,-88.5222702,1923
+729,84,Havre,1,Hill County Klan,No Notes,48.549999,-109.6840887,1922
+730,84,Laurel,2,Not Named,No Notes,45.6691159,-108.7715328,1923
+731,84,Glasgow,5,Valley County Klan,No Notes,48.1969637,-106.6367127,1922
+732,84,Billings,6,Not Named,No Notes,45.7832856,-108.5006904,1923
+733,84,Lewiston,8,Not Named,No Notes,47.0624732,-109.428238,1923
+734,84,Livingston,9,Not Named,No Notes,45.6614105,-110.5599556,1924
+735,84,Bozeman,10,Kascade County Klan,No Notes,45.6769979,-111.0429339,1923
+736,84,Polson,13,Lake City Klan,No Notes,47.6932004,-114.1631275,1924
+737,84,Red Lodge,14,Red Lodge Klan,No Notes,45.1857782,-109.2468211,1923
+738,84,Round Up,18,Not Named,No Notes,46.445242,-108.5417999,1923
+739,84,Great Falls,19,Kascade County Klan,No Notes,47.4941836,-111.2833449,1923
+740,84,Miles City,21,Not Named,No Notes,46.4083362,-105.8405582,1926
+741,84,Carbon County,23,Not Named,Karbon Ko[unty?] Klan,45.23,-109.02,1924
+742,84,Superior,28,Not Named,No Notes,47.1915937,-114.8917978,1924
+743,84,Harlowton,29,Wheatland Klan,No Notes,46.435512,-109.8343499,1923
+744,84,Butte,30,Kontinental Klan,No Notes,46.0038232,-112.5347776,1922
+745,86,Omaha,1,Not Named,,41.2523634,-95.9979883,1931
+746,86,Lincoln,11,Not Named,No Notes,40.8257625,-96.6851982,1923
+747,86,Nebraska City,12,Not Named,No Notes,40.6765745,-95.8593616,1931
+748,86,Kearney,13,Buffalo Klan,No Notes,40.6993303,-99.0816784,1923
+749,86,Edgar,17,Not Named,No Notes,40.3722317,-97.9714319,1930
+750,86,Litchfield,35,Not Named,No Notes,41.1564497,-99.1535342,1926
+751,86,Scotts Bluff,36,Not Named,No Notes,41.8140936,-103.6362715,1927
+752,86,Fairbury,53,Jefferson Klan,No Notes,40.1466169,-97.1798456,1928
+753,86,Red Cloud,53,Not Named,No Notes,40.0890046,-98.5195891,0
+754,86,Chaldron,60,Not Named,AKA Chadron,42.8294187,-102.9999069,1926
+755,86,Albany,62,Not Named,No Notes,40.306623,-99.4783816,1926
+756,86,York County,76,Not Named,No Notes,40.7941448,-97.5247243,1926
+757,86,Benkelman,83,Not Named,No Notes,40.047217,-101.5332221,1929
+758,86,Ulysses,88,Butler County,No Notes,41.0719562,-97.201984,1931
+759,86,Central City,90,Not Named,No Notes,41.1158476,-98.0017248,1930
+760,86,Hay Springs,97,Not Named,No Notes,42.6838618,-102.6899007,1928
+761,86,Trenton,102,Not Named,No Notes,40.1747708,-101.0129668,1932
+762,86,Wood River,112,Cedardale Klan,active throughout Hall County,40.820569,-98.6000704,1927
+763,86,Fremont,118,Not Named,No Notes,41.4333909,-96.4981467,1926
+764,86,Grand Island,135,Not Named,No Notes,40.9263957,-98.3420118,1931
+765,86,Chadron,475,Not Named,No Notes,42.8294187,-102.9999069,1928
+766,87,Las Vegas,2,Klark Kounty Klan,No Notes,36.1699412,-115.1398296,1926
+767,88,Portsmouth,1,Not Named,first to get a charter,43.0717552,-70.7625532,1926
+768,88,Androscoggin Valley,4,Androscoggin Valley Klan,"chartered Oct 16, 1928",44.4780046,-71.1708214,1931
+769,88,Whitefield,7,Johns River Klan,No Notes,44.3731103,-71.6101011,1931
+770,88,Mt. Forest,10,Not Named,No Notes,44.4711694,-71.2009102,1931
+771,89,Hoboken,1,Not Named,No Notes,40.7439905,-74.0323626,1922
+772,89,Paterson,1,Leif Erickson Klan,No Notes,40.9167654,-74.171811,1931
+773,89,Rutherford,2,Albert Pike Klan,No Notes,40.826489,-74.1068091,1926
+774,89,Newark,3,George Washington Klan,"Circa 1922, district kleagle says of the Klan, 'Its membership is now two millions. We have just passed the fifteen hundred mark in this local Klan. That is the minimum for a charter.'",40.735657,-74.1723667,1923
+775,89,Bloomfield,4,Not Named,No Notes,40.8067546,-74.1854209,1930
+776,89,Orange,5,Not Named,No Notes,40.7706187,-74.2326478,1932
+777,89,Lakewood,6,Not Named,No Notes,40.082129,-74.2097014,1931
+778,89,Asbury Park,7,Not Named,No Notes,40.2203907,-74.0120817,1931
+779,89,Red Bank,10,Not Named,"Lester T. Mount, EC",40.3470543,-74.0643065,1931
+780,89,Elizabeth,11,Betsy Ross Klan,"Sometimes reported as located in PA, but NJ seems more likely",40.6639916,-74.2107006,1923
+781,89,Wildwood,11,Theodore Roosevelt Klan,No Notes,38.9917797,-74.8148894,1926
+782,89,Rio Grande,11,Theodore Roosevelt Klan,No Notes,39.0145573,-74.8815594,1926
+783,89,Bridgeton,16,Arden M. Ellis Klan,chartered in 1926,39.427337,-75.2340768,1926
+784,89,Trenton,17,Not Named,No Notes,40.2170534,-74.7429384,1930
+785,89,Clark Township,17,Unity Klan,No Notes,40.6278031,-74.3127631,1931
+786,89,Palermo,19,Ocean City Klan,No Notes,39.2401149,-74.6723822,1928
+787,89,Elizabeth,22,Not Named,No Notes,40.6639916,-74.2107006,1929
+788,89,Kenilworth,22,Not Named,No Notes,40.6764911,-74.2907032,1930
+789,89,Morristown,23,Not Named,No Notes,40.7967667,-74.4815438,1931
+790,89,Port Elizabeth,24,Francis E. Stever Klan,No Notes,39.3134481,-74.9810079,1929
+791,89,Millville,24,Not Named,No Notes,39.4020596,-75.0393438,1934
+792,89,Margate City,32,Atlantic City Klan,No Notes,39.327894,-74.5034858,1928
+793,89,Egg Harbor,34,A. A. Andridge Klan,No Notes,39.3822537,-74.6166192,1926
+794,89,Pleasantville,37,Not Named,active also in Bargaintown and Pleasantville,39.3898388,-74.5240422,1929
+795,89,Salem,38,Not Named,No Notes,39.5717796,-75.4671423,1931
+796,89,Plainfield,40,Not Named,No Notes,40.6337136,-74.4073736,1926
+797,89,Scotch Plains,40,Not Named,No Notes,40.6400404,-74.369018,1934
+798,89,New Brunswick,44,Rutgers Klan,No Notes,40.4862157,-74.4518188,1931
+799,89,New Egypt,45,Edgewood Klan,No Notes,40.0676135,-74.5307093,1927
+800,89,South Amboy,47,Anchor Klan,No Notes,40.4778838,-74.290702,1931
+801,89,Tuckerton,49,Tuckerton Klan,No Notes,39.603174,-74.340145,1931
+802,89,Waretown,50,Not Named,No Notes,39.7915084,-74.1951395,1927
+803,89,Perth Amboy,55,Stone Mountain Klan,No Notes,40.5067723,-74.2654234,1926
+804,89,Springdale,60,Not Named,active in Trenton,39.8934965,-74.9880895,1931
+805,89,Mountainside,63,Mountainside Klan,No Notes,40.6723242,-74.3573722,1932
+806,89,Hightstown,66,Not Named,No Notes,40.2695538,-74.5232089,1926
+807,89,Camden,67,Not Named,No Notes,39.9259463,-75.1196199,1930
+808,89,Camden,68,Richard D. Early Klan,No Notes,39.9259463,-75.1196199,1931
+809,89,Merchanville,69,Not Named,No Notes,39.9503838,-75.0479726,1926
+810,89,Hackensack,70,Hiram Evans Klan,AKA the H. W. Evans Klan,40.8859325,-74.0434736,1926
+811,89,Ridgewood,72,Not Named,No Notes,40.9792645,-74.1165313,1929
+812,89,Burlington County,77,Progressive Heights Klan,No Notes,39.8558488,-74.6868815,1926
+813,89,Lumberton,77,Mt. Holly Klan,Loyal Body Klan,39.9676482,-74.8003877,1932
+814,89,Ridgewood,82,Not Named,No Notes,40.9792645,-74.1165313,1932
+815,89,Jersey City,83,Not Named,No Notes,40.7281575,-74.0776417,1931
+816,89,Union City,84,Not Named,No Notes,40.6975898,-74.2631635,1928
+817,89,Atlantic City,86,Neptune Klan,No Notes,39.3642834,-74.4229266,1931
+818,83,El Dorado Springs,1,El Dorado Klan,No Notes,37.8769799,-94.0213303,1923
+819,83,St. Joseph,2,Not Named,No Notes,39.7674578,-94.846681,1931
+820,83,Carthage,3,Ozark Klan,"Also attributed to Jolpin, MO (Kourier Magazine and Chalmers)",37.176447,-94.3102228,1922
+821,83,Webb City,3,Ozark Klan,No Notes,37.1464475,-94.4630035,1923
+822,83,St. Joseph,4,Not Named,No Notes,39.7674578,-94.846681,1923
+823,83,Fortescue,5,Not Named,No Notes,40.0522205,-95.3183117,1923
+824,83,Mound City,5,Not Named,No Notes,38.6270025,-90.1994042,1926
+825,83,Monett,6,Not Named,No Notes,36.9289502,-93.9277071,1923
+826,83,Neosho,7,Isaac Shambaugh Klan,No Notes,36.8689554,-94.367996,1922
+827,83,Joplin,8,Ozark Klan,No Notes,37.0842271,-94.513281,1923
+828,83,Agency,10,Not Named,No Notes,39.644718,-94.7399611,1924
+829,83,Springfield,12,Not Named,No Notes,37.2089572,-93.2922989,1923
+830,83,Carthage,13,Paul Revere Klan,No Notes,37.176447,-94.3102228,1926
+831,83,Lewiston,14,Nathan Hale Klan,No Notes,40.086154,-91.8132225,1923
+832,83,DeKalb,15,Not Named,No Notes,39.8554602,-94.43879,1923
+833,83,Faucett,20,Not Named,No Notes,39.5997974,-94.7988868,1923
+834,83,Gower,21,Not Named,No Notes,39.6108304,-94.5994003,1923
+835,83,Holt County,24,Benjamin Franklin Klan,No Notes,40.0704458,-95.1849219,1923
+836,83,Hickman Mills,26,Not Named,No Notes,38.9158139,-94.526348,1923
+837,83,Independence,27,Not Named,No Notes,39.0911161,-94.4155068,1926
+838,83,Lees Summit,29,Not Named,No Notes,38.9108408,-94.3821724,1924
+839,83,Holden,30,Not Named,No Notes,38.7141778,-93.9913303,1926
+840,83,Longton,31,Not Named,No Notes,37.9642529,-91.8318334,1923
+842,83,Kansas City,38,Agapa Klan,No Notes,39.0997265,-94.5785667,1923
+843,83,Kansas City,39,Santa Fe Klan,No Notes,39.0997265,-94.5785667,1924
+844,83,Kansas City,40,Not Named,"AKA Heart of America Klan or Glen Klan. Also attributed to Glen, MO.",39.0997265,-94.5785667,1926
+845,83,Kansas City,41,West Port Klan,No Notes,39.0997265,-94.5785667,1923
+846,83,Kansas City,42,Central Klan,No Notes,39.0997265,-94.5785667,1923
+847,83,Kansas City,44,North West Klan,AKA the Northeast Klan,39.0997265,-94.5785667,1923
+848,83,Kansas City,45,Albert Pike Klan,No Notes,39.0997265,-94.5785667,1923
+849,83,Linwood,45,Not Named,No Notes,38.7979988,-90.9059053,1923
+850,83,Sarcoxie,47,Not Named,No Notes,37.0692266,-94.1166043,1923
+851,83,Poplar Bluff,48,Not Named,No Notes,36.7569994,-90.392888,1923
+852,83,Trenton,49,Not Named,No Notes,40.0789018,-93.6166074,1923
+853,83,Naylor,50,Not Named,No Notes,36.5753359,-90.6040037,1926
+854,83,Liberal,57,Not Named,No Notes,37.5581024,-94.5199553,1923
+855,83,Malden,61,Not Named,No Notes,36.5570028,-89.9664798,1923
+856,83,Parma,63,Not Named,No Notes,36.613669,-89.8164743,1924
+857,83,Rochester,65,Not Named,No Notes,39.9122168,-94.6846845,1923
+859,83,Caruthersville,86,Not Named,No Notes,36.1931245,-89.6556353,1931
+860,83,Lilbourn,91,Not Named,No Notes,36.5922816,-89.6153571,1926
+861,83,Henrietta,92,Not Named,No Notes,39.2341782,-93.9354988,1923
+862,83,Maitland,98,Nodaway Klan,No Notes,40.2008262,-95.0744187,1923
+863,83,Windsor,103,Not Named,No Notes,38.5322401,-93.5221545,1931
+864,83,Appleton City,106,Not Named,No Notes,38.1905819,-94.0293867,1926
+865,83,Hannibal,111,Not Named,No Notes,39.7083789,-91.3584816,1927
+866,83,Warrensburg,114,Not Named,No Notes,38.7627893,-93.7360498,1926
+867,83,Tipton,115,Not Named,No Notes,38.655578,-92.7799153,1926
+868,83,Ironton,117,Not Named,No Notes,37.600556,-90.631667,1924
+869,83,St. Francois County,120,Not Named,No Notes,37.7652755,-90.4879916,1926
+870,83,Humansville,126,Not Named,No Notes,37.795556,-93.578333,1926
+871,83,Bowling Green,127,Not Named,No Notes,39.341667,-91.2,1926
+872,83,Lousiana,128,Not Named,No Notes,39.445833,-91.056324,1926
+873,83,Kirksville,132,Adair County,No Notes,40.194722,-92.583333,1932
+874,83,Sullivan,134,Not Named,No Notes,38.2081045,-91.1604207,1926
+875,83,Springfield,137,Capitol Klan,Also attributed to Jefferson City and known as the Kapitol Klan (Freedom Forum).,37.2089572,-93.2922989,1926
+876,83,Russellville,138,Not Named,No Notes,38.511696,-92.4401869,1926
+877,83,Eldon,140,Not Named,No Notes,38.3483636,-92.5815759,1926
+878,83,Slater,141,Not Named,No Notes,39.2180805,-93.0690852,1925
+879,83,Marshall,142,Not Named,No Notes,39.1230777,-93.1968704,1926
+880,83,Frankfort,144,Not Named,No Notes,39.4900448,-91.3201473,1926
+881,83,Lewiston,146,Not Named,No Notes,40.086154,-91.8132225,1926
+882,83,Oregon,150,Not Named,No Notes,39.986667,-95.1425,1926
+883,83,Curryville,155,Not Named,No Notes,39.3455986,-91.3448719,1926
+884,83,St. Louis,162,Not Named,No Notes,38.627222,-90.197778,1926
+885,83,Bolivar,168,Not Named,No Notes,37.616667,-93.416667,1926
+886,83,Weston,169,Not Named,No Notes,39.413333,-94.897778,1926
+887,83,Brookfield,172,Not Named,No Notes,39.783056,-93.073889,1926
+888,83,George Washington,173,Not Named,No Notes,38.6487895,-90.3107962,1926
+889,83,Buchanan County,190,Not Named,No Notes,39.6349791,-94.8105955,1931
+890,83,St. Louis,191,North Side Klan,No Notes,38.6270025,-90.1994042,1931
+891,91,Roosevelt,0,Not Named,No Notes,40.678713,-73.5890168,1935
+892,91,Brooklyn,1,Not Named,No Notes,40.6781784,-73.9441579,1921
+893,91,New York City,1,Albert Pike Klan,No Notes,40.7127837,-74.0059413,1932
+894,91,Brooklyn,2,Not Named,No Notes,40.6781784,-73.9441579,1923
+895,91,Grand Island,3,Grand Island Klan,No Notes,43.0216283,-78.9657302,1924
+896,91,Jamaica,5,Not Named,No Notes,40.699683,-73.807903,1923
+897,91,Buffalo,5,Not Named,No Notes,42.8864468,-78.8783689,0
+898,91,Northport,6,Not Named,No Notes,40.9009313,-73.3431727,1925
+899,91,Lynbook,8,Lynbrook Klan,No Notes,40.6548253,-73.6717969,1931
+900,91,Valley Stream,9,"L. I., Pioneer Klan",No Notes,40.6642699,-73.7084645,1932
+901,91,Roosevelt,11,Theodore Roosevelt Klan,No Notes,40.678713,-73.5890168,1931
+902,91,Deposit,12,Broome County,No Notes,42.0600834,-75.4276769,1931
+903,91,Millport,14,Not Named,Operating since 1924,42.2653526,-76.8346791,1931
+904,91,Onondaga,16,Not Named,No Notes,42.978056,-76.198333,1930
+905,91,Hancock,17,Not Named,No Notes,41.954722,-75.283333,1931
+906,91,Horsehead,19,Newton Klan,Also operated in and around Chemung County,42.166389,-76.8275,1928
+907,91,Binghampton,20,Not Named,No Notes,42.0986867,-75.9179738,1924
+908,91,Harpursville,21,Broome County Klan,No Notes,42.1784124,-75.6246297,1931
+909,91,Orange County,22,Not Named,Also operated in Port Jervis,41.3911653,-74.3118212,1931
+910,91,Elmira,23,Not Named,No Notes,42.0897965,-76.8077338,1927
+911,91,Port Jefferson,25,Suwasset Klan,No Notes,40.9464875,-73.0692732,1932
+912,91,Huntington,28,Not Named,No Notes,40.8681539,-73.425676,1935
+913,91,Patchogue,30,Trinity Klan,No Notes,40.7659783,-73.019343,1926
+914,91,Smithtown,33,Nissequoque Klan,No Notes,40.8559314,-73.2006687,1926
+915,91,Endicott,34,Broome County,No Notes,42.098408,-76.0493684,1931
+916,91,Far Rockaway,35,Not Named,"AKA Inwood, Long Island, Rockaway Klan",40.60913,-73.75054,1929
+917,91,Flushing,36,Not Named,"Chartered on March 10th, 1926",40.7674987,-73.833079,1931
+918,91,Niagara Falls,37,Not Named,No Notes,43.0962143,-79.0377388,1932
+919,91,Williamsburg,37,Williamsburg Klan,active by 1932,40.7081156,-73.9570696,1932
+920,91,Jamaica,38,Major Emmett D. Smith Klan,No Notes,40.699683,-73.807903,1927
+921,91,Staten Island,39,Not Named,No Notes,40.5795317,-74.1502007,1932
+922,91,Queens,40,Not Named,Concentrated in the Flushing neighborhood,40.7282239,-73.7948516,1931
+923,91,Jamaica,41,Not Named,No Notes,40.699683,-73.807903,1931
+924,91,Queens County,41,Not Named,No Notes,40.7282239,-73.7948516,1932
+925,91,Newark Valley,42,Not Named,No Notes,42.2236853,-76.183263,1931
+926,91,Amityville,43,Nathan Hale Klan,No Notes,40.6789893,-73.4170673,1931
+927,91,Binghamton,45,Broome County,"Consolidated with 242, Binghamton",42.0986867,-75.9179738,1931
+928,91,Peekskill,46,Lincoln Klan,No Notes,41.2900939,-73.9204158,1932
+929,91,Hempstead,47,Unity Klan,No Notes,40.7062128,-73.6187397,1929
+930,91,Jamesburg,48,Rader Klan,No Notes,42.153333,-79.257778,1927
+931,91,Poughkeepsie,48,Not Named,No Notes,41.7003713,-73.9209701,1927
+932,91,Chatham,50,Not Named,No Notes,42.3642516,-73.5948391,1928
+933,91,Auburn,58,Not Named,No Notes,42.9317335,-76.5660529,1929
+934,91,Hornell,63,Steuben County,No Notes,42.3278477,-77.6611025,1931
+935,91,Corning,64,Steuben County,No Notes,42.1428521,-77.0546903,1930
+936,91,Bath,65,Steuben County,No Notes,42.3370164,-77.3177577,1931
+937,91,Canisteo,68,Purdy Klan,No Notes,42.2703487,-77.6058225,1928
+938,91,Beacon,69,Not Named,chartered,41.5048158,-73.9695832,1927
+939,91,Midland,72,Ridgewood Klan,No Notes,40.5763116,-74.1003384,1930
+940,91,Oneonta,73,Not Named,Reorganized in 1935,42.455833,0,1935
+941,91,Smithtown,76,Not Named,No Notes,40.862778,-73.215278,1925
+942,91,Clarence,76,Akron Klan,No Notes,42.977012,-78.592015,1931
+943,91,Glendale-Ridgewood,78,Not Named,No Notes,40.698439,0,1931
+944,91,Albany,79,Not Named,No Notes,42.6525793,-73.7562317,1931
+945,91,Richmond Hill,83,Not Named,No Notes,40.6958108,-73.8272029,1928
+946,91,Schenectady,84,Electric City Klan,No Notes,42.8142432,-73.9395687,1931
+947,91,Wanakena,86,Not Named,No Notes,44.1339512,-74.9210219,1932
+948,91,Rawling,87,Harlem Valley Klan,No Notes,42.9178401,-73.3980209,1931
+949,91,Rochester,87,Lindbergh Klan,No Notes,43.16103,-77.6109219,1932
+950,91,Auburn,88,Not Named,No Notes,42.9317335,-76.5660529,1929
+951,91,Fair Haven,93,Sterling Klan,No Notes,43.3164558,-76.7021747,1927
+952,91,Madison County,97,Madison County,"Stop, Look, and Listen Klan",42.9805975,-75.8069082,1929
+953,91,Cameron,98,Steuben County,No Notes,42.199167,-77.406389,1931
+954,91,Nelson,99,Cazenovia Klan,AKA The Kazenovia Klan,42.917222,-75.776944,1929
+955,91,Monroe,100,Not Named,No Notes,41.330794,-74.187597,1932
+956,91,Sherill,101,Oneida Klan,No Notes,43.070833,-75.599167,1929
+957,91,Schenectady,102,U. S. Grant Klan,No Notes,42.8142432,-73.9395687,1931
+958,91,De Ruyter,105,Not Named,No Notes,42.7584005,-75.8843616,1929
+959,91,Madison County,106,United Klan,No Notes,42.9805975,-75.8069082,1929
+960,91,Oswego County,109,Not Named,No Notes,43.482533,-76.1783739,1928
+961,91,Buffalo,113,Allegiance Klan,No Notes,42.8864468,-78.8783689,1931
+962,91,Maspeth,116,Not Named,Said to be about 9 years old in 1933,40.7294018,-73.9065883,1928
+963,91,Syracuse,120,Not Named,No Notes,43.0481221,-76.1474244,1930
+964,91,Oneonta,121,Not Named,No Notes,42.4528571,-75.0637746,1926
+965,91,Fulton,125,Not Named,Also mentioned as klavern 121,43.3228462,-76.4171585,1931
+966,91,Greigsville,126,Glenfield Klan,No Notes,42.83056,-77.89722,1931
+967,91,Hamilton,127,Not Named,No Notes,42.8270136,-75.5446238,1929
+968,91,Lockport,134,Not Named,No Notes,43.1706128,-78.6903098,1925
+969,91,Wawarsing,142,Kerhoulsson Klan,No Notes,41.7588883,-74.3573343,1930
+970,91,Buffalo,145,Austin Klan,No Notes,42.8864468,-78.8783689,1932
+971,91,Middletown,147,Not Named,No Notes,41.4459271,-74.4229341,1931
+972,91,Seneca Falls,149,Seneca Klan,Also operated out of Waterloo,42.9106219,-76.7966215,1928
+973,91,Yonkers,150,Charles Lindbergh Klan,No Notes,40.9312099,-73.8987469,1932
+974,91,Delanson,152,Fellowship Klan,No Notes,42.7453531,-74.1881834,1930
+975,91,Glenn Falls,153,Mohican Klan,No Notes,43.3095164,-73.6440058,1934
+976,91,Buffalo,154,Not Named,No Notes,42.8864468,-78.8783689,1926
+977,91,Westchester,160,Washington Irving Klan,Also operated out of Ossining and College Point,41.1220194,-73.7948516,1932
+978,91,Carthage,162,Four Square Klan,No Notes,43.981111,-75.606944,1929
+979,91,Watertown,163,Thomas Jefferson Klan,No Notes,43.975556,-75.906389,1931
+980,91,Rochester,172,Criterion Klan,Also operated out of Fairport,43.165556,-77.611389,1929
+981,91,Falconer,174,Not Named,No Notes,42.1186695,-79.1983799,1928
+982,91,Salem,176,Not Named,No Notes,43.1722983,-73.3276101,1931
+983,91,Springfield Gardens,177,Steadfast Klan,Also operated out of Queens,40.6626441,-73.7683784,1929
+984,91,Ilion,179,Not Named,No Notes,43.016667,-75.05,1929
+985,91,Newburgh,185,George Washington Klan,Also operated out of Cornwall-on-Hudson,41.5034271,-74.0104178,1928
+986,91,Forest City,188,Not Named,No Notes,40.7195597,-73.844755,0
+987,91,Haverstraw,191,Not Named,No Notes,41.1975947,-73.9645837,1931
+988,91,Rochester,192,Rochester Klan,No Notes,43.16103,-77.6109219,1932
+989,91,Pearl River,193,Not Named,No Notes,41.0589855,-74.0218063,1933
+990,91,New Rochelle,195,Huguenot Klan,Reorganized in 1934,40.9114882,-73.7823549,1934
+991,91,Beacon,202,Not Named,No Notes,41.5048158,-73.9695832,1926
+992,91,Port Chester,203,Victory Klan,No Notes,41.0017643,-73.6656834,1932
+993,91,Oswego,206,Never Fail Klan,Township also spelled Oswego in some records,43.4553461,-76.5104973,1931
+994,91,Ogdensburg,207,Not Named,No Notes,44.6942291,-75.4863364,1929
+995,91,Potsdam,208,Not Named,No Notes,44.6697805,-74.9813084,1929
+996,91,Messena,212,Power City Klan,"Described as ""newly reorganized"" in 1931",44.9281049,-74.891865,1931
+997,91,Rossie,214,Brasie Corners Klan,"AKA the Macomb Klan. Described as ""recently reorganized"" in 1931.",44.3786699,-75.6549495,1929
+998,91,Mannsville,215,Adams Klan,No Notes,43.7128457,-76.0627006,1929
+999,91,Bloomingdale,224,Saranac Lake Klan,No Notes,44.4078279,-74.0870965,1931
+1000,91,Selkirk,229,Capt. Andrew Hannay Klan,Chartered 21 July 28,42.5319998,-73.7985008,1931
+1001,91,Jay,230,Lake Placid Klan,No Notes,44.3750471,-73.728195,1930
+1002,91,Oswegatchie,231,Not Named,No Notes,44.1828405,-75.070196,1931
+1003,91,Mt. Vernon,234,Not Named,Operated throughout Westchester County,40.9125992,-73.8370786,1933
+1005,91,Johnson City,242,Broome County,kept name and number,42.116667,-75.959444,1931
+1006,91,Ilion,246,Mohawk Valley Klan,No Notes,43.016667,-75.05,1931
+1007,91,Long Island City,247,Long Island City Klan,No Notes,40.751,-73.941,1930
+1008,91,Bayshore,248,Not Named,No Notes,40.8471019,-73.8163834,1931
+1009,91,Oyster Bay,250,Not Named,No Notes,40.8656543,-73.5320685,1934
+1010,91,Cortland,252,Kortland Kounty Klan,No Notes,42.6011813,-76.1804843,1933
+1011,91,Carthage,253,Four Square Klan,No Notes,43.981111,-75.606944,1931
+1012,91,Queens County,254,Lincoln Klan,Newly chartered in 1931,40.7282239,-73.7948516,1931
+1013,91,Ridgewood,254,Not Named,No Notes,40.7108476,-73.8977693,1932
+1014,91,Westchester County,255,Not Named,No Notes,41.1220194,-73.7948516,1934
+1015,91,South Ozone Park,256,Not Named,", chartered 9 Mar 32",40.6764003,-73.8124984,1932
+1016,91,Rochester,392,Monroe Klan,No Notes,43.16103,-77.6109219,1932
+1017,91,Glens Falls,423,Not Named,No Notes,43.3095164,-73.6440058,1928
+1018,91,Delmar,473,Not Named,No Notes,42.618056,-73.836667,1928
+1019,92,Raleigh,1,Not Named,No Notes,35.7795897,-78.6381787,1924
+1020,92,Durham,4,Not Named,No Notes,35.9940329,-78.898619,1923
+1021,92,Wilmington,5,Not Named,No Notes,34.2257255,-77.9447102,1923
+1022,92,New Bern,13,Craven County Klan,No Notes,35.108493,-77.0441143,1929
+1023,92,Lexington,25,Not Named,No Notes,35.8240265,-80.2533838,1923
+1024,92,Salisbury,30,Not Named,No Notes,35.6709727,-80.4742261,1924
+1025,92,Charlotte,35,Not Named,No Notes,35.2270869,-80.8431267,1922
+1026,92,Wallace,38,Wallace Klan,No Notes,34.737222,-77.994722,1923
+1027,92,Asheville,40,Not Named,No Notes,35.5950581,-82.5514869,1924
+1028,92,Kenansville,46,Not Named,No Notes,34.9623883,-77.9622069,1922
+1029,92,Henderson,55,Not Named,No Notes,36.3295905,-78.3991638,1927
+1030,92,Spencer,57,Not Named,No Notes,35.6923614,-80.43478,1927
+1031,92,Hickory,58,Old Hickory Klan,No Notes,35.7344538,-81.3444573,1931
+1032,92,Calypso,73,Goshen Klan,No Notes,35.153776,-78.105269,1927
+1033,92,Forest City,93,Not Named,No Notes,35.3340108,-81.8651028,1927
+1034,92,Durham,95,Not Named,No Notes,35.9940329,-78.898619,1925
+1035,92,Dunn,98,Not Named,No Notes,35.3062743,-78.6089028,1925
+1036,92,Wilson,101,Not Named,No Notes,35.7212689,-77.9155395,1927
+1037,92,Atkinson,110,Not Named,No Notes,34.5285008,-78.171107,1931
+1038,92,Rocky Mount,113,Not Named,No Notes,35.9382103,-77.7905339,1931
+1039,92,Sanford,141,Not Named,No Notes,35.4798757,-79.1802994,1927
+1040,92,Hertford,137,Not Named,No Notes,36.1901579,-76.4660519,1926
+1041,92,Buncombe,151,Kounty Klan,No Notes,35.5931377,-82.4752757,1926
+1042,92,High Point,163,Not Named,No Notes,35.9556923,-80.0053176,1930
+1043,93,Grand Forks,1,Not Named,No Notes,47.9252568,-97.0328547,1923
+1044,93,Larimore,2,Not Named,No Notes,47.9066569,-97.6267539,1923
+1045,93,Fargo,5,Kass Kounty Klan,No Notes,46.8771863,-96.7898034,1927
+1046,93,Bismark,48,Not Named,No Notes,46.8083268,-100.7837392,1929
+1047,93,Valley City,49,Not Named,No Notes,46.9233129,-98.0031547,1931
+1048,93,Fargo,57,Kass County Klan,No Notes,46.8771863,-96.7898034,1928
+1049,94,Columbus,1,Not Named,No Notes,39.9611755,-82.9987942,1923
+1050,94,Cincinnati,1,Walnut Hill Klan,No Notes,39.1031182,-84.5120196,1923
+1051,94,Locklan,2,Valley Klan,Also operated out of the Cincinnati area,39.2292249,-84.4577201,1923
+1052,94,Columbus,8,Buckeye Klan,No Notes,39.9611755,-82.9987942,1923
+1053,94,Cincinnati,9,Not Named,No Notes,39.1031182,-84.5120196,1923
+1054,94,Zanesville,11,Not Named,No Notes,39.9403453,-82.0131924,1926
+1055,94,Blanchester,13,Clinton County,No Notes,39.2931174,-83.9888205,1924
+1056,94,Lawrence County,14,Lawrence Kounty Klan,Reported to have received its charter in 1924,38.6232686,-82.5185837,1924
+1057,94,Cambridge,16,Guernsey County,No Notes,40.031183,-81.5884561,1931
+1058,94,Wyandotte County,22,Wyandotte County Klan,No Notes,40.883335,-83.31472,1924
+1059,94,Dayton,23,Montgomery County Klan,No Notes,39.7589478,-84.1916069,1923
+1060,94,Summit County,24,Not Named,No Notes,41.0918991,-81.5596427,1925
+1061,94,Akron,27,Summit County Klan,No Notes,41.0814447,-81.5190053,1931
+1062,94,Crawford County,28,Not Named,No Notes,40.8268068,-82.9931607,1931
+1063,94,Franklin County,29,Not Named,Operated out of Columbus and Franklin County,40.0154745,-82.9931607,1931
+1064,94,Salinesville,32,Columbiana County Klan,No Notes,40.6225623,-80.8378609,1923
+1065,94,Licking County,33,Not Named,"Operated out of Newark, OH as well",40.1460895,-82.4752757,1931
+1066,94,Ashland,36,Not Named,No Notes,40.8686675,-82.3182178,1926
+1067,94,Smithfield,38,Jefferson County,No Notes,40.2709027,-80.7814725,1925
+1068,94,Tuscarawas County,41,Not Named,"Operated out New Philadelphia, OH as well",40.3978972,-81.4278984,1924
+1069,94,Newark,33,Not Named,No Notes,40.0581205,-82.4012642,1929
+1070,94,Wayne County,43,Not Named,"Operated out of Wooster, OH",40.7588598,-81.9534815,1931
+1071,94,Lake County,48,Not Named,No Notes,41.7112668,-81.2455855,1924
+1072,94,Marion,53,Not Named,No Notes,40.5886699,-83.1285242,1924
+1073,94,Lima,55,Allen County Klan,No Notes,40.742551,-84.1052256,1927
+1074,94,Middleport,57,Meigs County Klan,No Notes,39.0017452,-82.0487525,1927
+1075,94,Springfield,59,Clark County Klan,No Notes,39.9242266,-83.8088171,1931
+1076,94,Canton,62,William McKinley Klan,No Notes,40.7989473,-81.378447,1926
+1077,94,Miami County,63,Not Named,No Notes,40.081473,-84.1857115,1925
+1078,94,Geneva Unit,69,Ashtabula Klan,No Notes,40.4172871,-82.907123,1925
+1079,94,Trumbull County,70,Not Named,No Notes,41.3064984,-80.7214417,1923
+1080,94,Hubbard,70,Montgomery County Klan,No Notes,41.1564463,-80.569239,1924
+1081,94,Mercer County,74,Not Named,No Notes,40.5940548,-84.6897495,1924
+1082,94,Mansfield,75,Not Named,Operated throughout Richland County,40.75839,-82.5154471,1929
+1083,94,Mansfield,76,Richland County,No Notes,40.75839,-82.5154471,1927
+1084,94,Fayette County,77,Not Named,No Notes,39.57,-83.42083,1924
+1085,94,Martin's Ferry,79,Kaplina Klan,No Notes,40.0959055,-80.724526,1924
+1086,94,Ross County,91,Not Named,No Notes,39.3294895,-83.0595423,1924
+1087,94,Lorain,92,Lorain County Klan,No Notes,41.452819,-82.1823746,1931
+1088,94,Massillon,95,Not Named,No Notes,40.7967244,-81.5215093,1932
+1089,94,Toledo,96,Lucas County,Replaced by chapter 206,41.6639383,-83.555212,1928
+1090,94,Hancock County,98,Not Named,No Notes,41.0273131,-83.6773928,1931
+1091,94,Clinton,100,Klinton Klan,No Notes,40.9267224,-81.6304022,1924
+1093,94,Bowling Green,107,Wood County,No Notes,41.3747744,-83.6513229,1925
+1094,94,Fremont,109,Sandusky County,No Notes,41.3503303,-83.1218634,1932
+1095,94,Crooksville,115,Perry County Klan,No Notes,39.7689572,-82.0920868,1931
+1096,94,Orrville,119,Not Named,No Notes,40.8436663,-81.7640212,1924
+1097,94,Cincinnati,120,Fairmont Klan,No Notes,39.1031182,-84.5120196,1926
+1098,94,Cincinnati,120,Central Klan,No Notes,39.1031182,-84.5120196,1925
+1099,94,Linwood,123,Not Named,Operated in Cincinnati. Was also known as the Linwood Klan,39.1208321,-84.4133272,1927
+1100,94,Norwood,126,Not Named,No Notes,39.1644798,-84.4542798,1931
+1101,94,Hamilton County,127,Sycamore Symmes Klan,Klavern name taken from two townships in the county,39.2355447,-84.564147,1926
+1102,94,Sebring,130,Osborne Klan,No Notes,40.9228363,-81.0189816,1925
+1103,94,Lake County,134,Garfield Klan,No Notes,41.7112668,-81.2455855,1930
+1104,94,Fostoria,135,Not Named,No Notes,41.156998,-83.4168702,1931
+1105,94,Champion,136,Trumbull County,No Notes,41.3000564,-80.8498076,1930
+1106,94,Minerva,141,Tri-County Klan,Supposedly chartered only a short time before March 1926,40.7297816,-81.1053764,1926
+1107,94,Hillsboro,142,Highland Klan,Operated out of Hillsboro,39.205833,-83.613889,1930
+1108,94,Cuyahoga County,143,Cuyahoga County Klan,Operated in Cleveland as well,41.433923,-81.67582,1931
+1109,94,Conneaut,144,Weygandt Klan,No Notes,41.9475551,-80.5542409,1926
+1110,94,Cleveland,148,Cuyahoga Falls Klan,Reorganized in early 1924,41.49932,-81.6943605,1926
+1111,94,East Liverpool,156,Not Named,No Notes,40.6186756,-80.5772928,1926
+1112,94,Salem,163,Not Named,No Notes,40.9008923,-80.8567501,1926
+1113,94,Hamilton,167,Fort Hamilton Klan,No Notes,39.3995008,-84.5613355,1931
+1114,94,Middletown,168,Not Named,No Notes,39.5150576,-84.3982763,1932
+1115,94,Youngstown,173,Not Named,No Notes,41.0997803,-80.6495194,1931
+1116,94,Toledo,174,Commander Perry Klan,No Notes,41.6639383,-83.555212,1926
+1117,94,Bellaire,183,Captina Klan,No Notes,40.0161843,-80.7423054,1930
+1118,94,Warren,186,Trumbull County Klan,"Also operated in East Liverpool, OH",41.2375569,-80.8184166,1929
+1119,94,Nelsonville,187,Not Named,No Notes,39.458681,-82.2318156,1931
+1120,94,Barberton,191,Not Named,No Notes,41.012833,-81.6051221,1931
+1121,94,Niles,194,Not Named,No Notes,41.1828353,-80.765358,1931
+1122,94,Dayton,195,Montgomery County Klan,No Notes,39.7589478,-84.1916069,1931
+1123,94,Lewisburg,195,Not Named,No Notes,39.8461629,-84.5396736,1932
+1124,94,Garfield Heights,203,Not Named,Operated in Cleveland,41.4169974,-81.6059581,1931
+1125,94,West Alexandria,205,Twin Valley Klan,No Notes,39.7444973,-84.5321727,1929
+1126,94,Toledo,206,Lucas County,"Gets charter, replacing klavern number 96 located in Lucas County.",41.6639383,-83.555212,1928
+1127,94,Cincinnati,211,Northwestern Klan,No Notes,39.1031182,-84.5120196,1931
+1128,94,Canton,212,Not Named,No Notes,40.7989473,-81.378447,1931
+1129,94,Toledo,214,Ft. Meigs Klan,No Notes,41.6639383,-83.555212,1929
+1130,94,Cleveland,216,Northeast Klan,"Chartered three years ago according to sources, circa 1931. Operated in Chagrin Falls.",41.49932,-81.6943605,1930
+1131,94,Dayton,218,Air City Klan,"Referred to as the ""baby klan""",39.7589478,-84.1916069,1930
+1132,94,Brookfield,220,Wheeler Klan,"Named for Wayne B. Wheeler, of the Anti-Saloon League, and charted on 6 February 1931",41.2406117,-80.5578504,1931
+1133,94,Cleveland,221,Thomas Heflin Klan,No Notes,41.49932,-81.6943605,1931
+1134,94,London,222,Madison County Klan,"Chartered September 13, 1931",39.8864493,-83.4482529,1931
+1135,94,Springfield,223,Tecumseh Klan,No Notes,39.9242266,-83.8088171,1932
+1136,94,Cleveland,226,Not Named,No Notes,41.49932,-81.6943605,1935
+1137,95,Oklahoma City,1,Not Named,No Notes,35.4675602,-97.5164276,1922
+1138,95,Tulsa,2,Not Named,No Notes,36.1539816,-95.992775,1922
+1139,95,Muskogee,3,Not Named,No Notes,35.7478769,-95.3696909,1921
+1140,95,Okmulgee,4,Not Named,No Notes,35.6234367,-95.9605502,1922
+1141,95,El Reno,4,Not Named,No Notes,35.5322741,-97.9550493,1922
+1142,95,Enid,5,Not Named,No Notes,36.3955891,-97.8783911,1922
+1143,95,Drumright,6,Not Named,No Notes,35.9884013,-96.6011294,1922
+1144,95,Avant,7,Not Named,No Notes,36.4895323,-96.0622187,1922
+1145,95,Caney,8,Not Named,No Notes,34.2323125,-96.2141563,1922
+1146,95,Morris,9,Not Named,No Notes,35.6076028,-95.8602699,1922
+1147,95,Beggs,11,Castile Klan,No Notes,35.7425976,-96.0702731,1921
+1148,95,Chickasha,12,Not Named,No Notes,35.052565,-97.9364326,1922
+1149,95,Ponca City,13,Not Named,No Notes,36.706981,-97.0855948,1923
+1150,95,McAlester,14,Not Named,No Notes,34.9334298,-95.7697131,1922
+1151,95,El Reno,15,Not Named,No Notes,35.5322741,-97.9550493,1926
+1152,95,Wilson,18,Not Named,No Notes,34.1620385,-97.4258551,1921
+1153,95,Guthrie,19,Not Named,No Notes,35.878937,-97.4253185,1921
+1154,95,Bartlesville,20,Not Named,No Notes,36.7473114,-95.9808179,1922
+1155,95,Weleetka,22,Running Water Klan,No Notes,35.3356496,-96.1363921,1922
+1156,95,Healdton,23,Not Named,No Notes,34.2331475,-97.4878023,1922
+1157,95,Henryetta,24,Not Named,No Notes,35.4398261,-95.9819429,1921
+1158,95,Ada,27,Not Named,No Notes,34.774531,-96.6783449,1921
+1159,95,Dewey,29,Not Named,No Notes,36.7959193,-95.9355387,1922
+1160,95,Garber,30,Not Named,No Notes,36.4369786,-97.5856053,1923
+1161,95,Claremore,34,Not Named,No Notes,36.3125963,-95.61609,1923
+1162,95,Skiatook,35,Not Named,No Notes,36.3684245,-96.0013847,1922
+1163,95,Sulphur,38,Not Named,No Notes,34.5078669,-96.9683498,1923
+1164,95,Roff,39,George B. Kimbro Jr. Klan,No Notes,34.6275878,-96.8408469,1922
+1165,95,Hugo,40,Not Named,No Notes,34.01066,-95.5096821,1922
+1166,95,Antlers,41,Not Named,No Notes,34.231212,-95.6202476,1922
+1167,95,Durant,42,Not Named,Also referred to as klavern number 41,33.9924186,-96.3971233,1921
+1168,95,Wagoner,43,Not Named,No Notes,35.9595442,-95.3694116,1922
+1169,95,Blackwell,44,Not Named,No Notes,36.8044767,-97.2828207,1922
+1170,95,Temple,48,Not Named,No Notes,34.2720338,-98.235878,1924
+1171,95,Britton,52,Not Named,No Notes,35.56305,-97.527432,1922
+1172,95,Nowata,54,Nowata Klan,No Notes,36.700645,-95.6380341,1922
+1173,95,Chelsea,55,Not Named,No Notes,36.535647,-95.432474,1922
+1174,95,Devol,56,Not Named,No Notes,34.1959244,-98.5900596,1922
+1175,95,Seminole,57,Not Named,No Notes,35.2245201,-96.670573,1922
+1176,95,Pawhuska,60,Not Named,No Notes,36.6678426,-96.3372309,1922
+1177,95,Pryor,63,Pryor Creek Klan,No Notes,36.3084275,-95.3169136,1922
+1178,95,Lawton,64,Not Named,No Notes,34.6035669,-98.3959291,1922
+1179,95,Locust Grove,65,Not Named,No Notes,36.2000936,-95.1677401,1922
+1180,95,Wapanucka,66,Bromide Klan,No Notes,34.373981,-96.4244425,1922
+1181,95,Comanche,72,Not Named,No Notes,34.3689747,-97.963924,1922
+1182,95,Cherokee,73,Not Named,No Notes,36.7544746,-98.3567403,1923
+1183,95,Elmer,75,Not Named,No Notes,34.4811873,-99.3509205,1922
+1184,95,Wynona,78,Not Named,No Notes,36.5461806,-96.3272344,1923
+1185,95,Atoka,80,Not Named,No Notes,34.3859257,-96.1283252,1922
+1186,95,Elk City,82,Not Named,No Notes,35.4119944,-99.4042592,1924
+1187,95,Ramona,83,Not Named,No Notes,36.5303696,-95.9235998,1922
+1188,95,Allen,84,Not Named,No Notes,34.8789766,-96.4125075,1923
+1189,95,Yale,85,Not Named,No Notes,36.1142305,-96.6991933,1922
+1190,95,Poteau,88,Not Named,No Notes,35.0537094,-94.6235579,1922
+1191,95,Hollis,92,Not Named,No Notes,34.6883948,-99.9120456,1922
+1192,95,Newkirk,94,Not Named,No Notes,36.8822549,-97.0533717,1924
+1193,95,Cushing,97,Not Named,No Notes,35.9850639,-96.76697,1924
+1194,95,Salpulpa,100,Not Named,No Notes,35.9987007,-96.1141664,1924
+1195,95,Haileyville,101,Hale-Hart Klan,No Notes,34.8545426,-95.5822044,1922
+1196,95,Muldrow,101,Not Named,No Notes,35.4062034,-94.5988306,1922
+1197,95,Kaw City,106,Kaw City Klan,No Notes,36.7668466,-96.8672668,1923
+1198,95,Broken Arrow,107,Not Named,No Notes,36.060949,-95.7974526,1922
+1199,95,Jenks,108,Not Named,No Notes,36.0228734,-95.9683278,1922
+1200,95,Idabel,115,Not Named,No Notes,33.8956647,-94.8263281,1922
+1201,95,Spiro,120,Not Named,No Notes,35.2412073,-94.619944,1923
+1202,95,Watonga,128,Not Named,No Notes,35.8447654,-98.413128,1923
+1203,95,Kiefer,129,Creek County Klan,No Notes,35.9448155,-96.065275,1931
+1204,95,Vinita,130,Not Named,"Began ""nearly three years ago,"" according to the INH",36.6386937,-95.1541339,1923
+1205,95,Perry,131,Not Named,No Notes,36.2894855,-97.2880983,1922
+1206,95,Boswell,132,Not Named,No Notes,34.0273209,-95.8691422,1922
+1207,95,Bennington,133,Not Named,No Notes,34.0045412,-96.0377597,1922
+1208,95,Portland,137,Not Named,No Notes,34.7254556,-95.9128611,1930
+1209,95,Caddo,138,Not Named,No Notes,34.1267595,-96.2633229,1922
+1210,95,Tonkawa,140,Not Named,No Notes,36.6783679,-97.3100441,1923
+1211,95,Wakita,143,Not Named,No Notes,36.8833603,-97.9220032,1926
+1212,95,Hobart,146,Twin Elk Klan,No Notes,35.0295009,-99.0931317,1922
+1213,95,Quinton,147,Not Named,No Notes,35.1228754,-95.3710855,1922
+1214,95,Heavener,149,Not Named,No Notes,34.8955218,-94.6030084,1922
+1215,95,Grove,156,Grove Klan,No Notes,36.5936863,-94.7691186,1923
+1216,95,Cleveland,157,Not Named,No Notes,36.3100688,-96.4641886,1923
+1217,95,Mangum,164,Not Named,No Notes,34.8720044,-99.5042561,1922
+1218,95,Coweta,165,Not Named,No Notes,35.9517674,-95.650814,1923
+1219,95,Pawnee,167,Not Named,No Notes,36.3378321,-96.8039232,1923
+1220,95,Minco,177,Minco Klan,No Notes,35.3128371,-97.9444913,1923
+1221,95,Hennessey,178,Not Named,No Notes,36.1092046,-97.8986675,1922
+1222,95,Chattanooga,180,Not Named,No Notes,34.4228593,-98.6564522,1923
+1223,95,Britton,188,Not Named,No Notes,35.56305,-97.527432,1923
+1224,95,Oilton,191,Not Named,No Notes,36.0845119,-96.5836317,1922
+1225,95,Shamrock,193,Not Named,No Notes,35.910069,-96.583905,1922
+1226,95,Kiowa,197,Not Named,No Notes,34.7206515,-95.8991586,1923
+1227,95,Carnegie,201,Not Named,"Operated in Bokchito, OK as well",35.1036699,-98.6036735,1923
+1228,95,Checotah,203,Not Named,No Notes,35.4700993,-95.5230356,1923
+1229,95,Stillwater,215,Not Named,No Notes,36.1156071,-97.0583681,1922
+1230,95,Ringling,228,Not Named,No Notes,34.1784265,-97.5925265,1922
+1231,95,Waukomis,237,Not Named,No Notes,36.2803128,-97.8981133,0
+1232,95,Camargo,243,Not Named,No Notes,36.0172666,-99.2892719,1923
+1233,95,Billings,248,Not Named,No Notes,36.5289239,-97.4439362,1923
+1234,95,Anadarko,249,Not Named,No Notes,35.072562,-98.2436625,1924
+1235,95,Binger,257,Not Named,No Notes,35.3089454,-98.3420014,1923
+1236,95,Ames,265,Not Named,No Notes,36.2458685,-98.1853448,1926
+1237,95,Tuskahoma,267,Not Named,No Notes,34.6178786,-95.2766344,1926
+1238,95,McCurtain,274,Not Named,No Notes,35.1498196,-94.9707891,1923
+1239,95,Shidler,280,Not Named,No Notes,36.7819849,-96.6611377,1925
+1240,96,Portland,1,Luther Powell Klan,No Notes,45.5230622,-122.6764816,1923
+1241,96,Astoria,2,Pacific Klan,No Notes,46.1878841,-123.8312534,1922
+1242,96,Pendleton,4,Not Named,No Notes,45.672075,-118.7885967,1921
+1243,96,Roseburg,5,Umpqua Klan,No Notes,43.216505,-123.3417381,1922
+1244,96,Tillamook,8,Not Named,No Notes,45.4562158,-123.8440137,1922
+1245,96,Grants Pass,9,Not Named,No Notes,42.438889,-123.328333,1931
+1246,96,Ashland,10,Not Named,No Notes,42.191389,-122.700833,1924
+1247,96,Kent,13,King County Klan,No Notes,45.1945544,-120.6922096,1931
+1248,96,La Grande,14,Not Named,No Notes,45.3245771,-118.0877188,1923
+1249,96,Ranier,15,Ranier Klan,No Notes,46.0890015,-122.9359439,1923
+1250,96,Mill City,18,Not Named,No Notes,44.7540106,-122.4781385,1924
+1251,96,The Dalles,19,Not Named,No Notes,45.5945645,-121.1786823,1923
+1252,96,Sherwood,20,Not Named,No Notes,45.3565074,-122.840098,1923
+1253,96,Santiam,22,Not Named,No Notes,44.7726951,-122.7060818,1923
+1254,96,Newberg,24,Wallace Klan,No Notes,45.3001178,-122.9731565,1923
+1255,96,Riddle,26,Not Named,No Notes,42.9509507,-123.3642332,1923
+1256,96,Veronia,30,Not Named,No Notes,45.8587228,-123.1928926,1924
+1257,96,Wallowa County,35,Wallowa County Klan,No Notes,45.592984,-116.9717994,1924
+1258,96,Scio,38,Not Named,No Notes,44.7048445,-122.8492562,1924
+1259,96,Powers,44,Green Mountain Klan,No Notes,42.8834435,-124.073152,1930
+1260,96,Freewater,54,Not Named,No Notes,45.9762245,-118.4030196,1926
+1261,96,Cottage Grove,55,Cottage Grove Klan,No Notes,43.797623,-123.0595246,1931
+1262,96,Portland,57,Rose City Klan,No Notes,45.5230622,-122.6764816,1927
+1263,97,York County,1,Red Lion Klan,No Notes,39.9512496,-76.7336521,1923
+1264,97,Homestead,1,Homestead Klan,No Notes,40.4059025,-79.9119948,1923
+1265,97,Wrightsville,1,Not Named,No Notes,40.0256531,-76.5299655,1923
+1266,97,Turtle Creek,1,Not Named,No Notes,40.4059022,-79.8250479,1923
+1267,97,Pittsburgh,1,Not Named,No Notes,40.4406248,-79.9958864,1923
+1268,97,Lancaster,1,Not Named,No Notes,40.0378755,-76.3055144,1923
+1269,97,Roscoe,1,Not Named,No Notes,40.0795178,-79.8656017,1923
+1270,97,Sharon,1,Not Named,No Notes,41.2331116,-80.4934035,1922
+1271,97,Reynoldsville,1,Not Named,No Notes,41.0970071,-78.8886436,1923
+1272,97,Sewickley,1,Not Named,No Notes,40.5364846,-80.1844243,1923
+1273,97,Millvale,1,Not Named,No Notes,40.480069,-79.9783862,1923
+1274,97,Harrisburg,1,Not Named,No Notes,40.2731911,-76.8867008,1923
+1275,97,Gettysburg,1,Not Named,No Notes,39.8309293,-77.2310955,1924
+1276,97,Burgettstown,1,Not Named,No Notes,40.3820132,-80.3928423,1924
+1277,97,South Fork,1,Not Named,No Notes,40.3672962,-78.7914107,1924
+1278,97,Nanty-Glo,1,Not Named,No Notes,40.4722936,-78.8333571,1924
+1279,97,Commodore,1,Not Named,No Notes,40.7131207,-78.9433646,1924
+1280,97,Philadelphia,1,Liberty Klan,No Notes,39.9525839,-75.1652215,1923
+1281,97,Rochester,1,Not Named,No Notes,40.7022882,-80.2864509,1922
+1282,97,Bristol,1,Not Named,No Notes,40.1006661,-74.8518311,1926
+1283,97,Youngblood,2,Keystone State Klan,No Notes,41.3257497,-75.9316887,1923
+1284,97,Leechburg,2,Not Named,No Notes,40.62701,-79.6056012,1923
+1285,97,Beaver,3,Not Named,No Notes,40.6953437,-80.3047846,1924
+1286,97,Greenburg,3,Not Named,"lair Klan, ""chartered a year ago""",40.3014581,-79.5389289,1924
+1287,97,Dunbar,4,Not Named,No Notes,39.9778528,-79.6144835,1923
+1288,97,Apollo,5,Not Named,No Notes,40.5814546,-79.5664333,1923
+1289,97,Woodlawn,5,Beaver County Klan,No Notes,40.0400976,-76.3296818,1924
+1290,97,Philadelphia,5,Old Glory Klan,No Notes,39.9525839,-75.1652215,1926
+1291,97,Pittsburgh,5,Not Named,No Notes,40.4406248,-79.9958864,1923
+1292,97,Bentleyville,6,Pigeon Creek Klan,No Notes,40.1167387,-80.0083855,1924
+1293,97,McKeesport,7,Not Named,No Notes,40.3470671,-79.8641232,1923
+1294,97,Allegheny,7,Not Named,"Operated throughout Pittsburgh. Reportedly had 1,500 members in 1925-1926",40.4450813,-80.0087746,1925
+1295,97,Osterberg,8,Not Named,No Notes,40.1695228,-78.5202946,1925
+1296,97,Johnstown,9,Not Named,No Notes,40.3267407,-78.9219698,1930
+1297,97,New Kensington,10,Paul Winter Klan,No Notes,40.5697892,-79.7647705,1926
+1298,97,Rochester,15,Junction City Klan,Also operated out of Ellwood City borough and throughout Beaver County.,40.7022882,-80.2864509,1923
+1299,97,Mount Pleasant,21,Lincoln Klan,No Notes,40.1489607,-79.5411497,1923
+1300,97,Allentown,22,Lehigh Klan,No Notes,40.6084305,-75.4901833,1923
+1301,97,Middletown,23,Not Named,No Notes,40.199814,-76.7310806,1925
+1302,97,Clairton,24,Not Named,No Notes,40.292292,-79.881715,1924
+1303,97,Wellsboro,24,Alpha Klan,No Notes,41.7486838,-77.3005304,1926
+1304,97,Lawrence,25,Not Named,"Reportedly had 1,630 members in 1925-1926. Operated out of New Castle, PA as well",40.306556,-80.1221585,1925
+1305,97,Swissvale,26,Not Named,No Notes,40.4236801,-79.8828275,1926
+1306,97,Harveyville,27,Huntington Valley Klan,"Chartered 10 months ago, circa March 1928",41.2139718,-76.2460448,1928
+1307,97,Punxsutawney,27,Not Named,"Operated out of Jefferson, PA as well. Reportedly had 1,120 members in 1925-1926.",40.9436753,-78.9708668,1925
+1308,97,Turtle Creek,29,Not Named,"Reportedly had 26 members in 1933. Operated out of Westmoreland, PA",40.4059022,-79.8250479,1933
+1309,97,West Newton,31,Yough Valley Klan,No Notes,40.2097933,-79.7669884,1927
+1310,97,Pittsburgh,32,Central Klan,Operated out of Allegheny County. Reportedly had 791 members in 1925-1926.,40.4406248,-79.9958864,1924
+1311,97,Dayton,33,Not Named,No Notes,40.8803431,-79.241983,1924
+1312,97,Reynoldsville,34,Not Named,No Notes,41.0970071,-78.8886436,1928
+1313,97,Vandergrift,35,Not Named,No Notes,40.6028434,-79.5647667,0
+1314,97,Connellsville,36,Colonel Crawford Klan,No Notes,40.0178522,-79.5894828,1924
+1315,97,Scottdale,37,Not Named,No Notes,40.1003506,-79.5869834,0
+1316,97,Charleroi,41,Not Named,No Notes,40.1378499,-79.8981035,1924
+1317,97,Harrisburg,42,Not Named,No Notes,40.2731911,-76.8867008,1931
+1318,97,Pittsburgh,44,Myotha Klan,"Operated in Donora, PA as well.",40.4406248,-79.9958864,1924
+1319,97,Summerville,45,Not Named,No Notes,41.1161758,-79.1867053,1926
+1320,97,Phoenixville,46,Wayne County Klan,,40.1303822,-75.5149128,1926
+1321,97,Latrobe,46,Not Named,No Notes,40.315,-79.381111,1926
+1322,97,Carnegie,47,Carnegie Klan,Celebrated its third birthday in 1926. Reportedly had 970 members in 1925-1926. Was active in Allegheny County (Pittsburgh).,40.406944,-80.086667,1926
+1323,97,DuBois,53,Not Named,"Reportedly the Clearfield (Dubois) klavern had 1,053 members in 1925-1926.",41.1210115,-78.7583257,1926
+1324,97,Homestead,54,Not Named,reportedly had 828 members in 1925-1926,40.4059025,-79.9119948,1925
+1325,97,Coraopolis,56,Not Named,No Notes,40.5184013,-80.1667247,0
+1326,97,Elderton,59,Not Named,No Notes,40.6950649,-79.3414291,1926
+1327,97,Jefferson,60,Not Named,"Operated out of Brookville, PA and had 856 members in 1925-1926",40.2911809,-79.9319942,1925
+1328,97,Kittanning,62,Not Named,"Got charter with 1,400 members. Connected with klavern number 416. Reported membership in 1925-1926 was 1,146.",40.816453,-79.5219893,1925
+1329,97,Allegheny County,63,Not Named,"Went from 1,005 members in 1925-1926 to 20 members in 1933. Operated primarily in the Short Hills area.",40.4450813,-80.0087746,1925
+1330,97,Nantyglo,64,American Klan,No Notes,40.4722936,-78.8333571,1925
+1331,97,Wilkinsburg,73,Not Named,Had 794 members through 1925-1926.,40.4417355,-79.8819942,1925
+1332,97,Hazelwood,82,Victory Klan,No Notes,40.4117223,-79.9444526,1925
+1333,97,Cambria County,89,Not Named,"Reported had 1,775 members through 1925-1926. Operated primarily out of Johnstown.",40.4894231,-78.7476208,1925
+1334,97,Indiana,99,Not Named,No Notes,40.6214551,-79.1525349,1926
+1335,97,Dusquesne,100,Not Named,No Notes,40.3814581,-79.8597708,0
+1336,97,Lock Haven,113,Not Named,No Notes,41.1370133,-77.4469263,1926
+1337,97,Lewistown,114,Not Named,Also operated throughout Mifflin County,40.5992395,-77.571382,1927
+1338,97,Altoona,117,Not Named,"Had 2,805 members through 1925-1926.",40.5186809,-78.3947359,1925
+1339,97,Chambersburg,119,Not Named,"Also had a presence in Franklin, PA. Went from 817 members in 1925-1926 to 70 members in 1933.",39.9375911,-77.6611022,1925
+1340,97,Cambria,121,Not Named,"Had 815 members in 1925-1926. Was active in  Barnesboro, PA -- a now defunct borough.",40.4894231,-78.7476208,1925
+1341,97,Uniontown,128,Not Named,Operated in Fayette County. Went from 817 members in 1925-1926 to 52 members in 1933.,39.900076,-79.7164326,1933
+1342,97,Tarentinn,129,Eureka Klan,No Notes,40.6014555,-79.7597709,1934
+1343,97,Everett,133,Not Named,No Notes,40.0114711,-78.3733484,1926
+1344,97,Allegheny County,136,William Penn Klan,No Notes,40.4450813,-80.0087746,0
+1345,97,Oil City,140,Not Named,"Active in Venango County. Had 1,235 members in 1925-1926.",41.4339484,-79.7064413,1925
+1346,97,Leechburg,143,Not Named,No Notes,40.62701,-79.6056012,0
+1347,97,Scranton,145,Not Named,No Notes,41.408969,-75.6624122,1927
+1348,97,Bethlehem,151,Not Named,Celebreated eighth anniversary in 1932,40.6259316,-75.3704579,1931
+1349,97,Bethlehem,152,Not Named,No Notes,40.6259316,-75.3704579,1931
+1350,97,East Liberty,153,Not Named,No Notes,40.4643479,-79.926266,1929
+1351,97,Braddock,154,Keystone State Klan,No Notes,40.4034024,-79.8683824,1928
+1352,97,Weissport,155,Gratten Hutten Klan,No Notes,40.8288549,-75.7015297,1927
+1353,97,Bethlehem,157,Not Named,No Notes,40.6259316,-75.3704579,1925
+1354,97,Vanderbilt,160,Not Named,No Notes,40.0331301,-79.6614284,1935
+1355,97,Windber,162,Defender Klan,No Notes,40.2397986,-78.8350223,1925
+1356,97,Smith's Ferry,166,Midland Klan,Celebrated sixth anniversary in 1929,40.662324,-80.4939264,1927
+1357,97,Ridgeway,186,Not Named,Gets charter in 1926,41.4203391,-78.7286388,1926
+1358,97,Clearfield County,187,Not Named,No Notes,40.9519685,-78.5660852,1931
+1359,97,Meadeville,195,Not Named,No Notes,41.6414438,-80.1514484,1930
+1360,97,Slate Run,199,Not Named,No Notes,41.470994,-77.500919,1926
+1361,97,Bethlehem,202,Not Named,No Notes,40.6259316,-75.3704579,1928
+1362,97,Williamsport,205,Calvin R. Butler Klan,Operated throughout Lycoming County. Went from 827 members in 1925-1926 to 42 members in 1933.,41.2411897,-77.0010786,1931
+1363,97,Titusville,208,Colonel Drake Klan,Operated in Crawford County. Went from 88 members in 1926 to 4-5 members in 1932,41.6270036,-79.6736631,1926
+1364,97,Slatington,210,Not Named,"Operated in Schnecksville (Lehigh) as well. In 1933, had 23 members.",40.7526123,-75.6062105,1928
+1365,97,Schnecksville,210,Not Named,No Notes,40.6749111,-75.6178991,1932
+1366,97,Wellsboro,213,Alpha Klan,"Operated in Wilkes Barre, PA as well",41.7486838,-77.3005304,1927
+1367,97,Delaware County,234,Red Star Klan,"Operated in Chester, Ardmore, and throughout Montgomery County. Had 25 members in 1933",39.907793,-75.3878525,1930
+1368,97,Schkuylkill,236,Haven Klan,Also known as St. Paul's Klan. Had 44 members in 1933.,40.6873058,-76.1783739,1931
+1369,97,Montgomery County,239,Hickory Hill Klan,"Operated in Worcester and Norristown. Went from 1,831 members in 1925-1926 to 26 members in 1933",40.2290075,-75.3878525,1927
+1370,97,Susquehanna,241,Not Named,No Notes,41.9436071,-75.5991789,1934
+1371,97,Towanda,247,Not Named,No Notes,41.767575,-76.4427188,1927
+1372,97,Clearfield County,252,Caleb Lee Klan,Operated in Frackville. Celebrated 8th anniversary in 1932.,40.9519685,-78.5660852,1932
+1373,97,Coatesville,253,Not Named,No Notes,39.9831616,-75.8238355,1929
+1374,97,Bradford,255,Lester C. Kiser Klan,No Notes,41.9564953,-78.649163,1927
+1375,97,Phoenixville,256,Bonnie Brae Klan,Actve in Spring City and the areas between Phoenixville. Celebrated 5th anniversary of charter on 28 Mar 32,40.1303822,-75.5149128,1932
+1376,97,Hummelstown,257,Golden Rule Klan,No Notes,40.2653681,-76.7083033,1932
+1377,97,West Chester,258,Not Named,No Notes,39.9606643,-75.6054882,1932
+1378,97,Chester,260,Not Named,Reportedly founded by 1938.,39.849557,-75.3557457,1938
+1379,97,Paoli,261,Not Named,No Notes,40.0419021,-75.4876445,1928
+1380,97,Harrisburg,263,Daylight Klan,"Operated Dauphin, 1,320 members, 1925-1926",40.2731911,-76.8867008,1928
+1381,97,Honesdale,264,Not Named,No Notes,41.5767552,-75.2587871,1931
+1382,97,Reading,265,Not Named,No Notes,40.3356483,-75.9268747,1927
+1383,97,Dallas,268,C. A. Hilghman Klan,"Named for Chester A. Hilghman of Buffalo, New York",41.3361911,-75.9632546,1928
+1384,97,Reading,269,Not Named,No Notes,40.3356483,-75.9268747,1931
+1385,97,Harveyville,270,Huntington Valley Klan,No Notes,41.0937032,-75.2412927,1928
+1386,97,Hamburg,270,Blue Mountain Klan,Operated in Hamburg as well. Reorganized in 1931.,40.5556484,-75.9818772,1932
+1387,97,Millersburg,271,Not Named,No Notes,40.5395289,-76.9608103,1933
+1388,97,Chambersburg,273,Not Named,No Notes,39.9375911,-77.6611022,1931
+1389,97,Wyoming,276,Not Named,Connected to Fort Jenkins commerations,41.3117471,-75.8374174,1931
+1390,97,Tower City,277,Progressive Klan,Had 26 members in 1933,40.5892542,-76.5524621,1931
+1391,97,Pottsville,283,American Pilots Klan,No Notes,40.6856456,-76.195499,1932
+1392,97,Lykens,284,Stone Mountain Klan,Operated out of Elizabethville as well. Had 823 members in 1925-1926.,40.5667527,-76.700522,1931
+1393,97,Herndon,288,Not Named,No Notes,40.709529,-76.842472,1933
+1394,97,Philadelphia,289,Liberty Bell,Reportedly founed by 1933,39.9525839,-75.1652215,1933
+1395,97,Philadelphia,290,Philadelphia Klan,Also known as Puritan Klan,39.9525839,-75.1652215,1931
+1396,97,Kingston,292,West Side Klan,Had 922 members in 1925-1926 throughout Luzerne County,41.2617481,-75.8968635,1934
+1397,97,Watsontown,293,Not Named,Operated out of Northumberland. Was founded by 1938.,41.0845277,-76.8638522,1931
+1398,97,Lykens,301,Bunker Hill Klan,No Notes,40.5667527,-76.700522,1933
+1399,97,Summit Hill,302,Philip Ginter Klan,No Notes,40.8248121,-75.8710312,1927
+1400,97,York,304,Not Named,"Had 1,518 members in 1925-1926",39.9625984,-76.727745,1929
+1401,97,Springtown,306,Not Named,No Notes,40.1417749,-75.3104579,1932
+1402,97,Wilkes-Barre,311,Rescue Klan,Operated throughout Luzerne County. Had 929 members in 1925-1926.,41.2459149,-75.8813075,1925
+1403,97,Tamaqua,313,Not Named,No Notes,40.7973112,-75.9693707,1930
+1404,97,Carbondale,319,Not Named,Operated throughout Lackawanna County. Had 753 members in 1925-1926.,41.5736935,-75.5018508,1930
+1405,97,Dalton,320,Abington Klan,No Notes,41.5342441,-75.7360253,1928
+1406,97,Scranton,320,Not Named,No Notes,41.408969,-75.6624122,1931
+1407,97,Scranton,334,Lackawanna Klan,No Notes,41.408969,-75.6624122,1932
+1408,97,Lancaster County,336,Columbia Klan,No Notes,40.0466571,-76.1783739,1930
+1409,97,Collingdale,342,"Abiding Klan (Jenkins, 133)",Identified as Philadelphia area Klan,39.9117794,-75.2771292,1931
+1410,97,Fayette,345,Fort Mason,Was operating in 1940,39.9272324,-79.6502105,1940
+1411,97,Refton,348,Not Named,No Notes,39.9473225,-76.2327348,1932
+1412,97,Chester,350,Not Named,"Had 2,155 members in 1925-1926",39.849557,-75.3557457,1925
+1413,97,Montrose,355,Not Named,No Notes,41.8339653,-75.8771388,1931
+1414,97,Bonnie Brae,356,Not Named,No Notes,39.849557,-75.3557457,1928
+1415,97,Philadelphia,358,Cradle of Liberty Klan,No Notes,39.9525839,-75.1652215,1931
+1416,97,Philadelphia,359,William Penn Klan,Operated out of West Philadelphia and had 917 members in 1925-1926.,39.9525839,-75.1652215,1928
+1417,97,Philadelphia,360,W. G. Harding Klan,No Notes,39.9525839,-75.1652215,1931
+1418,97,Philadelphia,362,George Washington Klan,No Notes,39.9525839,-75.1652215,1931
+1419,97,Northampton,365,Not Named,Was active by 1938,40.6862075,-75.4968501,1938
+1420,97,Emaus,367,Not Named,No Notes,40.5395421,-75.4968502,1929
+1421,97,Doylestown,369,Catasauqua Klan,"Also referenced as the Catasaque Klan and Catasqua Klan. Sometimes attributed to Catasqua, PA.",40.3101063,-75.1298939,1929
+1422,97,Northampton,370,Konkrete Klan,No Notes,40.6862075,-75.4968501,1928
+1423,97,Philadelphia,375,Paul Jones Klan,No Notes,39.9525839,-75.1652215,1931
+1424,97,Philadelphia,376,Daniel Webster Klan,No Notes,39.9525839,-75.1652215,1928
+1425,97,Perkasie,377,Not Named,No Notes,40.372048,-75.292676,1932
+1426,97,Philadelphia,378,Daniel Webster,Active by 1933,39.9525839,-75.1652215,1933
+1427,97,Philadelphia,379,Independence Klan,Also known as Daniel Webster Klan. Active mainly in Roxborough neighborhood.,39.9525839,-75.1652215,1931
+1428,97,Philadelphia,380,Robert Morris Klan,"Active mainly in the Germantown neighborhood. Had 1,216 members in 1925-1926.",39.9525839,-75.1652215,1931
+1429,97,Philadelphia,382,Nathan Hale Klan,No Notes,39.9525839,-75.1652215,1930
+1430,97,Philadelphia,383,Spirit of '76 Klan,No Notes,39.9525839,-75.1652215,1931
+1431,97,Philadelphia,385,Old Glory Klan,No Notes,39.9525839,-75.1652215,1931
+1432,97,Kingsley,391,Not Named,No Notes,41.7597997,-75.7521335,1931
+1433,97,Allison,401,Fort Redstone Klan,Reorganized in 1935.,39.9889639,-79.8647684,1935
+1434,97,Philadelphia,404,Loyalty Klan,No Notes,39.9525839,-75.1652215,1931
+1435,97,Philadelphia,406,Benjamin Franklin Klan,No Notes,39.9525839,-75.1652215,1931
+1436,97,Kittanning,416,Not Named,No Notes,40.816453,-79.5219893,1930
+1437,97,Sinking Springs,418,West Lawn Klan,No Notes,41.3473688,-77.432701,1932
+1438,97,Phildelphia,420,Penn Treaty Klan,", apparently a combination of Daniel Webster Klan, Spirit of '76 Klan, and Philadelphia No. 290. Chartered on October 15, 1932",39.9525839,-75.1652215,1932
+1439,97,Rowes Run,422,Rowes Run Klan,Chartered 17 Jan 34,40.009444,-79.816944,1935
+1440,97,Harrisburg,423,John Harris Klan,No Notes,40.2731911,-76.8867008,1938
+1441,97,Hustontown,744,Not Named,No Notes,40.0489743,-78.0269475,1926
+1442,90,Albuquerque,7,Rio Grande Klan,No Notes,35.0853336,-106.6055534,1924
+1443,90,Roswell,15,Pioneer Klan,Conflicting reports in Kourier Magainze -- in separate issues states it was chartered 1924 and that Kludd joined the klavern in 1921,33.3942655,-104.5230242,1924
+1444,98,Newport,8,Not Named,No Notes,41.4901024,-71.3128285,1931
+1445,98,Westerly,12,Not Named,Operated out of Ashaway and throughout Washington County as well,41.3775987,-71.8272871,1928
+1446,98,Providence,16,Roger Williams Klan,No Notes,41.8239891,-71.4128343,1929
+1447,99,Charleston,1,Seventy-Six Klan,No Notes,32.7764749,-79.9310512,1923
+1448,99,Summerville,2,Wade Hampton Klan,No Notes,33.0185039,-80.1756481,1923
+1449,99,Columbia,3,Not Named,No Notes,34.0007104,-81.0348144,1926
+1450,99,Florence,5,Florence Klan,No Notes,34.1954331,-79.7625625,1923
+1451,99,Allendale,7,Not Named,Operated throughout Hampton County,33.0079345,-81.3084405,1927
+1452,99,Greenville,26,Poinsett Klan,Also known as the Poinsetta Klan,34.8526176,-82.3940104,1931
+1453,99,Darlington,36,Not Named,No Notes,34.2998762,-79.8761741,1923
+1454,99,Chesne,48,Daniel Morgan Klan,No Notes,35.1484549,-81.8609371,1923
+1455,99,Spartanburg County,48,Daniel Morgan Klan,No Notes,34.860551,-81.9534815,1922
+1456,99,Columbia,50,Wade Hampton Klan,No Notes,34.0007104,-81.0348144,1924
+1457,99,Langley,84,Not Named,No Notes,33.5179148,-81.8440011,1926
+1458,99,Aiken,94,Not Named,No Notes,33.5604168,-81.7195533,1931
+1459,99,Bennettsville,96,Marlboro County Klan,No Notes,34.6173803,-79.6847814,1926
+1460,99,Dillon County,105,Pee Dee Klan,"Chartered June 13, 1934. Replaces the old Dillon Klan No. 100",34.3596012,-79.4253776,1934
+1461,100,Deadwood,6,White Rock Klan,No Notes,44.376651,-103.7296415,1926
+1462,100,Chalk Butte,10,Central Meade Klan,No Notes,44.630531,-102.742918,1926
+1463,100,Sioux Falls,16,On Guard Klan,No Notes,43.5445959,-96.7311034,1927
+1464,100,Elk Point,56,Not Named,No Notes,42.6833303,-96.6836475,1928
+1465,102,Houston,1,Not Named,No Notes,29.7604267,-95.3698028,1921
+1466,102,Alvin,3,Not Named,No Notes,29.4238472,-95.2441009,1922
+1467,102,Goose Creek,4,Not Named,No Notes,29.7337477,-94.9636628,1922
+1468,102,Beaumont,7,Not Named,No Notes,30.080174,-94.1265562,1923
+1469,102,Glen Flora,8,Hamilton B. Dixon Klan,No Notes,29.3468954,-96.1934503,1922
+1470,102,Bryan,8,Not Named,No Notes,30.6743643,-96.3699632,1923
+1471,102,Kingsville,10,David Crockett Klan,"Had a special ceremony for the death of member, C. E. Albrecht, who was Great Titan for Province 7.",27.5158689,-97.856109,1924
+1472,102,Angleton,11,Not Named,No Notes,29.16941,-95.4318847,1923
+1473,102,Lufkin,16,Angelina Klan,No Notes,31.3382406,-94.729097,1922
+1474,102,Lufton,17,Angelina Klan,No Notes,31.3382406,-94.729097,1922
+1475,102,Eagle Lake,18,J. K. Davidson Klan,Named for a local man who was a veteran of the original Klan.,29.5896836,-96.3335769,1923
+1476,102,Bedias,21,Navasota Klan,No Notes,30.7757486,-95.949397,1922
+1477,102,Crockett,22,Not Named,No Notes,31.3182359,-95.4566136,1921
+1478,102,Jasper,24,W. R. Blackshear Klan,No Notes,30.9201995,-93.9965759,1923
+1479,102,Port Arthur,25,Dick Dowling Klan,No Notes,29.8849504,-93.939947,1926
+1480,102,San Antonio,31,Not Named,"At one time was in debt for ""about $25,000,"" but a small group worked to pull it out of debt and to secure its own property.",29.4241219,-98.4936282,1922
+1481,102,Waco,33,Saxet Klan,Also known as the August Saxet Klan.,31.549333,-97.1466695,1922
+1482,102,Palestine,34,Not Named,No Notes,31.7621153,-95.6307891,1923
+1483,102,Silsbee,35,Not Named,No Notes,30.3490976,-94.1779624,1922
+1484,102,Galveston,36,Not Named,No Notes,29.3013479,-94.7976958,1923
+1485,102,Waco,37,Not Named,No Notes,31.549333,-97.1466695,1922
+1486,102,Richmond,38,Not Named,The Kligrapp joined in February 1921.,29.5821811,-95.7607832,1923
+1487,102,Dayton,40,Liberty Klan,No Notes,30.0466051,-94.8852026,1923
+1488,102,Elgin,42,Not Named,No Notes,30.3496528,-97.3702735,1923
+1489,102,Blackwell,44,Not Named,No Notes,32.0868017,-100.3175971,1923
+1490,102,Sealy,44,Not Named,No Notes,29.7807878,-96.1571833,1922
+1491,102,Mexia,47,Not Named,No Notes,31.6798895,-96.482203,1923
+1492,102,Bryan,48,Not Named,No Notes,30.6743643,-96.3699632,1923
+1493,102,Cleveland,49,San Jacinto Klan,No Notes,30.34132,-95.0854885,1923
+1494,102,Orange,51,Not Named,No Notes,30.0929879,-93.7365549,1922
+1495,102,Timpson,54,Not Named,No Notes,31.9037814,-94.3952022,1924
+1496,102,Corsicana,55,Not Named,No Notes,32.0954304,-96.4688727,1921
+1497,102,Freeport,56,Not Named,No Notes,28.9541368,-95.3596617,1922
+1498,102,Brookshire,57,Not Named,No Notes,29.7860643,-95.9510661,1922
+1499,102,Rusk,59,Not Named,No Notes,31.7960064,-95.1502214,1922
+1500,102,Groveton,63,Argus Klan,No Notes,31.0549071,-95.1257691,1922
+1501,102,Dallas,66,Not Named,No Notes,32.7766642,-96.7969879,1921
+1502,102,Texas City,67,Texas City Klan,No Notes,29.383845,-94.9027002,1924
+1503,102,Center,70,Not Named,No Notes,31.7954512,-94.1790862,1922
+1504,102,Joaquin,71,Not Named,No Notes,31.9657232,-94.0538028,1922
+1505,102,Belton,73,Knolan Kreek Klan,Also known as the Nolan Kreek Klan.,31.0560132,-97.464453,1922
+1506,102,Yoakum,74,Not Named,No Notes,29.2877469,-97.151931,1922
+1507,102,Tyler,75,Not Named,No Notes,32.3512601,-95.3010624,1923
+1508,102,Hemphill,78,Not Named,No Notes,31.3407403,-93.846852,1922
+1509,102,Wichita Falls,78,Not Named,No Notes,33.9137085,-98.4933873,1921
+1510,102,Bellville,80,Blanchett Klan,No Notes,29.9502253,-96.2571858,1924
+1511,102,Livingstone,81,Polk County Klan,No Notes,30.711029,-94.9329898,1923
+1512,102,Austin,81,Capital City Klan,No Notes,30.267153,-97.7430608,1924
+1513,102,Memphis,82,Hall Klan,No Notes,34.7247758,-100.5340144,1923
+1514,102,Manor,83,Travis Klan,No Notes,30.3407629,-97.5569456,1924
+1515,102,Mercedes,84,Not Named,No Notes,26.1497977,-97.9136112,1922
+1516,102,McAllen,85,Not Named,No Notes,26.2034071,-98.2300124,1934
+1517,102,San Benito,87,Not Named,No Notes,26.132576,-97.6311006,1925
+1518,102,Paris,90,Not Named,Also operated out of Terrell,33.6609389,-95.555513,1922
+1519,102,Sour Lake,92,Not Named,No Notes,30.1402122,-94.4110239,1923
+1520,102,Cuero,93,Not Named,No Notes,29.0938652,-97.2891568,1922
+1521,102,Bastrop,94,Mina Klan,No Notes,30.1104947,-97.3152701,1921
+1522,102,McAllen,95,Not Named,No Notes,26.2034071,-98.2300124,1922
+1523,102,Mineola,96,Not Named,No Notes,32.6631884,-95.4882896,1923
+1524,102,Gonzales,97,Not Named,No Notes,29.5016257,-97.4524926,1922
+1525,102,Terrell,99,Not Named,No Notes,32.7359626,-96.2752569,1922
+1526,102,El Paso,100,Frontier Klan,No Notes,31.7775757,-106.4424559,1922
+1527,102,Fort Worth,101,Not Named,Sub-divisions Nos. 2 and 4,32.7554883,-97.3307658,1924
+1528,102,Texarkana,104,Not Named,No Notes,33.425125,-94.0476882,1922
+1529,102,Sherman,105,Not Named,No Notes,33.6356618,-96.6088805,1923
+1530,102,Marlin,107,Not Named,No Notes,31.3062874,-96.8980439,1922
+1531,102,Cleburne,108,Not Named,No Notes,32.3476438,-97.3866837,1922
+1532,102,Wolfe City,108,Not Named,No Notes,33.3706654,-96.0688607,1925
+1533,102,Luling,109,Not Named,No Notes,29.6805066,-97.647498,1923
+1534,102,Rosebud,110,Not Named,No Notes,31.0729608,-96.9785993,1923
+1535,102,Denison,113,Not Named,No Notes,33.7556593,-96.536658,1923
+1536,102,Taylor,117,Not Named,No Notes,30.5707551,-97.4094438,1922
+1537,102,Bremond,118,Not Named,No Notes,31.1651817,-96.6769217,1922
+1538,102,McKinney,120,Not Named,No Notes,33.1972465,-96.6397822,1922
+1539,102,Beeville,121,Bee County Klan,No Notes,28.4008319,-97.7483312,1924
+1540,102,San Marcos,124,Not Named,No Notes,29.8832749,-97.9413941,1924
+1541,102,Mathis,125,Not Named,No Notes,28.0944558,-97.8280543,1923
+1542,102,Edgewood,126,Not Named,No Notes,32.6981846,-95.8852438,1923
+1543,102,Grand Saline,130,Saline City Klan,No Notes,32.6734636,-95.7094069,1922
+1544,102,Rosenburg,132,Not Named,No Notes,29.5571825,-95.8085623,1923
+1545,102,Mineral Wells,133,Not Named,No Notes,32.8084605,-98.1128223,1922
+1546,102,Canyon,135,Not Named,No Notes,34.9803342,-101.9188024,1922
+1547,102,Henderson,138,Not Named,No Notes,32.1532156,-94.7993802,1922
+1548,102,Abilene,139,Not Named,"On November 28, 1921 had the first KKK parade in West Texas.",32.4487364,-99.7331439,1923
+1549,102,Batson,140,Batoga Klan,No Notes,30.2493767,-94.6071417,1923
+1550,102,Amarillo,141,Not Named,,35.2219971,-101.8312969,1923
+1551,102,Shepherd,142,Not Named,No Notes,30.4979813,-94.9966005,1922
+1552,102,Greenville,144,Not Named,No Notes,33.1384488,-96.1108066,1923
+1553,102,Aransas Pass,146,Not Named,No Notes,27.9,-97.133333,1924
+1554,102,Lockhart,147,Not Named,No Notes,29.8849441,-97.6699996,1922
+1555,102,Sinton,149,Not Named,No Notes,28.0366818,-97.5091611,1922
+1556,102,Gainesville,151,Not Named,No Notes,33.6259414,-97.1333453,1923
+1557,102,Eastland,152,Not Named,No Notes,32.4015198,-98.8175623,1923
+1558,102,Smithville,155,Not Named,No Notes,30.0085542,-97.1594321,1921
+1559,102,Honey Grove,163,Not Named,No Notes,33.5834377,-95.9099681,1922
+1560,102,Collegeport,172,Palacios Klan,No Notes,28.7252672,-96.174966,1922
+1561,102,Commerce,173,Not Named,No Notes,33.2470567,-95.8999656,1922
+1562,102,Winters,173,Not Named,Connected to klaverns number 272 and 273.,31.9565343,-99.962313,1925
+1563,102,Celeste,175,Not Named,No Notes,33.2942791,-96.1946983,1921
+1564,102,Weatherford,176,Watermelon Klan,No Notes,32.7592955,-97.7972544,1923
+1565,102,Dublin,177,Not Named,No Notes,32.085143,-98.3419882,1923
+1566,102,Damon,187,Not Named,No Notes,29.290523,-95.7346708,1923
+1567,102,Deweyville,188,Not Named,No Notes,30.2977058,-93.7435004,1924
+1568,102,Electra,189,Not Named,No Notes,34.0292588,-98.9189575,1922
+1569,102,Willis,191,Not Named,No Notes,30.4249276,-95.4799418,1922
+1570,102,Wichita Falls,195,Not Named,No Notes,33.9137085,-98.4933873,1923
+1571,102,Lubbock,199,Not Named,No Notes,33.5778631,-101.8551665,1923
+1572,102,Alice,200,Not Named,No Notes,27.7522487,-98.0697249,1923
+1573,102,Gause,201,Not Named,No Notes,30.7851923,-96.7213641,1923
+1574,102,Robstown,204,Not Named,No Notes,27.7903032,-97.6688843,1923
+1575,102,Iredell,210,Not Named,No Notes,31.9851488,-97.8719741,1923
+1576,102,Meridian,211,Not Named,No Notes,31.9232085,-97.6566894,1923
+1577,102,Sweetwater,217,Not Named,No Notes,32.4709519,-100.4059384,1922
+1578,102,McGregor,220,Not Named,No Notes,31.4440557,-97.4091792,1923
+1579,102,Corpus Christi,225,Not Named,At one time had plans to build a hospital.,27.8005828,-97.396381,1923
+1580,102,Slaton,228,Not Named,Slaton Klan No. U. D.,33.4373113,-101.6434915,1922
+1581,102,Jacksboro,236,Not Named,No Notes,33.2184477,-98.1586558,1922
+1582,102,Italy,243,Not Named,Began on August 8th 1922.,32.1840381,-96.8847194,1923
+1583,102,Waxahachie,246,Not Named,No Notes,32.3865312,-96.8483311,1923
+1584,102,Colorado,248,Colorado Klan,No Notes,29.98556,-97.1338899,1923
+1585,102,Gustine,249,Not Named,No Notes,31.8451492,-98.4028198,1924
+1586,102,Dalhart,250,Antelope Klan,No Notes,36.0594772,-102.5132497,1922
+1587,102,Port Lavaca,253,Port Lavaca Klan,Also associated with klavern number 254.,28.6149968,-96.6260892,1923
+1588,102,Plainview,260,Not Named,No Notes,34.1847936,-101.7068417,1923
+1589,102,Bowie,265,Not Named,No Notes,33.5589953,-97.8486457,1923
+1590,102,Winters,272,Not Named,See also klaverns number 173 and 273.,31.9565343,-99.962313,1924
+1591,102,Winters,273,Not Named,See also klaverns number 173 and 272.,31.9565343,-99.962313,1924
+1592,102,Kerrsville,274,Not Named,No Notes,30.0474332,-99.1403189,1923
+1593,102,Knox County,276,Not Named,No Notes,33.6734243,-99.8124935,1923
+1594,102,Cross Plains,277,Not Named,No Notes,32.1262493,-99.1653425,1924
+1595,102,Uvalde,279,Not Named,No Notes,29.2096836,-99.7861679,1923
+1596,102,Como,280,Not Named,No Notes,33.0609764,-95.4719515,1923
+1597,102,Bishop,286,Not Named,No Notes,27.5861441,-97.7991636,1923
+1598,102,Bayside,287,Refugio Klan,No Notes,28.0939035,-97.2147137,1923
+1599,102,McCullough County,290,Not Named,No Notes,31.2016122,-99.2785583,1923
+1600,102,Falfurries,291,Not Named,No Notes,27.2269872,-98.1441714,1924
+1601,102,Farmersville,296,Not Named,No Notes,33.1634493,-96.3599821,1923
+1602,102,Throckmorton,304,Not Named,No Notes,33.1787153,-99.1775756,1923
+1603,102,San Angelo,306,Ft. Concho Klan,No Notes,31.4637723,-100.4370375,1923
+1604,102,La Porte,309,Not Named,No Notes,29.6657838,-95.0193728,1923
+1605,102,Bee County,321,Bee County Klan,No Notes,28.405556,-97.750833,1924
+1606,102,Oak Cliff,334,Not Named,,32.7362591,-96.8645856,1931
+1607,102,Brownwood,346,Not Named,No Notes,31.7093197,-98.9911611,1928
+1608,102,Fort Worth,356,Hyde Park Klan,No Notes,32.7554883,-97.3307658,1932
+1609,102,Fort Worth,357,Not Named,No Notes,32.7554883,-97.3307658,1932
+1610,102,Ennis,359,Not Named,"Chartered on August 19th, 1931.",32.3293111,-96.6252679,1931
+1611,102,Amarillo,360,Not Named,No Notes,35.2219971,-101.8312969,1932
+1612,101,Chattanooga,1,Not Named,No Notes,35.0456297,-85.3096801,1923
+1613,101,Memphis,3,Not Named,"Charter revoked Feburary 9, 1924. Connecteed to klavern number 50.",35.1495343,-90.0489801,1923
+1614,101,Chattanooga,4,Not Named,Early August is the second anniversary of the chartering of this Klan.,35.0456297,-85.3096801,1923
+1615,101,Johnston City,5,Not Named,No Notes,36.3134397,-82.3534727,1924
+1616,101,Cleveland,12,Not Named,No Notes,35.1595182,-84.8766115,1922
+1617,101,Knox County,14,Not Named,"Chartered fall 1921. Membership fell from more than 2,000 to 406 in 1927 ande 191 in 1928.",35.9874629,-83.9419784,1921
+1618,101,Chattanooga,15,Not Named,Also known as the Lookout Klan,35.0456297,-85.3096801,1923
+1619,101,Lenoir City,17,Not Named,No Notes,35.7972998,-84.2560299,1923
+1620,101,Harrison,18,Harrison Klan,No Notes,35.1136837,-85.1380092,1923
+1621,101,Tullahoma,21,Not Named,No Notes,35.3620235,-86.2094342,1923
+1622,101,Estill Springs,24,Not Named,No Notes,35.2706372,-86.1280417,1923
+1623,101,Soddy,27,Not Named,No Notes,35.2886802,-85.1666236,1923
+1624,101,Coal Creek,35,Not Named,No Notes,36.1657432,-84.2000519,1923
+1625,101,Selmar,40,Not Named,No Notes,35.1700834,-88.5922704,1924
+1626,101,Pulaski,42,Brown Harwood Klan,No Notes,35.1998023,-87.0308412,1924
+1627,101,Chattanooga,44,Not Named,No Notes,35.0456297,-85.3096801,1923
+1628,101,Jackson,45,Not Named,No Notes,35.6145169,-88.8139469,1924
+1629,101,Murfreesboro,46,Not Named,No Notes,35.8456213,-86.39027,1924
+1630,101,Nashville,47,Andrew Jackson Klan,No Notes,36.1626638,-86.7816016,1924
+1631,101,Chattanooga,48,Not Named,No Notes,35.0456297,-85.3096801,1924
+1632,101,Memphis,50,Shelby County Klan,"Chartered April 26, 1924. Reorganized and rechartered. Was previously Memphis No. 3 until Feburary 9, 1924 when their charter was revoked.",35.1495343,-90.0489801,1924
+1633,101,Palmyra,50,Kumberland Klan,No Notes,36.4360545,-87.4846389,1924
+1634,101,Collierville,52,Not Named,No Notes,35.042036,-89.6645266,1924
+1635,82,Tippah County,53,Not Named,No Notes,34.7688097,-88.864698,1924
+1636,101,Bristol,54,Not Named,No Notes,36.5951059,-82.1887444,1924
+1637,101,Dyersburg,57,Forked Deer Klan,No Notes,36.0345159,-89.3856281,1924
+1638,101,Butler,64,Butler Klan,No Notes,36.3537006,-82.0320682,0
+1639,101,Paris,66,Not Named,No Notes,36.3020023,-88.3267107,1925
+1640,101,Humbolt,76,Not Named,No Notes,35.8197917,-88.9158953,1924
+1641,101,McMinnville,83,Not Named,No Notes,35.6865889,-85.7801453,1924
+1642,101,Cleveland,88,Not Named,No Notes,35.1595182,-84.8766115,1922
+1643,101,Medina,87,Not Named,No Notes,35.8028453,-88.7747808,1924
+1644,101,Bolton College,94,Loosahatchie Klan,No Notes,34.9991541,-85.1007333,1926
+1645,101,Knoxville,96,John Sevier Klan,No Notes,35.9606384,-83.9207392,1927
+1646,101,Columbia,101,Henry Rogers Klan,No Notes,35.6150716,-87.0352831,1926
+1647,101,Mt. Pleasant,118,James K. Polk Klan,No Notes,35.5342414,-87.2069541,1926
+1648,101,Mason Hall,119,Not Named,No Notes,36.2067343,-89.0936782,1926
+1649,101,Memphis,121,Jefferson Davis Klan,No Notes,35.1495343,-90.0489801,1927
+1650,101,Shelby County,123,W. J. Bryan Klan,The sixth klan in Shelby County,35.1268552,-89.9253233,1926
+1651,104,White River Junction,4,Rock Maple Klan,No Notes,43.6489596,-72.3192579,1929
+1652,104,Hartland,101,Hugh S. Kelley Klan,No Notes,43.540636,-72.3989314,1931
+1653,104,Newport,102,Not Named,No Notes,44.9364356,-72.2051022,1932
+1654,104,Island Pond,110,Island Pond Klan,Chartered in 1929.,44.8147712,-71.8803728,1929
+1655,103,Salt Lake,1,Not Named,No Notes,40.7607793,-111.8910474,1922
+1656,103,Ogden,6,Not Named,No Notes,41.223,-111.9738304,1931
+1657,105,Richmond,1,Not Named,No Notes,37.5407246,-77.4360481,1931
+1658,105,Fairfax County,2,Not Named,No Notes,38.9085472,-77.2405153,1926
+1659,105,Norfolk,3,Not Named,No Notes,36.8507689,-76.2858726,1931
+1660,105,Roanoke,4,Robert E. Lee Klan,No Notes,37.2709704,-79.9414266,1927
+1661,105,Ballston,6,Not Named,No Notes,38.8858006,-77.1053673,1927
+1662,105,Newport News,8,Not Named,No Notes,37.0870821,-76.4730122,1931
+1663,105,Lynchburg,11,John W. Daniel Klan,No Notes,37.4137536,-79.1422464,1921
+1664,105,Christiansburg,13,Not Named,No Notes,37.1298517,-80.4089389,1931
+1665,105,Hopewell,14,Not Named,No Notes,37.3043154,-77.2872001,1923
+1666,105,Appalachia,15,Not Named,No Notes,36.9067631,-82.7818275,1924
+1667,105,Portsmouth,16,A. S. U. Klan,No Notes,36.8354258,-76.2982742,1927
+1668,105,Danville,17,Not Named,No Notes,36.5859718,-79.3950228,1924
+1669,105,Arlington,17,Not Named,No Notes,38.8799697,-77.1067698,1931
+1670,105,Winchester,18,Not Named,No Notes,39.1856597,-78.1633341,1931
+1671,105,Arlington,21,Not Named,No Notes,38.8799697,-77.1067698,1926
+1672,105,Melfa,25,Not Named,Connected to klavern number 52.,37.6492986,-75.7413182,1925
+1673,105,Franklin,31,Not Named,No Notes,36.6776507,-76.9224608,0
+1674,105,Norfolk,32,Albert Pike Klan,No Notes,36.8507689,-76.2858726,0
+1675,105,Suffolk,33,Not Named,No Notes,36.7282054,-76.5835621,1928
+1676,105,Parksley,34,Not Named,No Notes,37.7820725,-75.6535401,0
+1677,105,Petersburg,35,Krater Klan,No Notes,37.2279279,-77.4019267,1931
+1678,105,Cape Charles,38,Not Named,No Notes,37.267916,-76.0174336,1923
+1679,105,Tazewell,43,Red Ash Klan,No Notes,37.1148374,-81.5195548,1922
+1680,105,Occoquan,45,Not Named,No Notes,38.6837271,-77.260261,1931
+1681,105,Painter,46,Not Named,No Notes,37.585411,-75.7849299,0
+1682,105,Alexandria,47,Not Named,No Notes,38.8048355,-77.0469214,1931
+1683,105,Graham,48,Robert E. Lee Klan,No Notes,38.8665013,-77.1949586,1924
+1684,105,Bluefield,48,Robert E. Lee Klan,No Notes,37.252617,-81.2712105,1930
+1685,105,Covington,49,Allegheny Klan,No Notes,37.7934585,-79.9939463,1923
+1686,105,Bloxom,52,Not Named,No Notes,37.8295713,-75.6232616,0
+1687,105,Elkton,54,Spotswood Klan,No Notes,38.4079042,-78.6236277,1931
+1688,105,Gretna,64,Not Named,No Notes,36.9537526,-79.3589134,1931
+1689,105,Culpeper,65,Not Named,No Notes,38.4729632,-77.9962512,1928
+1690,105,Staunton,66,Not Named,No Notes,38.149576,-79.0716958,1926
+1691,105,Harrisonburg,68,Not Named,No Notes,38.4495688,-78.8689155,1926
+1692,105,Bristol,75,Not Named,No Notes,36.595141,-82.1888089,1924
+1693,105,Parrott,80,Dublin Klan,No Notes,37.205054,-80.6156013,1928
+1694,105,Warsaw,84,Not Named,No Notes,37.9587446,-76.7580139,1926
+1695,105,Fredericksburg,97,Not Named,No Notes,38.3031837,-77.4605399,1931
+1696,105,Richmond,99,William Byrd Klan,"Was chartered on Nov. 2, 1925 with 300 members",37.5407246,-77.4360481,1925
+1697,105,Virginia Beach,100,Not Named,No Notes,36.8529263,-75.977985,1931
+1698,105,King George,107,Not Named,No Notes,38.2664512,-77.1807842,1927
+1699,105,Crewe,108,Not Named,No Notes,37.1732074,-78.1233329,1927
+1700,105,Purcellville,113,Not Named,No Notes,39.1367717,-77.7147153,1926
+1701,105,Potomac,115,Not Named,No Notes,38.341325,-77.4132716,1927
+1702,105,Norfolk,125,Albert Pike Klan,No Notes,36.8507689,-76.2858726,1931
+1703,105,South Richmond,128,Not Named,No Notes,37.4880754,-77.4587239,1931
+1704,105,Warrenton,129,Not Named,Chartered in 1926.,38.7134516,-77.7952712,1926
+1705,105,Lawrenceville,132,Not Named,No Notes,36.7576469,-77.8469374,1929
+1707,106,Vancouver,1,Columbia Klan,No Notes,45.6387281,-122.6614861,1922
+1708,106,Buckley,2,Not Named,No Notes,47.1631573,-122.0267787,1923
+1709,106,Spokane,2,Not Named,No Notes,47.6587802,-117.4260466,0
+1710,106,Walla Walla,3,Not Named,No Notes,46.0645809,-118.3430209,1923
+1711,106,Seattle,4,Not Named,No Notes,47.6062095,-122.3320708,1923
+1712,106,Colfax,5,Not Named,No Notes,46.8801654,-117.3643495,1923
+1713,106,Woodland,7,Ben Karr Klan,No Notes,45.9045591,-122.7439912,1923
+1714,106,Kent,13,Not Named,No Notes,47.3809335,-122.2348431,1923
+1715,106,Kelso,14,Not Named,No Notes,46.146779,-122.9084445,1923
+1716,106,Bellingham,19,Mt. Baker Klan,No Notes,48.74908,-122.4781473,1924
+1717,106,Spokane,22,Not Named,No Notes,47.6587802,-117.4260466,1930
+1718,106,Pasco,22,Not Named,No Notes,46.2395793,-119.1005657,1929
+1719,106,Enuclaw,23,Natches Klan,Chartered in 1924.,47.2042681,-121.9915003,1924
+1720,106,Everett,27,Not Named,No Notes,47.9789848,-122.2020794,1929
+1721,106,Mount Vernon,28,Skagit Valley Klan,No Notes,48.421216,-122.3340474,1924
+1722,106,Auburn,29,Not Named,No Notes,47.3073228,-122.2284532,1924
+1723,106,Raymond,43,Douglas Fir Klan,No Notes,46.6864887,-123.7329385,1930
+1724,106,Yakima,48,Not Named,No Notes,46.6020711,-120.5058987,1931
+1725,106,Sedro Woolley,49,Not Named,Also operated out of Skagit County,48.50389,-122.23611,1931
+1726,106,Fall City,51,Cascade Klan,No Notes,47.5673237,-121.8887269,1931
+1727,106,Bellingham,51,Kaskade Klan,No Notes,48.74908,-122.4781473,1932
+1728,106,Seattle,56,Not Named,No Notes,47.6062095,-122.3320708,1929
+1729,106,Tacoma,59,Not Named,No Notes,47.2528768,-122.4442906,1929
+1730,107,Wheeling,1,Not Named,No Notes,40.0639616,-80.7209149,1921
+1731,107,Charleston,2,Kanawha Klan,Dr. V. T. Churchman is klavern president.,38.3498195,-81.6326234,1923
+1732,107,Bluefield,4,Not Named,No Notes,37.2698395,-81.2223195,1924
+1733,107,Huntington,7,Kabell Klan,No Notes,38.4192496,-82.445154,1923
+1734,107,Matoaka,9,Not Named,No Notes,37.4201162,-81.2431548,1924
+1735,107,Parkersburg,10,Not Named,No Notes,39.2667418,-81.5615135,1922
+1736,107,Beckley,11,Not Named,No Notes,37.7781702,-81.1881557,1923
+1737,107,Mullens,13,Guyandotte Klan,No Notes,37.5831698,-81.3803804,1923
+1738,107,Keyser,18,Not Named,No Notes,39.4409277,-78.9739156,1930
+1739,107,Parkersburg,20,Not Named,No Notes,39.2667418,-81.5615135,1923
+1740,107,Morgantown,25,Not Named,No Notes,39.629526,-79.9558968,1923
+1741,107,Oak Hill,28,Not Named,No Notes,37.9723339,-81.1487135,1924
+1742,107,Clarksburg,33,Not Named,No Notes,39.2806451,-80.3445341,1923
+1743,107,Piedmont,34,Not Named,No Notes,39.4803706,-79.0478073,1924
+1744,107,Moundsville,35,Not Named,No Notes,39.9203526,-80.7431407,1923
+1745,107,Ravenswood,39,Not Named,No Notes,38.9481366,-81.7609646,1924
+1746,107,Wellsburg,40,Not Named,No Notes,40.2720146,-80.6095187,1923
+1747,107,Weirton,44,Not Named,No Notes,40.4189566,-80.5895167,1924
+1748,107,Logan,45,Not Named,No Notes,37.8487147,-81.9934581,1923
+1749,107,Grafton,52,Not Named,No Notes,39.3409249,-80.0189659,1924
+1750,107,Morgantown,59,Monongalia County Klan,No Notes,39.629526,-79.9558968,1933
+1751,107,Fairmount,61,Marion County,No Notes,39.4850848,-80.1425781,1925
+1752,107,Follansbee,62,Brook County Klan,No Notes,40.3275693,-80.5959065,1925
+1753,107,Rovenceverte,69,Greenbrier County Klan,No Notes,37.7498438,-80.4628519,1925
+1754,107,Parkersburg,78,Wood County,No Notes,39.2667418,-81.5615135,1925
+1755,107,Pocahontas County,83,Cass Unit,"This particular klavern was created as a way to consolidate members and power in Cass, WV away from the bigger Pocahontas County klavern.",38.3101706,-80.0087746,1926
+1756,107,Randolph County,84,Randolph Klan,Concentrated activity in Elkin,38.8092552,-80.0087746,1925
+1757,107,Hinton,90,Summers County,No Notes,37.674008,-80.8892539,1925
+1758,107,Martinsburg,93,Not Named,No Notes,39.4562099,-77.9638869,1926
+1759,107,Berkeley County,93,Not Named,No Notes,39.4885604,-78.0651931,1925
+1760,107,Clarksburg,95,Harrison County Klan,No Notes,39.2806451,-80.3445341,1926
+1761,107,Matoaka,121,East River Klan,"Princeton Klan gave up its charter ""about one year ago."" Met to reinstate ex-Klansmen and will work with the Bluefield, VA, Robert E. Lee Klan No. 48.",37.4201162,-81.2431548,1925
+1762,107,Keystone,123,McDowell County,"Reorganized  in 1927 after a long, internal struggle.",37.4148369,-81.450937,1927
+1763,107,Wheeling,141,Ohio County Klan,No Notes,40.0639616,-80.7209149,1931
+1764,108,Milwaukee,1,Not Named,No Notes,43.0389025,-87.9064736,1923
+1765,108,Racine,2,Not Named,No Notes,42.7261309,-87.7828523,1923
+1766,108,Fort Atkinson,3,Not Named,No Notes,42.9288944,-88.8370509,1923
+1767,108,Clinton,3,Liberty Klan,First four members were initiated in early winter 1922.,42.5577925,-88.865107,1931
+1768,108,Kenosha,4,Genesee Klan,No Notes,42.5847425,-87.8211854,1931
+1769,108,Madison,7,Provisional Klan,No Notes,43.0730517,-89.4012302,1923
+1770,108,Chippewa Falls,12,Not Named,No Notes,44.9369054,-91.3929348,1926
+1771,108,Cornell,13,Not Named,No Notes,45.1671881,-91.1493107,1926
+1772,108,Menomenie,19,Not Named,Operated throughout Dunn County.,44.8755183,-91.9193422,1931
+1773,108,Madison,22,Not Named,No Notes,43.0730517,-89.4012302,1935
+1774,108,Fence,52,Lief Erickson Klan,Records show it was five years old by 1932.,45.7445979,-88.4251475,1931
+1775,108,Marinette,53,Wesley Klan,Chartered in 1926.,45.0999849,-87.6306623,1926
+1776,108,Brown County,69,Not Named,Operated throughout Green Bay as well,44.4561674,-87.9334803,1931
+1777,108,New London,73,Mosquito Hill,No Notes,44.3927582,-88.7398256,1929
+1778,108,Racine,76,Not Named,No Notes,42.7261309,-87.7828523,1931
+1779,108,Goodman,81,Charles A. Lindbergh Klan,No Notes,45.6307027,-88.3535655,1931
+1780,108,Milwaukee,82,Progressive Klan,No Notes,43.0389025,-87.9064736,1931
+1781,108,Milwaukee,83,Progressive Klan,No Notes,43.0389025,-87.9064736,1931
+1782,108,Ellsworth,89,Pierce County,No Notes,44.7321897,-92.4874124,1929
+1783,108,Fon Du Lac,96,Not Named,The old klan is rechartered as Old Ironsides Klan,43.7730448,-88.4470508,1931
+1784,108,Ellsworth,132,Not Named,No Notes,44.7321897,-92.4874124,1927
+1786,109,Casper,3,Not Named,No Notes,42.866632,-106.313081,1923
+1787,109,Sheridan,5,Not Named,No Notes,44.7971939,-106.9561791,1926
+1788,109,Green River,15,Green River Klan,No Notes,41.5285757,-109.4662461,1923
+1789,109,Cheyenne,16,Not Named,No Notes,41.1399814,-104.8202462,1928
+1790,109,Rock Springs,18,Not Named,No Notes,41.5874644,-109.2029043,1923
+1791,109,Laramie,22,Not Named,No Notes,41.3113669,-105.5911007,1928
+1792,109,Pinedale,26,Not Named,No Notes,42.8678809,-109.8633501,1924
+1793,109,Saratoga,29,Saratoga Encampment Klan,Also operated out of Sarene,41.4549621,-106.8064263,1931
+1794,109,Torrington,33,Lingle Klan,No Notes,42.0624646,-104.1843942,1931
+1795,109,Cheyenne,45,Not Named,No Notes,41.1399814,-104.8202462,1932
+1796,76,New Orleans,1,Old Hickory Klan,No Notes,29.9510658,-90.0715323,1922
+1797,76,Shreveport,2,Not Named,"Organized ""almost three years ago"", according to the INH. Granger, established Nov 1920",32.5251516,-93.7501789,1923
+1798,76,Baton Rouge,3,Not Named,No Notes,30.4582829,-91.1403196,1921
+1799,76,Monroe,4,Not Named,No Notes,32.5093109,-92.1193012,1922
+1800,76,Alexandria,6,Not Named,No Notes,31.3112936,-92.4451371,1922
+1801,76,Lake Charles,7,Not Named,No Notes,30.2265949,-93.2173758,1922
+1802,76,Derrider,9,Beauregard Parish,No Notes,30.8463055,-93.2890527,1923
+1803,76,De Quincy,10,Not Named,No Notes,30.4504779,-93.4332189,1923
+1804,76,Baton Rouge,11,White Oak Klan,No Notes,30.4582829,-91.1403196,1924
+1805,76,Alexandria,12,Not Named,No Notes,31.3112936,-92.4451371,1922
+1806,76,Minden,17,Not Named,No Notes,32.6154278,-93.2868354,1922
+1807,76,Covington,18,Kay-Tam Klan,No Notes,30.4754702,-90.1009108,1922
+1808,76,Winnfield,19,Antone W. Radescich Klan,No Notes,31.9254413,-92.6395931,1922
+1809,76,Oakdale,23,Not Named,No Notes,30.8167525,-92.658557,1923
+1810,76,Jackson,25,Not Named,No Notes,30.8374036,-91.2176087,1923
+1811,76,Crowley,26,Rice City Klan,No Notes,30.2140928,-92.3745761,1923
+1812,76,Arcadia,28,James Brice Klan,No Notes,32.551944,-92.924167,1922
+1813,76,Haynesville,30,Not Named,No Notes,32.9620847,-93.1401647,1923
+1814,76,Rushton,31,Not Named,No Notes,32.5232053,-92.637927,1926
+1815,76,Winnsboro,32,John C. Adams Klan,No Notes,32.1632079,-91.720681,1922
+1816,76,Morehouse Parish,34,Not Named,New York Times on Skipwith,32.82,-91.8,1922
+1817,76,Lake Providence,37,Karroll Klan,No Notes,32.8042966,-91.170109,1922
+1819,76,Merryville,40,Not Named,No Notes,30.753889,-93.536944,1924
+1820,76,Vivian,41,Vivian Klan,No Notes,32.8715278,-93.9874032,1923
+1821,76,Algiers,45,Al-Gre-Har Klan,No Notes,29.9220105,-90.0139908,1922
+1822,76,Logansport,47,Not Named,No Notes,31.975445,-93.9979678,1923
+1823,76,Amite City,49,Amite Klan,No Notes,30.7265747,-90.5089815,1923
+1824,76,Boyce,51,Not Named,No Notes,31.3904558,-92.6693132,1922
+1825,76,Kinder,52,Not Named,No Notes,30.485479,-92.850703,1924
+1826,76,Colfax,53,Grant Klan,No Notes,31.5190623,-92.706816,1922
+1827,76,Urania,53,Urania Klan,No Notes,31.8637771,-92.2959723,1923
+1829,76,LaSalle,55,LaSalle Parish,No Notes,31.68,-92.16,1922
+1830,76,Campti,57,Kampti Klan,No Notes,31.8934954,-93.1182202,1923
+1831,76,Gibsland,59,Not Named,No Notes,32.5440413,-93.0529398,1923
+1832,76,Jonesboro,60,Hoboro Klan,No Notes,32.2412672,-92.7159853,1922
+1833,76,Tensas,61,Not Named,No Notes,32,-91.33,1922
+1834,76,Haynesville,63,Not Named,No Notes,32.9620847,-93.1401647,1922
+1835,76,Homer,63,Not Named,No Notes,32.7918133,-93.055718,1923
+1836,76,Colfax,70,Not Named,No Notes,31.5190623,-92.706816,1922
+1837,76,Ashland,78,Not Named,No Notes,32.1418256,-93.0982193,1924
+1838,76,Bull Bayou,83,Bull Bayou Klan,No Notes,32.007566,-93.4243225,1923
+1839,76,Shreveport,100,Not Named,Shreveport,32.5251516,-93.7501789,1926
+1840,76,Urania,125,Russo Klan,No Notes,31.8637771,-92.2959723,1925
+1841,76,New Iberia,138,Not Named,No Notes,30.0035365,-91.8187285,1925
+1842,76,New Orleans,163,Old Hickory Klan,No Notes,29.9510658,-90.0715323,1926
+1843,76,New Orleans,166,Harmony Klan,"""a younger unit of the organization here,"" held a meeting with attendees also from George Washington, Old Hickory, Abraham Lincoln, and Al-Gre-Har (Algiers, Gretna, and Harvey) Klans",29.9510658,-90.0715323,1929
+1844,70,Augusta,22,Alexander Stephens Klan,No Notes,33.466667,-81.966667,1931
+1846,72,Oak Park,18,Not Named,No Notes,41.8850317,-87.7845025,1922
+1847,72,Jacksonville,30,Abraham Lincoln Klan,No Notes,39.731944,-90.234444,1923
+1848,72,Murphysboro,124,Not Named,No Notes,37.767222,-89.337222,1924
+1849,111,Windfall,119,Not Named,No Notes,40.362222,-85.956944,1928
+1850,111,Evansville,1,Not Named,"Pioneer unit of the order in the North, and the first chartered Klan above the Mason and Dixon Line.",37.9715592,-87.5710898,1922
+1851,111,Indianapolis,3,Marion County,No Notes,39.768403,-86.158068,1924
+1852,111,Fountain City,3,Wayne County,No Notes,39.9556028,-84.9174619,1922
+1853,111,Muncie,4,Delaware County,No Notes,40.1933767,-85.3863599,1924
+1854,111,Terre Haute,7,Vigo County Klan,Also operated out of Franklin.,39.4667034,-87.4139092,1922
+1855,111,New Castle,8,Not Named,Also operated out of Elizaville and throughout Henry County.,39.928935,-85.3702476,1923
+1856,111,Kokomo,11,Nathan Hale Klan,No Notes,40.486427,-86.1336033,1924
+1857,111,Cambridge City,12,Not Named,No Notes,39.8125465,-85.1716315,1923
+1858,111,Marion,13,Mississiniwa Klan,No Notes,40.5583739,-85.6591442,1923
+1859,111,Anderson,13,Not Named,No Notes,40.1053196,-85.6802541,1923
+1860,111,Marion,14,Mississinewa Klan,"Also known as Grant County Klan and the True Blue Klan. Operated in Elwood, LaFayette and throughout Grant County as well.",40.5583739,-85.6591442,1923
+1861,111,Monroe,15,Not Named,Operated in Bloomington and throughout Monroe County,40.7450468,-84.9369111,1923
+1862,111,Bluffton,17,Not Named,No Notes,40.7386579,-85.1716368,1924
+1863,111,Elwood,19,White City Klan,No Notes,40.2769834,-85.8419246,1924
+1864,111,Delphi,20,Dear Creek Klan,No Notes,40.5875371,-86.6750059,1924
+1865,111,Bedford,21,Not Named,Operated throughout Lawrence County,38.8611619,-86.4872149,1924
+1866,111,Montgomery County,23,"Montgomery Klan (INH, 18 Jun 24)",No Notes,40.019879,-86.8220341,1924
+1867,111,Connersville,24,Not Named,No Notes,39.6411589,-85.1410748,1932
+1868,111,Whitley County,25,Not Named,No Notes,41.1136133,-85.520024,1926
+1869,111,Clay County,27,Not Named,No Notes,39.368622,-87.1422895,1924
+1870,111,Lafayette,30,Tippecanoe Klan,No Notes,40.4167022,-86.8752869,1931
+1871,111,Hartford City,31,Not Named,Reorganized in 1924.,40.451154,-85.369972,1924
+1872,111,San Pierre,31,Frank Hay Klan,Operated throughout Starke County.,41.1976703,-86.8935256,1926
+1873,111,Jeffersonville,32,Klark Kounty Klan,Also operated in Sellersburg.,38.2775702,-85.7371847,1923
+1874,111,Hartford City,34,Blackford County Klan,No Notes,40.451154,-85.369972,1924
+1875,111,Bainbridge,37,Kastle Klan,No Notes,39.761157,-86.8119523,1924
+1876,111,Frankfort,38,Not Named,No Notes,40.2794809,-86.5108355,1924
+1877,111,Logansport,39,Mystic Tie Klan,Also known as the Muncie Klan.,40.7544843,-86.3566659,1923
+1878,111,Portland,40,Jay County Klan,Shackford County,40.4344895,-84.9777455,1924
+1879,111,Plymouth,41,Marshall County Klan,No Notes,41.3436554,-86.3097278,1923
+1880,111,Noblesville,42,Hamilton County Klan,No Notes,40.0455917,-86.0085955,1924
+1881,111,Plymouth,42,Marshall County Klan,No Notes,41.3436554,-86.3097278,1924
+1882,111,Lebanon,43,Daniel Boone Klan,Operated throughout Boone County.,40.0483744,-86.4691677,1923
+1883,111,Modoc,44,Randolph County Klan,Also operated in Winchester.,40.0453238,-85.1263542,1924
+1884,111,Winamac,45,Liberty Klan,No Notes,41.0514299,-86.6030648,1930
+1885,111,Kosciusko County,46,Not Named,No Notes,41.2864679,-85.8486236,1924
+1886,111,Tipton,50,Not Named,No Notes,40.2822598,-86.041098,1926
+1887,111,Sullivan,51,Not Named,,39.0953199,-87.4058525,1928
+1888,111,South Bend,52,Valley Klan,No Notes,41.6763545,-86.2519898,1926
+1889,111,South Bend,53,Valley Klan,"Operated in North Vernon, Jennings County and St. Joseph County.",41.6763545,-86.2519898,1924
+1890,111,Martin County,54,Not Named,No Notes,38.71,-86.8,1924
+1891,111,Rockville,58,Parke County Klan,No Notes,39.7625404,-87.2291809,1923
+1892,111,Wayne County,59,Not Named,No Notes,39.831882,-84.981754,1927
+1893,111,Richmond,60,Whitewater Klan,Also operated out of Tipton.,39.8289369,-84.8902382,1924
+1894,111,Clinton,61,Not Named,No Notes,39.6569817,-87.3980741,1923
+1895,111,Kendallville,66,Not Named,No Notes,41.4414384,-85.2649754,1924
+1896,111,Crown Point,67,Kalumet Klan,No Notes,41.4169806,-87.3653135,1924
+1897,111,Warren County,69,Not Named,No Notes,40.35,-87.36,1924
+1898,111,Columbus,70,Not Named,No Notes,39.2014404,-85.9213796,1923
+1899,111,Crown Point,72,Lake County Klan,No Notes,41.4169806,-87.3653135,1923
+1900,111,Knox County,75,Not Named,Vincennes Unit 8 and Sandborn Unit 11 make up Knox County Klan #75,38.69,-87.42,1924
+1901,111,Elkhart County,77,Not Named,Chartered on 11/1/1925,41.6062253,-85.8486236,1925
+1902,111,Jasper County,80,Not Named,No Notes,41.016667,-87.116667,1923
+1903,111,Wabash,81,Wabasheo Klan,No Notes,40.797821,-85.8205411,1926
+1904,111,Chesterton,82,Not Named,Also operated throughout Johnson County,41.6105937,-87.0641992,1929
+1905,111,Peru,83,Wabash Valley Klan,No Notes,40.7536528,-86.0688811,1925
+1906,111,Rochester,84,Not Named,No Notes,41.0647645,-86.2158331,1924
+1907,111,Pike County,86,Not Named,No Notes,38.4,-87.23,1924
+1908,111,Gibson County,87,Not Named,Also operated in Fort Cumberland,38.3338249,-87.5791287,1924
+1909,111,Odon,90,Not Named,No Notes,38.8428256,-86.9913959,1923
+1910,111,Hartford City,92,Godfrey Klan,No Notes,40.451154,-85.369972,1928
+1911,111,Rockport,93,Not Named,No Notes,37.8831055,-87.0494408,1924
+1912,111,Hartford City,93,Godfrey Klan,No Notes,40.451154,-85.369972,1927
+1913,111,Eureka,96,Not Named,No Notes,37.8806026,-87.2150011,1926
+1914,111,Fortville,99,Not Named,No Notes,39.9322625,-85.8480354,1926
+1915,111,Roanoke,106,Jackson Klan,No Notes,40.9625467,-85.3733078,1927
+1916,111,Roanoke,110,Little River Klan,No Notes,40.9625467,-85.3733078,1927
+1917,111,Gas City,113,Not Named,"Also operated throughout Grant County. Chartered on October 9, 1924 with 72 members.",40.4872625,-85.6130311,1924
+1918,111,Hammond,125,Not Named,Associated with Hammond klavern number 135.,41.5833688,-87.5000412,1926
+1919,111,Mishawaka,142,White Cloud Klan,No Notes,41.6619927,-86.1586156,1927
+1920,111,Michigan City,145,Not Named,No Notes,41.7075394,-86.8950297,1930
+1921,111,West Point,151,Shawnee Klan,No Notes,40.3449627,-87.0428982,1932
+1922,111,Indianapolis,164,Fountain Square Klan,"Predecessor to klavern 184, also situated in Indianapolis. Reorganized and incorporated into 179 prior to being incorporated into 184.",39.768403,-86.158068,1932
+1923,111,Logansport,170,Kass Kounty Klan,No Notes,40.7544843,-86.3566659,1930
+1924,111,Kokomo,173,Nathan Hale Klan,"9th birthday on 24 Nov 31 , 10th anniversary on 26 Nov 32",40.486427,-86.1336033,1932
+1925,111,Indianapolis,179,Not Named,Successor to klavern 164 and later incorporated into klavern 184.,39.768403,-86.158068,1932
+1926,111,Ft. Wayne,180,Anthony Wayne Klan,No Notes,41.079273,-85.1393513,1929
+1927,111,Indianapolis,184,Fountain Square Klan,Successor to klavern 164.,39.768403,-86.158068,1932
+1928,73,Waterloo,25,Black Hawk County Klan,No Notes,42.4925,-92.346111,1925
+1929,73,Fayette County,55,Fayette County Klan,No Notes,42.865,-91.849444,1929
+1930,75,Middlesboro,118,Not Named,No Notes,36.610278,-83.723333,1926
+1931,76,Shreveport,3,Not Named,No Notes,32.5251516,-93.7501789,1928
+1932,76,Catahoula,36,Katahoula Klan,No Notes,30.214499,-91.708932,1923
+1933,76,Glenmore,46,McLongmore Klan,No Notes,30.976667,-92.585278,1922
+1934,76,Columbia,64,Kaldwell Klan,No Notes,32.104167,-92.076944,1923
+1935,76,Harrisonburg,75,Not Named,No Noes,31.772222,-91.8275,1923
+1936,76,Monroe,102,Not Named,No Nodes,32.509444,-92.118333,1925
+1937,79,Amesbury,17,Not Named,No Notes,42.858333,-70.930556,1925
+1938,80,Shiawassee County,7,Not Named,No Notes,42.95,-84.14,0
+1939,80,Mancelona,30,Not Named,No Notes,44.903889,-85.060556,0
+1940,80,Benton Harbor,85,Not Named,No Notes,42.111111,-86.448333,1927
+1941,81,Paynesville,51,Not Named,No Notes,45.383333,-94.716667,0
+1942,81,Albert Lea,54,Freeborn County Klan,No Notes,43.647861,-93.36875,1929
+1943,83,Joplin,3,Ozark Klan,"Had members in Joplin, Webb City, Orongo, Alba, Neck City, Purcell, Carl Junction, Waco, Asbury, and rural territory contiguous thereto, save for Carthage.",37.084167,-94.513056,1923
+1944,83,Carterville,14,Nathan Hale Klan,No Notes,37.149444,-94.440278,1923
+1945,83,St. Louis,152,Not Named,No Notes,38.627222,-90.197778,1926
+1946,86,McCook,67,Not Named,No Notes,40.205278,-100.626111,1925
+1947,86,Minden,109,Not Named,"The Omaha Bee has a story and pictures of a Klan initiation in Lincoln. ""Utmost secrecy has surrounded the activities of 22 Klan organizers who have been working in Nebraska since May 18..""",40.498056,-98.951111,1921
+1948,88,Hampton,2,Not Named,No Notes,42.9375,-70.838889,1925
+1949,88,Portsmouth,2,Not Named,No Notes,43.075556,-70.760556,1925
+1950,88,Portsmouth,4,Not Named,No Notes,43.075556,-70.760556,1925
+1951,91,Auskerada,71,Not Named,No Notes,0,0,0
+1952,91,Rochester,86,Wanakena Klan,No Notes,43.165556,-77.611389,0
+1953,94,Logan,35,Hocking County Klan,No Notes,39.539167,-82.406111,1925
+1954,94,Meigs County,57,Not Named,No Notes,39.08,-82.02,1923
+1955,94,Athens,60,Athens County Klan,No Notes,39.329167,-82.096111,1925
+1956,94,East Liverpool,71,Columbiana County Klan,No Notes,40.6186756,-80.5772928,1925
+1957,94,Alliance,87,Stark County Klan,No Notes,40.913333,-81.108056,1925
+1958,94,Portsmouth,145,Peerless City Klan,No Notes,38.743056,-82.965556,1926
+1959,94,Scioto County,190,Not Named,No Notes,38.81,-82.99,1926
+1960,96,Eugene,3,Not Named,No Notes,44.051944,-123.086667,1921
+1961,97,Uniontown,14,Not Named,No Notes,39.900076,-79.7164326,1925
+1962,97,Ellwood City,15,Not Named,No Notes,40.861111,-80.284722,1924
+1963,97,Sharpsburg,18,Not Named,No Notes,40.495278,-79.928889,1927
+1964,97,Latrobe,46,Not Named,No Notes,40.31494,-79.381171,1927
+1966,97,New Florence,51,Not Named,No Notes,40.379722,-79.074722,1927
+1967,97,Allen,67,Not Named,No Notes,40.228056,-76.902222,1927
+1968,97,Finleyville,134,Not Named,No Notes,40.252778,-80.003611,1927
+1969,97,Franklin,164,Not Named,No Notes,41.397778,-79.831389,1927
+1970,97,Ambridge,178,Not Named,No Notes,40.593056,-80.225278,1927
+1971,97,Bradford,223,Lester C. Kiser Klan,No Notes,41.9564953,-78.649163,1927
+1972,97,Burrell,229,Not Named,No Notes,40.583889,-79.721944,1927
+1973,97,Lawrence,251,Central Klan,No Notes,40.306389,-80.121944,1927
+1974,97,Hanover,307,Not Named,No Notes,39.807222,-76.984722,1934
+1975,97,Dover,308,Garfield Klan,No Notes,40.003889,-76.849444,1934
+1976,99,Jefferson,7,Swamp Fox Klan,No Notes,34.651667,-80.389444,1922
+1977,99,Wagener,24,Not Named,No Notes,33.652778,-81.364167,1922
+1978,99,Hartsville,83,Not Named,No Notes,34.369444,-80.080833,1927
+1979,99,Aiken,97,Not Named,No Notes,33.5604168,-81.7195533,1931
+1980,100,Lead,4,Mile Hi Klan,No Notes,44.350833,-103.765833,1926
+1981,101,Kingsport,80,Not Named,No Notes,36.533333,-82.55,1925
+1982,102,Port Arthur,25,Dick Dowling Klan,No Notes,29.885,-93.94,1922
+1983,102,Temple,46,Knobe Kreek Klan,Could also be number 64.,31.093611,-97.362222,1921
+1984,102,Teague,68,Not Named,No Notes,31.6275,-96.283333,1922
+1985,102,Longview,77,Gregg County Klan,No Notes,32.509167,-94.753889,1922
+1986,102,Rockdale,115,Not Named,No Notes,30.654722,-97.0075,1922
+1987,102,Wills Point,128,Free State Klan,No Notes,32.708611,-96.006389,1922
+1988,102,Merkel,137,Not Named,No Notes,32.468333,-100.013333,1923
+1989,102,Vernon,148,Not Named,No Notes,34.151111,-99.290556,1922
+1990,102,Denton,156,Not Named,No Notes,33.216389,-97.129167,1925
+1991,102,Georgetown,178,Not Named,No Notes,30.651111,-97.681389,1924
+1992,102,Bonham,194,Not Named,No Notes,33.583889,-96.181667,1922
+1993,102,Winters,273,Not Named,No Notes,31.9565343,-99.962313,1925
+1994,102,Anson,284,Elisha Anson Klan,No Notes,32.755556,-99.896389,1923
+1995,102,Alpine,315,Jeff Davis Klan,No Notes,30.360833,-103.665556,1924
+1996,102,Amarillo,360,Ama Klan,Ad calls for ex-members to come to a BBQ,35.2219971,-101.8312969,1937
+1997,105,Pocahontas,39,Not Named,No Notes,37.305,-81.339722,1923
+1998,106,Cowlitz County,18,Not Named,No Notes,46.19,-122.68,1925
+1999,106,Centralia,24,Not Named,No Notes,46.720556,-122.961389,1928
+2000,108,Ellsworth,89,Not Named,No Notes,44.7321897,-92.4874124,1929
+2001,107,Princeton,6,Not Named,No Notes,37.368056,-81.095833,1923
+2002,107,Logan,22,Old Glory Klan,No Notes,37.8487147,-81.9934581,1928
+2003,107,Northfork,31,Not Named,No Notes,37.416667,-81.431667,1923
+2004,107,St. Albans,47,Not Named,No Notes,38.380278,-81.819722,1925
+2005,107,Mullens,65,Wyoming County Klan,No Notes,37.5831698,-81.3803804,1925
+2006,107,Matoaka,121,East River Klan,No Notes,37.4201162,-81.2431548,1932
+2007,63,Miami,12,Kactus Klan,No Notes,33.396667,-110.871667,1923
+2008,82,Jackson,22,Not Named,No Notes,32.298889,-90.184722,1926
+2009,64,Vallejo,19,Not Named,No Notes,38.113056,-122.235833,1930
+2010,64,Napa,38,Not Named,No Notes,38.304722,-122.298889,1930
+2011,64,Alameda,39,Not Named,No Notes,37.7652065,-122.2416355,1930
+2012,64,San Francisco,61,Not Named,No Notes,37.7749295,-122.4194155,1930
+2013,64,Pacific Grove,82,Not Named,No Notes,36.617778,-121.916667,1930
+2014,64,Antioch,87,Not Named,No Notes,38.005,-121.805833,1930
+2015,64,San Jose,88,Not Named,No Notes,37.3382082,-121.8863286,1930
+2016,64,Oakland,110,Not Named,No Notes,37.8043637,-122.2711137,1930
+2017,64,Richmond,121,Not Named,No Notes,37.935833,-122.347778,1930
+2018,65,Longmont,2,Not Named,No Notes,40.171667,-105.109167,1927
+2019,65,Boulder,3,Not Named,No Notes,40.027435,-105.251945,1927
+2020,65,La Junta,4,Not Named,No Notes,37.981389,-103.5475,1927
+2021,65,Hot Sulphur,6,Not Named,No Notes,40.073333,-106.101389,1927
+2022,65,Littleton,9,Not Named,No Notes,39.599722,-105.010833,1927
+2023,65,Sterling,10,Not Named,No Notes,40.625556,-103.211667,1927
+2024,65,Walsenburg,12,Not Named,No Notes,37.626667,-104.783889,1927
+2025,65,Wray,13,Not Named,No Notes,40.076667,-102.225833,1927
+2026,65,Holly,14,Not Named,No Notes,38.054444,-102.125278,1927
+2027,65,Trinidad,15,Not Named,No Notes,37.170833,-104.506389,1927
+2028,65,Fowler,17,Not Named,No Notes,38.128343,-104.025,1927
+2029,65,Fort Collins,18,Not Named,No Notes,40.559167,-105.078056,1927
+2030,65,Manzanola,20,Not Named,No Notes,38.109167,-103.867778,1927
+2031,65,Lafayette,22,Not Named,No Notes,39.995,-105.100556,1927
+2032,65,Salida,23,Not Named,No Notes,38.531389,-105.996111,1927
+2033,65,Ordway,24,Not Named,No Notes,38.219722,-103.757222,1927
+2034,65,Trinidad,25,Not Named,No Notes,37.170833,-104.506389,1927
+2035,65,Byers,27,Not Named,No Notes,39.710556,-104.221667,1927
+2036,65,Grand Junction,35,Not Named,No Notes,39.066667,-108.566667,1927
+2037,65,Delta,38,Not Named,No Notes,38.757372,-108.087959,1927
+2038,65,Holyoke,43,Not Named,No Notes,40.581944,-102.301111,1927
+2039,65,Rifle,45,Not Named,No Notes,39.536944,-107.782778,1927
+2040,65,Paonia,46,Not Named,No Notes,38.8675,-107.5925,1927
+2041,65,Fort Morgan,48,Not Named,No Notes,40.253333,-103.799167,1927
+2042,65,Akron,49,Not Named,No Notes,40.164382,-103.220685,1927
+2043,65,Haxtun,50,Not Named,No Notes,40.641667,-102.628889,1927
+2044,65,Fairplay,51,Not Named,No Notes,39.224444,-105.998056,1927
+2045,65,Arvada,53,Not Named,No Notes,39.833728,-105.150306,1927
+2046,65,Elizabeth,60,Not Named,No Notes,39.361015,-104.606172,1927
+2047,65,Yampa,63,Not Named,No Notes,40.153333,-106.908333,1927
+2048,65,Castle Rock,65,Not Named,No Notes,39.376089,-104.853487,1927
+2049,65,Center,68,Not Named,No Notes,37.751351,-106.110195,1927
+2050,65,Mancos,71,Not Named,No Notes,37.345556,-108.2925,1927
+2051,65,Breckinridge,72,Not Named,No Notes,39.499619,-106.043292,1927
+2052,65,Meeker,75,Not Named,No Notes,40.039444,-107.910833,1927
+2053,65,Eagle,78,Not Named,No Notes,39.634496,-106.816402,1927
+2061,61,Birmingham,1,Not Named,No Notes,33.5206608,-86.80249,1916
+2062,61,Montgomery,3,Not Named,No Notes,32.3668052,-86.2999689,1918
+2063,61,Anniston,4,Not Named,No Notes,33.6598257,-85.8316318,1919
+2064,69,Jacksonville,1,Not Named,No Notes,30.3321838,-81.655651,1920
+2065,70,Atlanta,1,Not Named,No Notes,33.7489954,-84.3879824,1915
+2066,70,Columbus,29,Not Named,No Notes,32.4609764,-84.9877094,1919
+2067,70,Macon,33,Not Named,No Notes,32.834722,-83.651667,1920
+2068,70,Savannah,41,Not Named,No Notes,32.016667,-81.116667,1920
+2069,76,New Orleans,1,Not Named,No Notes,29.9510658,-90.0715323,1920
+2070,102,Houston,1,Not Named,No Notes,29.7604267,-95.3698028,1920
+2071,105,Richmond,1,Not Named,No Notes,37.5407246,-77.4360481,1920
